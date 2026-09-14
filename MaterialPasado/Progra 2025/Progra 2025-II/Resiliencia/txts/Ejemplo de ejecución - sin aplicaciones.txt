@@ -1,0 +1,4 @@
+Ingrese el nombre de la apliación: fin
+========================================
+No hubo contraseña que califique como robusta
+========================================

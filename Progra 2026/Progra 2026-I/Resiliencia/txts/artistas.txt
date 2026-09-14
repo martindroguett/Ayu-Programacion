@@ -1,0 +1,20 @@
+A01,Taylor Swift,USA
+A02,Coldplay,UK
+A03,Karol G,Colombia
+A04,The Weeknd,Canada
+A05,Imagine Dragons,USA
+A06,Shakira,Colombia
+A07,Ed Sheeran,UK
+A08,Dua Lipa,UK
+A09,Bad Bunny,Puerto Rico
+A10,Arctic Monkeys,UK
+A11,Adele,UK
+A12,Bruno Mars,USA
+A13,Linkin Park,USA
+A14,Rosalia,España
+A15,Drake,Canada
+A16,Billie Eilish,USA
+A17,Muse,UK
+A18,Metallica,USA
+A19,Feid,Colombia
+A20,Oasis,UK

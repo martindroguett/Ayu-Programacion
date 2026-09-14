@@ -1,0 +1,17 @@
+Aston Martin,Carlos Gomez,1:19,1:21,1:23,1:20,1:22
+Ferrari,Diego Rojas,1:18,1:20,1:21,1:22,1:23
+Mercedes,Jose Ramirez,1:19,1:20,1:22,1:22,1:24
+McLaren,Felipe Navarro,1:19,1:21,1:22,1:20,1:23
+Red Bull,Ricardo Fuentes,1:18,1:19,1:21,1:22,1:22
+Alpine,Adrian Ponce,1:19,1:22,1:20,1:21,1:23
+Aston Martin,Javier Torres,1:21,1:20,1:22,1:23,1:24
+Ferrari,Matias Vega,1:18,1:20,1:21,1:23,1:22
+Mercedes,Daniel Castro,1:18,1:19,1:20,1:22,1:23
+McLaren,Tomas Gil,1:19,1:21,1:23,1:22,1:24
+Red Bull,Pablo Suarez,1:19,1:20,1:22,1:21,1:23
+Alpine,David Molina,1:19,1:21,1:22,1:23,1:20
+Aston Martin,Andres Morales,1:19,1:20,1:21,1:22,1:23
+Ferrari,Santiago Lopez,1:19,1:20,1:22,1:23,1:21
+McLaren,Marcos Diaz,1:18,1:19,1:21,1:23,1:22
+Red Bull,Ernesto Vidal,1:18,1:19,1:21,1:22,1:23
+Aston Martin,Luis Herrera,1:20,1:22,1:23,1:21,1:25

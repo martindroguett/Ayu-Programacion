@@ -1,0 +1,209 @@
+=== Batalla 1 ===
+Tablero inicial de Alice:
+1 1 - - -
+- 1 1 - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+
+Tablero inicial de Bob:
+1 1 - - 1
+- 1 1 - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+
+Movimiento 1: Jugador Alice usó 'normal' en (0,0), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 - - 1
+- 1 1 - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+
+Movimiento 2: Jugador Bob usó 'normal' en (0,0), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 - - -
+- 1 1 - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+
+Movimiento 3: Jugador Alice usó 'lineal' en (1,1), impactos: 2
+Tablero objetivo tras movimiento:
+X 1 - - 1
+O X X - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+
+Movimiento 4: Jugador Bob usó 'lineal' en (1,1), impactos: 2
+Tablero objetivo tras movimiento:
+X 1 - - -
+O X X - -
+- - - 1 -
+- 1 - - -
+- - - - 1
+
+Movimiento 5: Jugador Alice usó 'normal' en (4,4), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 - - 1
+O X X - -
+- - - 1 -
+- 1 - - -
+- - - - X
+
+Movimiento 6: Jugador Bob usó 'normal' en (4,4), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 - - -
+O X X - -
+- - - 1 -
+- 1 - - -
+- - - - X
+
+=== Resultado de la batalla ===
+Alice: impactos = 4, trampas = 0
+Bob: impactos = 4, trampas = 0
+Resultado: Empate
+
+=== Batalla 2 ===
+Tablero inicial de Charlie:
+1 1 1 1
+- 1 - -
+- - 1 -
+- - - 1
+
+Tablero inicial de David:
+1 - - 1
+- 1 - -
+- 1 - -
+1 - - 1
+
+Movimiento 1: Jugador Charlie usó 'normal' en (0,0), impactos: 1
+Tablero objetivo tras movimiento:
+X - - 1
+- 1 - -
+- 1 - -
+1 - - 1
+
+Movimiento 2: Jugador David usó 'normal' en (0,0), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 1 1
+- 1 - -
+- - 1 -
+- - - 1
+
+Movimiento 3: Jugador Charlie usó 'normal' en (1,1), impactos: 1
+Tablero objetivo tras movimiento:
+X - - 1
+- X - -
+- 1 - -
+1 - - 1
+
+Movimiento 4: Jugador David usó 'normal' en (1,1), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 1 1
+- X - -
+- - 1 -
+- - - 1
+
+Movimiento 5: Jugador Charlie usó 'normal' en (2,2), impactos: 0
+Tablero objetivo tras movimiento:
+X - - 1
+- X - -
+- 1 O -
+1 - - 1
+
+=== Resultado de la batalla ===
+Charlie: impactos = 2, trampas = 0
+David: impactos = 2, trampas = 0
+Resultado: Empate
+
+=== Batalla 3 ===
+Tablero inicial de Eve:
+1 1 1
+1 - 1
+1 1 1
+
+Tablero inicial de Frank:
+1 1 1
+1 - 1
+1 1 1
+
+Movimiento 1: Jugador Eve usó 'cruz' en (1,1), impactos: 4
+Tablero objetivo tras movimiento:
+1 X 1
+X O X
+1 X 1
+
+Movimiento 2: Jugador Eve intentó usar más de un tipo especial! (Trampa)
+Movimiento 3: Jugador Frank usó 'lineal' en (0,0), impactos: 2
+Tablero objetivo tras movimiento:
+X X 1
+1 - 1
+1 1 1
+
+Movimiento 4: Jugador Frank intentó usar más de un tipo especial! (Trampa)
+Movimiento 5: Jugador Eve intentó usar más de un tipo especial! (Trampa)
+Movimiento 6: Jugador Frank usó 'normal' en (2,2), impactos: 1
+Tablero objetivo tras movimiento:
+X X 1
+1 - 1
+1 1 X
+
+Movimiento 7: Jugador Eve usó 'normal' en (5,5), impactos: 0
+Tablero objetivo tras movimiento:
+1 X 1
+X O X
+1 X 1
+
+=== Resultado de la batalla ===
+Eve: impactos = 4, trampas = 2
+Frank: impactos = 3, trampas = 1
+Ganador por daño: Eve
+
+=== Batalla 4 ===
+Tablero inicial de Gina:
+1 1 1 1 1
+1 - - - 1
+1 - 1 - 1
+1 - - - 1
+1 1 1 1 1
+
+Tablero inicial de Harry:
+1 1 1 1 1
+1 - - - 1
+1 - 1 - 1
+1 - - - 1
+1 1 1 1 1
+
+Movimiento 1: Jugador Gina usó 'cruz' en (2,2), impactos: 5
+Tablero objetivo tras movimiento:
+1 1 X 1 1
+1 - O - 1
+X O X O X
+1 - O - 1
+1 1 X 1 1
+
+Movimiento 2: Jugador Harry usó 'x' en (0,0), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 1 1 1
+1 O - - 1
+1 - 1 - 1
+1 - - - 1
+1 1 1 1 1
+
+Movimiento 3: Jugador Gina intentó usar más de un tipo especial! (Trampa)
+Movimiento 4: Jugador Harry intentó usar más de un tipo especial! (Trampa)
+Movimiento 5: Jugador Gina usó 'normal' en (1,1), impactos: 0
+Tablero objetivo tras movimiento:
+1 1 X 1 1
+1 O O - 1
+X O X O X
+1 - O - 1
+1 1 X 1 1
+
+=== Resultado de la batalla ===
+Gina: impactos = 5, trampas = 1
+Harry: impactos = 1, trampas = 1
+Ganador por daño: Gina

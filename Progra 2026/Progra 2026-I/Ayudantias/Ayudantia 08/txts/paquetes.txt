@@ -1,0 +1,34 @@
+PK-01,Alana Flores,Poción para no reprobar programación
+PK-02,Alonso Alarcón,Set de tazas de gatitos
+PK-03,Antonia Neira,Pañuelos para época de certamen
+PK-04,Bryan Bugueño,Suplemento alimenticio para el cansancio mental
+PK-05,Carla Díaz,Teclado mecánico ultra ruidoso
+PK-06,Catalina Cortés,Cafetera industrial de bolsillo
+PK-07,Catalina Álvarez,Almohada con forma de libro
+PK-08,Diego Donoso,Saco de comida para perritos
+PK-09,Catalina,Gonzalez,Procesador Gamer 4K-HD
+PK-10,Felipe Gómez,Audífonos con cancelación de ruido
+PK-11,Fernando Pino,Bebida energética sabor a exito
+PK-12,Fiorella Molina,Manual de cómo programar en una noche
+PK-13,Franco Cárdenas,Guitarra eléctrica insonora
+PK-14,Javier Cáceres,Tazón gigante para café
+PK-15,Mariam Pinto,Capa de invisibilidad
+PK-16,Mateo Herrera,Zapatillas con resortes
+PK-17,Matías Donoso,Mini ventilador para el celular
+PK-18,Maximiliano Luna,Luz led espantacucos
+PK-19,Maximiliano Rojas,Libro de chistes malos de computación
+PK-20,Montserrat Zepeda,Paraguas con luces de neón
+PK-21,Natalia Yañez,Peluche con forma de EricRoss
+PK-22,Nicol Campos,Lupa encontradora de errores de codigo
+PK-23,Nicolás Cerda,Silla con masajeador integrado
+PK-24,Nicolás Robles,Pintura fluorescente
+PK-25,Nicolás Tapia,Saco de dormir térmico
+PK-26,Renato Points,Reloj despertador que lanza agua
+PK-27,Rosario Toro,Calculadora científica con ia
+PK-28,Tiare Castillo,Sombrero seleccionador
+PK-29,Valentina Abdala,Peluche gigante de Paolini
+PK-30,Valery Sáez,Set de stickers de patitos
+PK-31,Vicente Morales,Té relajante sabor "Ya no puedo más"
+PK-32,Vicente Guerrero,Puntero láser para gatos hiperactivos
+PK-33,Ricardo Bugueño,Set de legos gigantes de Star Wars
+PK-34,Esteban Troncoso,Mouse gamer con luces

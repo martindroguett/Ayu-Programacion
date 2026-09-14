@@ -1,0 +1,20 @@
+BXTP89,EST-05,La Serena,Lunes,20.0
+FGHK21,EST-05,La Serena,Martes,15.0
+ZQRM33,EST-05,La Serena,Viernes,55.0
+LKPO12,EST-05,La Serena,Viernes,40.0
+QWER88,EST-12,Coquimbo,Lunes,18.0
+MNBV23,EST-12,Coquimbo,Lunes,12.0
+CDRW45,EST-12,Coquimbo,Martes,28.0
+VNTS76,EST-12,Coquimbo,Miercoles,16.0
+JHYU90,EST-12,Coquimbo,Miercoles,10.0
+ASDF56,EST-12,Coquimbo,Jueves,24.0
+BXTP89,EST-09,Ovalle,Martes,25.0
+FGHK21,EST-09,Ovalle,Miercoles,13.0
+ZQRM33,EST-09,Ovalle,Miercoles,10.0
+LKPO12,EST-09,Ovalle,Domingo,20.0
+MNBV23,EST-14,Coquimbo,Lunes,15.0
+QWER88,EST-14,Coquimbo,Sabado,12.0
+CDRW45,EST-03,La Serena,Lunes,12.0
+VNTS76,EST-03,La Serena,Jueves,10.0
+JHYU90,EST-07,Vicuña,Jueves,10.0
+ASDF56,EST-07,Vicuña,Domingo,12.0

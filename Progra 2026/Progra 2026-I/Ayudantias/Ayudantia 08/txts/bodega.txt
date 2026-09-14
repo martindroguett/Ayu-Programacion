@@ -1,0 +1,6 @@
+Monitor,8
+Teclado,15
+Mouse,4
+Pilas,25
+Audifonos,3
+Parlante,12

@@ -1,0 +1,19 @@
+Laboratorio X,dificil,Matias,25,2,6,3200
+Laboratorio X,dificil,Tomas,23,3,5,-1
+La Mansion del Misterio,facil,Diego,19,0,8,2400
+Laboratorio X,dificil,Florencia,23,2,6,2900
+El Templo Perdido,intermedio,Camila,21,1,7,-1
+La Mansion del Misterio,facil,Benjamin,18,1,7,2600
+Laboratorio X,dificil,Isidora,22,2,7,3100
+La Mansion del Misterio,facil,Javiera,19,1,8,2400
+El Templo Perdido,intermedio,Vicente,19,3,6,3400
+La Mansion del Misterio,facil,Ignacia,20,0,9,2300
+El Templo Perdido,intermedio,Antonia,20,2,6,-1
+La Mansion del Misterio,facil,Constanza,21,1,8,2600
+Laboratorio X,dificil,Daniela,24,3,5,3600
+El Templo Perdido,intermedio,Lucas,24,3,5,3300
+La Mansion del Misterio,facil,Martina,21,1,8,-1
+Laboratorio X,dificil,Renata,22,1,7,2700
+El Templo Perdido,intermedio,Agustin,25,2,6,-1
+El Templo Perdido,intermedio,Nicolas,23,2,7,3000
+Laboratorio X,dificil,Paula,26,2,6,-1

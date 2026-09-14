@@ -1,0 +1,4 @@
+Illapel,35.0
+Vicuña,20.0
+Los Vilos,20.5
+La Serena,13.0

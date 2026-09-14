@@ -1,0 +1,8 @@
+EmpanadaDeQueso;1;0;1;1;0;1;1
+Choripanes;0;1;1;0;0;1;1
+Foo;1;1;0;1;1;0;1
+EmpanadaDePollo;0;0;1;1;0;1;1
+TimeLimitExceeded;1;0;0;0;0;0;0
+CPlusPlus;1;0;0;1;0;0;1
+Pythons;0;1;0;0;0;0;1
+JavaCoders;1;1;1;1;1;1;0

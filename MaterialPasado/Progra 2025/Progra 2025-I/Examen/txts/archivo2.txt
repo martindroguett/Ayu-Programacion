@@ -1,0 +1,501 @@
+FL_DATE;ORIGIN_AIRPORT_ID;ORIGIN;ORIGIN_CITY_NAME;ORIGIN_STATE_ABR;DEST_AIRPORT_ID;DEST;DEST_CITY_NAME;DEST_STATE_ABR;DEP_TIME;DEP_DELAY;ARR_TIME;ARR_DELAY
+agosto;13930;ORD;Chicago, IL;IL;13230;MDT;Harrisburg, PA;PA;2249;270;213;302
+junio;13796;OAK;Oakland, CA;CA;12954;LGB;Long Beach, CA;CA;1549;-1;1707;-3
+enero;14843;SJU;San Juan, PR;PR;10821;BWI;Baltimore, MD;MD;1741;46;2133;33
+mayo;11057;CLT;Charlotte, NC;NC;10154;ACK;Nantucket, MA;MA;1233;21;1433;4
+diciembre;11298;DFW;Dallas/Fort Worth, TX;TX;11921;GJT;Grand Junction, CO;CO;834;-9;1102;60
+agosto;13930;ORD;Chicago, IL;IL;14524;RIC;Richmond, VA;VA;1812;-3;2105;-18
+febrero;12266;IAH;Houston, TX;TX;11292;DEN;Denver, CO;CO;1343;28;1508;28
+octubre;10721;BOS;Boston, MA;MA;10431;AVL;Asheville, NC;NC;1114;-1;1321;-18
+septiembre;11986;GRR;Grand Rapids, MI;MI;13930;ORD;Chicago, IL;IL;1432;156;1446;161
+julio;14869;SLC;Salt Lake City, UT;UT;14570;RNO;Reno, NV;NV;2325;0;2348;-7
+enero;15304;TPA;Tampa, FL;FL;14100;PHL;Philadelphia, PA;PA;1828;490;2054;479
+diciembre;11996;GSP;Greer, SC;SC;11298;DFW;Dallas/Fort Worth, TX;TX;632;31;805;31
+abril;11612;EVV;Evansville, IN;IN;14761;SFB;Sanford, FL;FL;1619;42;1916;43
+julio;13232;MDW;Chicago, IL;IL;14100;PHL;Philadelphia, PA;PA;1741;1;2048;13
+abril;11638;FAT;Fresno, CA;CA;13930;ORD;Chicago, IL;IL;37;38;603;13
+julio;10431;AVL;Asheville, NC;NC;14986;SRQ;Sarasota/Bradenton, FL;FL;843;-2;1019;-7
+julio;14893;SAN;Sacramento, CA;CA;14771;PHX;San Francisco, CA;CA;1423;-3;1509;-26
+octubre;10408;ATW;Appleton, WI;WI;14082;PGD;Punta Gorda, FL;FL;1603;36;2007;41
+diciembre;11697;FLL;Fort Lauderdale, FL;FL;13232;MDW;Chicago, IL;IL;2006;21;2212;22
+mayo;10980;CHA;Chattanooga, TN;TN;13303;MIA;Miami, FL;FL;700;-9;905;-15
+julio;14679;SAN;San Diego, CA;CA;14107;PHX;Phoenix, AZ;AZ;2002;17;2120;20
+octubre;11278;DCA;Washington, DC;VA;10994;CHS;Charleston, SC;SC;1953;-9;2141;-15
+enero;12892;LAX;Los Angeles, CA;CA;14314;PVU;Provo, UT;UT;52;278;332;279
+junio;13796;OAK;Oakland, CA;CA;12892;LAX;Los Angeles, CA;CA;1337;7;1444;-6
+diciembre;14747;SEA;Seattle, WA;WA;12441;JAC;Jackson, WY;WY;852;-13;1139;-26
+junio;10397;ATL;Atlanta, GA;GA;10529;BDL;Hartford, CT;CT;1826;-4;2042;-14
+junio;12478;JFK;New York, NY;NY;14747;SEA;Seattle, WA;WA;647;-3;958;-7
+febrero;14683;SAT;San Antonio, TX;TX;13930;ORD;Chicago, IL;IL;814;134;1104;131
+diciembre;10154;SEA;Nantucket, MA;MA;13930;JAC;Chicago, IL;IL;1335;41;1532;37
+octubre;15304;TPA;Tampa, FL;FL;13296;MHT;Manchester, NH;NH;1501;-4;1745;-20
+abril;15096;SYR;Syracuse, NY;NY;14986;SRQ;Sarasota/Bradenton, FL;FL;1335;-7;1631;-2
+julio;13487;MSP;Minneapolis, MN;MN;14524;RIC;Richmond, VA;VA;2003;-2;2330;-15
+septiembre;13158;MAF;Midland/Odessa, TX;TX;14107;PHX;Phoenix, AZ;AZ;737;0;728;-1
+febrero;11057;SAT;Charlotte, NC;NC;13931;ORD;Norfolk, VA;VA;855;-5;959;-15
+enero;12892;LAX;Los Angeles, CA;CA;12478;JFK;New York, NY;NY;41;56;900;39
+diciembre;11292;DEN;Denver, CO;CO;11603;EUG;Eugene, OR;OR;1125;-5;1306;1
+abril;14107;PHX;Phoenix, AZ;AZ;13485;MSN;Madison, WI;WI;951;-5;1504;-14
+marzo;10431;AVL;Asheville, NC;NC;11624;EYW;Key West, FL;FL;1550;55;1751;57
+marzo;12889;LAS;Las Vegas, NV;NV;12339;IND;Indianapolis, IN;IN;1224;-6;1917;7
+noviembre;12892;LAX;Los Angeles, CA;CA;12889;LAS;Las Vegas, NV;NV;1858;-7;2000;-26
+abril;15376;TUS;Tucson, AZ;AZ;13930;ORD;Chicago, IL;IL;1230;17;1738;-7
+mayo;14761;SFB;Sanford, FL;FL;11423;DSM;Des Moines, IA;IA;1543;11;1733;9
+octubre;14107;PHX;Phoenix, AZ;AZ;14908;SNA;Santa Ana, CA;CA;1320;0;1421;-9
+abril;11540;ELP;El Paso, TX;TX;14679;SAN;San Diego, CA;CA;1402;-3;1437;-13
+mayo;10693;BNA;Nashville, TN;TN;10849;BZN;Bozeman, MT;MT;1329;-3;1609;4
+julio;12278;ICT;Wichita, KS;KS;14112;PIE;St. Petersburg, FL;FL;1000;-2;1326;-12
+octubre;14122;PIT;Pittsburgh, PA;PA;12478;JFK;New York, NY;NY;1141;1;1314;-16
+mayo;14679;SAN;San Diego, CA;CA;13796;OAK;Oakland, CA;CA;842;-3;1009;-1
+febrero;13232;SAT;Chicago, IL;IL;11481;ORD;Panama City, FL;FL;800;23;957;-13
+;13486;MSO;Missoula, MT;MT;14771;SFO;San Francisco, CA;CA;1621;-2;1749;-1
+febrero;14679;SAN;San Diego, CA;CA;15023;STS;Santa Rosa, CA;CA;1511;-4;1649;-12
+junio;14252;PSC;Pasco/Kennewick/Richland, WA;WA;14679;SAN;San Diego, CA;CA;1206;-5;1448;6
+diciembre;14747;SEA;Seattle, WA;WA;13198;MCI;Kansas City, MO;MO;1830;-5;2347;-12
+noviembre;12953;LGA;New York, NY;NY;13933;ORH;Worcester, MA;MA;1342;22;1445;19
+marzo;11066;CMH;Columbus, OH;OH;15304;TPA;Tampa, FL;FL;1553;3;1805;10
+septiembre;12451;JAX;Jacksonville, FL;FL;13931;ORF;Norfolk, VA;VA;945;-1;1135;14
+diciembre;10158;ACY;Atlantic City, NJ;NJ;15304;TPA;Tampa, FL;FL;1705;20;1930;20
+noviembre;11292;DEN;Denver, CO;CO;10431;AVL;Asheville, NC;NC;1151;-10;1638;-21
+febrero;14771;SFO;San Francisco, CA;CA;14100;PHL;Philadelphia, PA;PA;2333;3;745;-18
+noviembre;14908;SNA;Santa Ana, CA;CA;11057;CLT;Charlotte, NC;NC;2103;-12;429;-36
+mayo;11986;GRR;Grand Rapids, MI;MI;11057;CLT;Charlotte, NC;NC;631;-2;819;-10
+junio;12889;LAS;Las Vegas, NV;NV;10158;ACY;Atlantic City, NJ;NJ;1631;-25;7;-34
+agosto;11618;EWR;Newark, NJ;NJ;10257;ALB;Albany, NY;NY;907;21;1012;6
+mayo;10792;BUF;Buffalo, NY;NY;12478;JFK;New York, NY;NY;838;-1;959;0
+noviembre;14771;SFO;San Francisco, CA;CA;10140;ABQ;Albuquerque, NM;NM;1321;121;1636;109
+enero;14512;RFD;Rockford, IL;IL;14761;SFB;Sanford, FL;FL;1835;12;2159;5
+octubre;11618;EWR;Newark, NJ;NJ;13198;MCI;Kansas City, MO;MO;927;12;1157;31
+abril;11278;DCA;Washington, DC;VA;13541;MVY;Martha's Vineyard, MA;MA;1455;-9;1613;-36
+marzo;14307;PVD;Providence, RI;RI;10821;BWI;Baltimore, MD;MD;1638;13;1746;1
+agosto;13204;MCO;Orlando, FL;FL;12264;IAD;Washington, DC;VA;1629;6;1829;-12
+junio;14893;SMF;Sacramento, CA;CA;10423;AUS;Austin, TX;TX;814;-8;1324;-28
+mayo;13232;MDW;Chicago, IL;IL;13931;ORF;Norfolk, VA;VA;1908;8;2153;-7
+agosto;11278;DCA;Washington, DC;VA;10721;BOS;Boston, MA;MA;2100;240;2243;250
+febrero;12451;SFO;Jacksonville, FL;FL;11618;PHL;Newark, NJ;NJ;1958;-2;2240;19
+diciembre;12892;LAX;Los Angeles, CA;CA;14730;SDF;Louisville, KY;KY;846;26;1538;7
+julio;13211;MCW;Mason City, IA;IA;11725;FOD;Fort Dodge, IA;IA;904;-10;936;-16
+marzo;10990;CHO;Charlottesville, VA;VA;12953;LGA;New York, NY;NY;1334;-6;1449;-20
+mayo;13796;OAK;Oakland, CA;CA;11618;EWR;Newark, NJ;NJ;2028;-7;533;25
+agosto;13232;MDW;Chicago, IL;IL;13198;MCI;Kansas City, MO;MO;1724;74;1842;72
+octubre;10140;ABQ;Albuquerque, NM;NM;14057;PDX;Portland, OR;OR;1857;17;2048;20
+octubre;11057;CLT;Charlotte, NC;NC;14869;SLC;Salt Lake City, UT;UT;728;13;947;0
+enero;13930;ORD;Chicago, IL;IL;11423;DSM;Des Moines, IA;IA;1304;0;1505;33
+julio;15096;SYR;Syracuse, NY;NY;11697;FLL;Fort Lauderdale, FL;FL;1936;29;2245;41
+agosto;11278;DCA;Washington, DC;VA;11617;EWN;New Bern/Morehead/Beaufort, NC;NC;1552;262;1705;263
+diciembre;10821;BWI;Baltimore, MD;MD;14683;SAT;San Antonio, TX;TX;2123;4;2353;-6
+febrero;13891;SFO;Ontario, CA;CA;13232;PHL;Chicago, IL;IL;1210;5;1838;38
+febrero;13891;ONT;Ontario, CA;CA;13204;MCO;Orlando, FL;FL;2152;48;544;47
+mayo;10431;AVL;Asheville, NC;NC;14107;PHX;Phoenix, AZ;AZ;1350;7;1432;-8
+noviembre;12758;KOA;Kona, HI;HI;14771;SFO;San Francisco, CA;CA;1515;135;2302;126
+enero;15356;TTN;Trenton, NJ;NJ;11057;CLT;Charlotte, NC;NC;1804;78;1957;77
+;14122;PIT;Pittsburgh, PA;PA;11433;DTW;Detroit, MI;MI;1404;0;1508;-5
+febrero;10980;CHA;Chattanooga, TN;TN;11278;DCA;Washington, DC;VA;721;-3;926;17
+enero;10299;ANC;Anchorage, AK;AK;12266;IAH;Houston, TX;TX;2035;-3;602;-25
+diciembre;14025;PBG;Plattsburgh, NY;NY;14761;SFB;Sanford, FL;FL;938;-13;1243;-1
+diciembre;12264;IAD;Washington, DC;VA;12478;JFK;New York, NY;NY;1124;14;1252;11
+mayo;14314;PVU;Provo, UT;UT;14908;SNA;Santa Ana, CA;CA;1313;37;1354;36
+diciembre;11066;CMH;Columbus, OH;OH;13303;MIA;Miami, FL;FL;635;-3;909;-9
+septiembre;10693;BNA;Nashville, TN;TN;14100;PHL;Philadelphia, PA;PA;1237;104;1614;136
+agosto;11298;DFW;Dallas/Fort Worth, TX;TX;10299;ANC;Anchorage, AK;AK;1650;53;2014;25
+mayo;11292;DEN;Denver, CO;CO;12156;HLN;Helena, MT;MT;2048;99;2252;102
+junio;11721;FNT;Flint, MI;MI;10693;BNA;Nashville, TN;TN;847;-13;920;-14
+agosto;14679;SAN;San Diego, CA;CA;13830;OGG;Kahului, HI;HI;1010;60;1300;50
+febrero;15323;TRI;Bristol/Johnson City/Kingsport, TN;TN;10397;ATL;Atlanta, GA;GA;1438;-19;1542;-32
+julio;11193;CVG;Cincinnati, OH;KY;11624;EYW;Key West, FL;FL;623;-7;848;-12
+abril;10423;AUS;Austin, TX;TX;11066;CMH;Columbus, OH;OH;1439;19;1813;18
+julio;14730;SDF;Louisville, KY;KY;11057;CLT;Charlotte, NC;NC;830;6;1004;-2
+julio;12945;LEX;Lexington, KY;KY;14761;SFB;Sanford, FL;FL;2151;-5;2400;16
+febrero;14112;PIE;St. Petersburg, FL;FL;14108;PIA;Peoria, IL;IL;604;-16;728;-19
+mayo;14683;SAT;San Antonio, TX;TX;14771;SFO;San Francisco, CA;CA;746;-4;909;-17
+enero;12892;LAX;Los Angeles, CA;CA;12173;HNL;Honolulu, HI;HI;1302;2;1544;4
+mayo;14679;SAN;San Diego, CA;CA;13495;MSY;New Orleans, LA;LA;935;0;1516;6
+diciembre;12953;LGA;New York, NY;NY;12264;IAD;Washington, DC;VA;1856;-3;2017;-21
+octubre;12889;LAS;Las Vegas, NV;NV;14761;SFB;Sanford, FL;FL;2341;-3;705;-7
+noviembre;11624;EYW;Key West, FL;FL;10431;AVL;Asheville, NC;NC;1729;-15;1952;3
+febrero;10620;BIL;Billings, MT;MT;11292;DEN;Denver, CO;CO;1752;-8;1945;0
+agosto;14100;PHL;Philadelphia, PA;PA;10423;AUS;Austin, TX;TX;1907;-3;2207;6
+marzo;12266;IAH;Houston, TX;TX;15024;STT;Charlotte Amalie, VI;VI;950;1;1548;14
+octubre;15016;STL;St. Louis, MO;MO;11433;DTW;Detroit, MI;MI;1035;-12;1300;-15
+noviembre;10397;ATL;Atlanta, GA;GA;11823;FWA;Fort Wayne, IN;IN;1517;-5;1728;14
+marzo;14108;PIA;Peoria, IL;IL;13930;ORD;Chicago, IL;IL;650;-10;741;-23
+febrero;12339;IND;Indianapolis, IN;IN;10397;ATL;Atlanta, GA;GA;1700;-4;1923;40
+noviembre;14843;SJU;San Juan, PR;PR;14100;PHL;Philadelphia, PA;PA;549;4;952;-2
+enero;15023;STS;Santa Rosa, CA;CA;14679;SAN;San Diego, CA;CA;1603;-2;1736;-5
+diciembre;14689;SBA;Santa Barbara, CA;CA;14893;SMF;Sacramento, CA;CA;1036;-4;1142;-13
+enero;13930;ORD;Chicago, IL;IL;10994;CHS;Charleston, SC;SC;1825;-3;2139;-7
+julio;12945;LEX;Lexington, KY;KY;10397;ATL;Atlanta, GA;GA;2040;180;2219;193
+febrero;11267;DAY;Dayton, OH;OH;14082;PGD;Punta Gorda, FL;FL;1541;26;1842;70
+septiembre;10693;BNA;Nashville, TN;TN;13495;MSY;New Orleans, LA;LA;1731;61;1852;47
+junio;11697;FLL;Fort Lauderdale, FL;FL;14193;PNS;Pensacola, FL;FL;1155;10;1438;125
+febrero;13577;MYR;Myrtle Beach, SC;SC;13198;MCI;Kansas City, MO;MO;1349;-1;1521;1
+febrero;11298;DFW;Dallas/Fort Worth, TX;TX;11641;FAY;Fayetteville, NC;NC;1308;-3;1647;-12
+junio;13487;MSP;Minneapolis, MN;MN;14683;SAT;San Antonio, TX;TX;1839;9;2117;0
+junio;11433;DTW;Detroit, MI;MI;10980;CHA;Chattanooga, TN;TN;1504;24;1650;26
+junio;11193;CVG;Cincinnati, OH;KY;11292;DEN;Denver, CO;CO;1415;80;1455;70
+noviembre;14908;SNA;Santa Ana, CA;CA;11298;DFW;Dallas/Fort Worth, TX;TX;1441;-3;2009;14
+noviembre;11298;DFW;Dallas/Fort Worth, TX;TX;10800;BUR;Burbank, CA;CA;1916;16;2019;5
+julio;14869;SLC;Salt Lake City, UT;UT;10821;BWI;Baltimore, MD;MD;5;6;615;5
+agosto;13303;MIA;Miami, FL;FL;11193;CVG;Cincinnati, OH;KY;1444;54;1728;54
+septiembre;14570;RNO;Reno, NV;NV;12954;LGB;Long Beach, CA;CA;1632;-3;1750;-10
+septiembre;14986;SRQ;Sarasota/Bradenton, FL;FL;10874;CAK;Akron, OH;OH;750;-11;1011;-19
+agosto;14869;SLC;Salt Lake City, UT;UT;11697;FLL;Fort Lauderdale, FL;FL;2304;-8;535;-13
+enero;10397;ATL;Atlanta, GA;GA;14107;PHX;Phoenix, AZ;AZ;1428;-2;1509;-13
+junio;13244;MEM;Memphis, TN;TN;14869;SLC;Salt Lake City, UT;UT;2024;49;2241;48
+septiembre;12478;JFK;New York, NY;NY;14576;ROC;Rochester, NY;NY;2245;-5;26;-11
+marzo;13303;MIA;Miami, FL;FL;14107;PHX;Phoenix, AZ;AZ;2213;71;2330;48
+noviembre;10466;AZA;Phoenix, AZ;AZ;13486;MSO;Missoula, MT;MT;615;-5;937;-5
+marzo;11278;DCA;Washington, DC;VA;15016;STL;St. Louis, MO;MO;1500;0;1647;42
+enero;10299;ANC;Anchorage, AK;AK;10245;AKN;King Salmon, AK;AK;1214;124;1316;116
+marzo;13930;ORD;Chicago, IL;IL;12892;LAX;Los Angeles, CA;CA;1828;103;2021;78
+agosto;11433;DTW;Detroit, MI;MI;11618;EWR;Newark, NJ;NJ;1744;210;1915;195
+febrero;13873;OME;Nome, AK;AK;13970;OTZ;Kotzebue, AK;AK;1747;-12;1833;-14
+diciembre;11278;DCA;Washington, DC;VA;13342;MKE;Milwaukee, WI;WI;1747;22;1846;21
+octubre;13303;MIA;Miami, FL;FL;12266;IAH;Houston, TX;TX;1325;-7;1452;-30
+abril;11423;DSM;Des Moines, IA;IA;14107;PHX;Phoenix, AZ;AZ;1805;-9;1847;-33
+marzo;11298;DFW;Dallas/Fort Worth, TX;TX;10980;CHA;Chattanooga, TN;TN;2112;20;5;11
+septiembre;14576;ROC;Rochester, NY;NY;10821;BWI;Baltimore, MD;MD;1227;22;1329;14
+junio;11298;DFW;Dallas/Fort Worth, TX;TX;11775;FSD;Sioux Falls, SD;SD;1949;-4;2150;-6
+marzo;10693;BNA;Nashville, TN;TN;13198;MCI;Kansas City, MO;MO;751;6;921;-4
+julio;10874;CAK;Akron, OH;OH;14112;PIE;St. Petersburg, FL;FL;1609;23;1839;28
+mayo;14107;PHX;Phoenix, AZ;AZ;14314;PVU;Provo, UT;UT;1423;24;1650;27
+junio;10693;BNA;Nashville, TN;TN;14771;SFO;San Francisco, CA;CA;712;12;949;9
+febrero;12892;LAX;Los Angeles, CA;CA;10693;BNA;Nashville, TN;TN;1654;-1;2245;-14
+diciembre;13198;MCI;Kansas City, MO;MO;11298;DFW;Dallas/Fort Worth, TX;TX;2159;113;2328;103
+agosto;12339;IND;Indianapolis, IN;IN;14082;PGD;Punta Gorda, FL;FL;821;-12;1044;-13
+septiembre;12954;LGB;Long Beach, CA;CA;11109;COS;Colorado Springs, CO;CO;1655;25;2000;15
+diciembre;10423;AUS;Austin, TX;TX;14122;PIT;Pittsburgh, PA;PA;1321;2;1713;-2
+enero;12953;LGA;New York, NY;NY;11433;DTW;Detroit, MI;MI;1050;-9;1235;-20
+julio;12889;LAS;Las Vegas, NV;NV;10792;BUF;Buffalo, NY;NY;1244;114;1956;116
+mayo;13891;ONT;Ontario, CA;CA;10397;ATL;Atlanta, GA;GA;509;-1;1230;-14
+junio;14027;PBI;West Palm Beach/Palm Beach, FL;FL;11278;DCA;Washington, DC;VA;1536;281;1837;319
+febrero;14828;SIT;Sitka, AK;AK;12523;JNU;Juneau, AK;AK;547;-13;641;2
+septiembre;11278;DCA;Washington, DC;VA;11481;ECP;Panama City, FL;FL;1141;-9;1304;-1
+marzo;15096;SYR;Syracuse, NY;NY;10397;ATL;Atlanta, GA;GA;2017;68;2230;59
+junio;13204;MCO;Orlando, FL;FL;14576;ROC;Rochester, NY;NY;734;74;1005;62
+junio;11995;GSO;Greensboro/High Point, NC;NC;10397;ATL;Atlanta, GA;GA;1044;-1;1146;-16
+mayo;11648;FCA;Kalispell, MT;MT;10466;AZA;Phoenix, AZ;AZ;1908;321;2038;309
+septiembre;10721;BOS;Boston, MA;MA;14576;ROC;Rochester, NY;NY;2213;-2;2335;-15
+octubre;15370;TUL;Tulsa, OK;OK;11278;DCA;Washington, DC;VA;1839;92;2204;65
+septiembre;14457;RAP;Rapid City, SD;SD;11298;DFW;Dallas/Fort Worth, TX;TX;554;-6;904;-16
+junio;14771;SFO;San Francisco, CA;CA;14057;PDX;Portland, OR;OR;1634;13;1823;14
+abril;11057;CLT;Charlotte, NC;NC;13495;MSY;New Orleans, LA;LA;747;-1;831;-12
+marzo;11298;DFW;Dallas/Fort Worth, TX;TX;14747;SEA;Seattle, WA;WA;1043;1;1332;27
+julio;13931;ORF;Norfolk, VA;VA;14100;PHL;Philadelphia, PA;PA;1214;-10;1316;-18
+octubre;14747;SEA;Seattle, WA;WA;14107;PHX;Phoenix, AZ;AZ;601;-4;847;-13
+;12892;LAX;Los Angeles, CA;CA;14107;PHX;Phoenix, AZ;AZ;2257;12;5;-5
+diciembre;10994;CHS;Charleston, SC;SC;11292;DEN;Denver, CO;CO;2255;335;30;330
+septiembre;14761;SFB;Sanford, FL;FL;11267;DAY;Dayton, OH;OH;1259;27;1520;42
+agosto;13360;MLB;Melbourne, FL;FL;10397;ATL;Atlanta, GA;GA;1134;-9;1251;-29
+julio;15304;TPA;Tampa, FL;FL;14747;SEA;Seattle, WA;WA;1812;22;2049;9
+agosto;14492;RDU;Raleigh/Durham, NC;NC;11042;CLE;Cleveland, OH;OH;1735;-5;1909;-11
+diciembre;12892;LAX;Los Angeles, CA;CA;14831;SJC;San Jose, CA;CA;1654;-6;1757;-17
+diciembre;11423;DSM;Des Moines, IA;IA;12266;IAH;Houston, TX;TX;615;-4;825;-12
+abril;12323;ILM;Wilmington, NC;NC;10397;ATL;Atlanta, GA;GA;1204;-9;1329;-20
+noviembre;12953;LGA;New York, NY;NY;14027;PBI;West Palm Beach/Palm Beach, FL;FL;1940;15;2303;23
+octubre;14082;PGD;Punta Gorda, FL;FL;11823;FWA;Fort Wayne, IN;IN;1010;10;1247;20
+abril;15096;SYR;Syracuse, NY;NY;11298;DFW;Dallas/Fort Worth, TX;TX;702;0;931;2
+marzo;14747;SEA;Seattle, WA;WA;11618;EWR;Newark, NJ;NJ;2323;2;721;-14
+marzo;14112;PIE;St. Petersburg, FL;FL;11193;CVG;Cincinnati, OH;KY;1118;-6;1335;1
+marzo;13377;MLU;Monroe, LA;LA;10397;ATL;Atlanta, GA;GA;1717;-7;1949;-21
+marzo;12191;HOU;Houston, TX;TX;14193;PNS;Pensacola, FL;FL;1215;5;1340;0
+diciembre;13495;MSY;New Orleans, LA;LA;11278;DCA;Washington, DC;VA;2025;150;2348;138
+julio;11066;CMH;Columbus, OH;OH;11618;EWR;Newark, NJ;NJ;1035;-4;1201;-36
+mayo;11292;DEN;Denver, CO;CO;12339;IND;Indianapolis, IN;IN;1753;13;2224;20
+diciembre;14107;PHX;Phoenix, AZ;AZ;14489;RDM;Bend/Redmond, OR;OR;1116;-5;1357;8
+mayo;14869;SLC;Salt Lake City, UT;UT;15370;TUL;Tulsa, OK;OK;1421;0;1742;-14
+noviembre;11057;CLT;Charlotte, NC;NC;11042;CLE;Cleveland, OH;OH;2151;57;2315;45
+diciembre;10732;BQN;Aguadilla, PR;PR;11697;FLL;Fort Lauderdale, FL;FL;2015;1070;2243;1068
+julio;12191;HOU;Houston, TX;TX;14908;SNA;Santa Ana, CA;CA;1544;-6;1653;-12
+octubre;14986;SRQ;Sarasota/Bradenton, FL;FL;11618;EWR;Newark, NJ;NJ;557;-3;828;-23
+octubre;14100;PHL;Philadelphia, PA;PA;13244;MEM;Memphis, TN;TN;1844;-5;2011;-17
+septiembre;10299;ANC;Anchorage, AK;AK;12889;LAS;Las Vegas, NV;NV;2243;-7;446;-14
+diciembre;11292;DEN;Denver, CO;CO;11423;DSM;Des Moines, IA;IA;1335;20;1603;8
+febrero;14057;PDX;Portland, OR;OR;10423;AUS;Austin, TX;TX;1738;-2;2325;-7
+abril;12953;LGA;New York, NY;NY;15096;SYR;Syracuse, NY;NY;1125;-4;1238;-8
+noviembre;14492;RDU;Raleigh/Durham, NC;NC;15096;SYR;Syracuse, NY;NY;1809;12;1955;13
+noviembre;10821;BWI;Baltimore, MD;MD;10431;AVL;Asheville, NC;NC;1244;-8;1358;-18
+abril;11066;CMH;Columbus, OH;OH;11298;DFW;Dallas/Fort Worth, TX;TX;853;-7;1032;-11
+junio;11298;DFW;Dallas/Fort Worth, TX;TX;11695;FLG;Flagstaff, AZ;AZ;2057;112;2126;113
+diciembre;13244;MEM;Memphis, TN;TN;12889;LAS;Las Vegas, NV;NV;2208;-5;2322;-14
+noviembre;11433;DTW;Detroit, MI;MI;11697;FLL;Fort Lauderdale, FL;FL;959;-7;1250;-18
+julio;14831;SJC;San Jose, CA;CA;11292;DEN;Denver, CO;CO;2040;-5;6;-4
+mayo;11292;DEN;Denver, CO;CO;13487;MSP;Minneapolis, MN;MN;741;6;1035;10
+octubre;14679;SAN;San Diego, CA;CA;10849;BZN;Bozeman, MT;MT;845;5;1232;19
+diciembre;13485;MSN;Madison, WI;WI;14107;PHX;Phoenix, AZ;AZ;2202;228;2312;202
+julio;14122;PIT;Pittsburgh, PA;PA;11259;DAL;Dallas, TX;TX;1205;0;1345;0
+abril;11292;DEN;Denver, CO;CO;15376;TUS;Tucson, AZ;AZ;16;146;58;133
+septiembre;13930;ORD;Chicago, IL;IL;11630;FAI;Fairbanks, AK;AK;1642;-1;2016;0
+abril;15624;VPS;Valparaiso, FL;FL;13930;ORD;Chicago, IL;IL;1135;-7;1427;2
+abril;12339;IND;Indianapolis, IN;IN;12889;LAS;Las Vegas, NV;NV;1126;36;1214;34
+marzo;14107;PHX;Phoenix, AZ;AZ;11109;COS;Colorado Springs, CO;CO;1855;0;2137;2
+diciembre;14831;SJC;San Jose, CA;CA;11884;GEG;Spokane, WA;WA;1246;26;1430;10
+;12889;LAS;Las Vegas, NV;NV;14570;RNO;Reno, NV;NV;1900;220;2017;212
+septiembre;13303;MIA;Miami, FL;FL;14683;SAT;San Antonio, TX;TX;1629;93;1824;89
+enero;12889;LAS;Las Vegas, NV;NV;13342;MKE;Milwaukee, WI;WI;830;15;1343;8
+marzo;11278;DCA;Washington, DC;VA;11433;DTW;Detroit, MI;MI;828;-10;1022;-18
+mayo;15096;SYR;Syracuse, NY;NY;11618;EWR;Newark, NJ;NJ;615;-6;719;-11
+mayo;15370;TUL;Tulsa, OK;OK;14761;SFB;Sanford, FL;FL;2030;41;2344;24
+octubre;13303;MIA;Miami, FL;FL;11259;DAL;Dallas, TX;TX;1209;4;1357;-8
+noviembre;11618;EWR;Newark, NJ;NJ;10431;AVL;Asheville, NC;NC;1956;-4;2159;-17
+noviembre;13930;ORD;Chicago, IL;IL;14730;SDF;Louisville, KY;KY;909;-4;1130;-8
+marzo;11624;EYW;Key West, FL;FL;13303;MIA;Miami, FL;FL;1154;-4;1338;42
+junio;11648;FCA;Kalispell, MT;MT;14771;SFO;San Francisco, CA;CA;1606;-3;1736;-6
+;14986;SRQ;Sarasota/Bradenton, FL;FL;11823;FWA;Fort Wayne, IN;IN;749;-12;1012;-15
+julio;14107;PHX;Phoenix, AZ;AZ;10397;ATL;Atlanta, GA;GA;703;-2;1332;-17
+agosto;10693;BNA;Nashville, TN;TN;13931;ORF;Norfolk, VA;VA;1145;10;1432;12
+febrero;12954;LGB;Long Beach, CA;CA;12889;LAS;Las Vegas, NV;NV;1434;9;1547;12
+marzo;10397;ATL;Atlanta, GA;GA;10693;BNA;Nashville, TN;TN;1558;20;1618;28
+junio;13930;ORD;Chicago, IL;IL;10372;ASE;Aspen, CO;CO;956;-8;1206;7
+julio;14457;RAP;Rapid City, SD;SD;10466;AZA;Phoenix, AZ;AZ;1003;0;1107;-16
+abril;14635;RSW;Fort Myers, FL;FL;12197;HPN;White Plains, NY;NY;1550;68;1843;58
+febrero;11433;DTW;Detroit, MI;MI;13342;MKE;Milwaukee, WI;WI;2130;40;2159;56
+abril;12917;LCK;Columbus, OH;OH;14112;PIE;St. Petersburg, FL;FL;2235;59;40;56
+agosto;14307;PVD;Providence, RI;RI;12953;LGA;New York, NY;NY;1658;108;1751;96
+diciembre;11122;CPR;Casper, WY;WY;11292;DEN;Denver, CO;CO;1557;173;1722;183
+abril;14747;SEA;Seattle, WA;WA;12819;KTN;Ketchikan, AK;AK;1522;-8;1610;-23
+septiembre;10158;ACY;Atlantic City, NJ;NJ;11697;FLL;Fort Lauderdale, FL;FL;1835;6;2132;22
+junio;10713;BOI;Boise, ID;ID;12892;LAX;Los Angeles, CA;CA;724;-6;849;-5
+diciembre;10800;BUR;Burbank, CA;CA;10423;AUS;Austin, TX;TX;1420;0;1916;-4
+febrero;12266;IAH;Houston, TX;TX;14570;RNO;Reno, NV;NV;1006;36;1140;28
+abril;14771;SFO;San Francisco, CA;CA;14869;SLC;Salt Lake City, UT;UT;1803;45;2038;26
+agosto;12323;ILM;Wilmington, NC;NC;11057;CLT;Charlotte, NC;NC;1819;-5;1917;-16
+agosto;12191;HOU;Houston, TX;TX;12889;LAS;Las Vegas, NV;NV;2106;51;2155;40
+febrero;11003;CID;Cedar Rapids/Iowa City, IA;IA;11292;DEN;Denver, CO;CO;952;6;1100;0
+julio;11298;DFW;Dallas/Fort Worth, TX;TX;11433;DTW;Detroit, MI;MI;2206;91;137;84
+julio;14082;PGD;Punta Gorda, FL;FL;10135;ABE;Allentown/Bethlehem/Easton, PA;PA;1012;14;1245;10
+febrero;15249;TLH;Tallahassee, FL;FL;11298;DFW;Dallas/Fort Worth, TX;TX;1625;-7;1741;-16
+junio;12892;LAX;Los Angeles, CA;CA;15370;TUL;Tulsa, OK;OK;915;-5;1427;-17
+mayo;11433;DTW;Detroit, MI;MI;13232;MDW;Chicago, IL;IL;635;0;632;-13
+mayo;14747;SEA;Seattle, WA;WA;15376;TUS;Tucson, AZ;AZ;1802;-3;2109;-5
+febrero;11027;CKB;Clarksburg/Fairmont, WV;WV;14761;SFB;Sanford, FL;FL;1430;-1;1625;1
+enero;14683;SAT;San Antonio, TX;TX;13198;MCI;Kansas City, MO;MO;1138;3;1334;-1
+;11775;FSD;Sioux Falls, SD;SD;12889;LAS;Las Vegas, NV;NV;2235;2;2336;14
+agosto;11259;DAL;Dallas, TX;TX;13931;ORF;Norfolk, VA;VA;951;-4;1332;-18
+julio;10397;ATL;Atlanta, GA;GA;11612;EVV;Evansville, IN;IN;2155;-4;2213;-10
+agosto;12478;JFK;New York, NY;NY;13495;MSY;New Orleans, LA;LA;1444;-11;1724;-1
+enero;11057;CLT;Charlotte, NC;NC;13891;ONT;Ontario, CA;CA;1935;15;2111;4
+;12889;LAS;Las Vegas, NV;NV;13487;MSP;Minneapolis, MN;MN;1837;7;2329;-6
+marzo;12250;HYA;Hyannis, MA;MA;12953;LGA;New York, NY;NY;1431;127;1540;120
+abril;14747;SEA;Seattle, WA;WA;12266;IAH;Houston, TX;TX;1740;0;4;5
+junio;11292;DEN;Denver, CO;CO;12899;LBF;North Platte, NE;NE;1619;-6;1818;-11
+marzo;14107;PHX;Phoenix, AZ;AZ;14893;SMF;Sacramento, CA;CA;2108;3;2257;2
+marzo;14193;PNS;Pensacola, FL;FL;13198;MCI;Kansas City, MO;MO;1148;-2;1353;3
+diciembre;13303;MIA;Miami, FL;FL;10423;AUS;Austin, TX;TX;1942;6;2126;-15
+abril;14107;PHX;Phoenix, AZ;AZ;13796;OAK;Oakland, CA;CA;1321;6;1504;-1
+julio;11898;GFK;Grand Forks, ND;ND;12889;LAS;Las Vegas, NV;NV;1224;33;1325;29
+septiembre;13577;MYR;Myrtle Beach, SC;SC;12945;LEX;Lexington, KY;KY;1316;89;1438;86
+julio;13487;MSP;Minneapolis, MN;MN;14107;PHX;Phoenix, AZ;AZ;1508;23;1630;24
+enero;10821;BWI;Baltimore, MD;MD;10529;BDL;Hartford, CT;CT;1057;12;1204;9
+septiembre;14986;SRQ;Sarasota/Bradenton, FL;FL;12917;LCK;Columbus, OH;OH;1438;-16;1650;-18
+julio;10994;CHS;Charleston, SC;SC;10721;BOS;Boston, MA;MA;1829;242;2047;234
+noviembre;11193;CVG;Cincinnati, OH;KY;10994;CHS;Charleston, SC;SC;1238;3;1402;-2
+mayo;11775;FSD;Sioux Falls, SD;SD;10693;BNA;Nashville, TN;TN;1940;-1;2144;5
+febrero;12124;HHH;Hilton Head, SC;SC;10721;BOS;Boston, MA;MA;1544;11;1754;-2
+marzo;11193;CVG;Cincinnati, OH;KY;10466;AZA;Phoenix, AZ;AZ;2214;-9;2321;14
+abril;14683;SAT;San Antonio, TX;TX;13487;MSP;Minneapolis, MN;MN;618;-7;913;-4
+septiembre;11109;COS;Colorado Springs, CO;CO;13232;MDW;Chicago, IL;IL;1505;5;1824;4
+junio;11697;FLL;Fort Lauderdale, FL;FL;15919;XNA;Fayetteville, AR;AR;1438;-3;1629;-3
+julio;14492;RDU;Raleigh/Durham, NC;NC;13495;MSY;New Orleans, LA;LA;1516;36;1635;42
+noviembre;13577;MYR;Myrtle Beach, SC;SC;13930;ORD;Chicago, IL;IL;1317;-12;1438;-16
+mayo;14100;PHL;Philadelphia, PA;PA;13204;MCO;Orlando, FL;FL;1100;-4;1339;-7
+febrero;12191;HOU;Houston, TX;TX;11066;CMH;Columbus, OH;OH;1708;33;2033;28
+marzo;10372;ASE;Aspen, CO;CO;14771;SFO;San Francisco, CA;CA;812;-6;925;-18
+abril;12339;IND;Indianapolis, IN;IN;13204;MCO;Orlando, FL;FL;2007;76;2221;65
+agosto;10423;AUS;Austin, TX;TX;15624;VPS;Valparaiso, FL;FL;1633;37;1908;75
+junio;12264;IAD;Washington, DC;VA;11066;CMH;Columbus, OH;OH;1253;-7;1419;-9
+enero;12889;LAS;Las Vegas, NV;NV;11775;FSD;Sioux Falls, SD;SD;1653;-8;2131;-12
+julio;11092;CNY;Moab, UT;UT;14869;SLC;Salt Lake City, UT;UT;1309;-9;1405;-18
+marzo;11298;DFW;Dallas/Fort Worth, TX;TX;15919;XNA;Fayetteville, AR;AR;1908;36;2015;29
+febrero;11066;CMH;Columbus, OH;OH;13204;MCO;Orlando, FL;FL;512;-8;742;4
+septiembre;12264;IAD;Washington, DC;VA;12339;IND;Indianapolis, IN;IN;836;8;1022;7
+mayo;10693;BNA;Nashville, TN;TN;14761;SFB;Sanford, FL;FL;1817;23;2111;32
+marzo;14107;PHX;Phoenix, AZ;AZ;16218;YUM;Yuma, AZ;AZ;2051;-4;2139;-14
+agosto;11775;FSD;Sioux Falls, SD;SD;12892;LAX;Los Angeles, CA;CA;2113;11;2244;12
+noviembre;13964;OTH;North Bend/Coos Bay, OR;OR;14771;SFO;San Francisco, CA;CA;1351;-10;1549;19
+abril;11884;GEG;Spokane, WA;WA;12889;LAS;Las Vegas, NV;NV;1008;8;1220;5
+septiembre;12264;IAD;Washington, DC;VA;14107;PHX;Phoenix, AZ;AZ;1912;104;2107;111
+diciembre;12889;LAS;Las Vegas, NV;NV;11003;CID;Cedar Rapids/Iowa City, IA;IA;641;-4;1142;-7
+abril;13204;MCO;Orlando, FL;FL;12191;HOU;Houston, TX;TX;1925;10;2035;0
+diciembre;14307;PVD;Providence, RI;RI;11193;CVG;Cincinnati, OH;KY;2050;66;2311;79
+octubre;13930;ORD;Chicago, IL;IL;15016;STL;St. Louis, MO;MO;1412;-8;1530;-6
+septiembre;11618;EWR;Newark, NJ;NJ;14492;RDU;Raleigh/Durham, NC;NC;1959;182;2123;161
+julio;12889;LAS;Las Vegas, NV;NV;10299;ANC;Anchorage, AK;AK;1932;7;2352;-5
+febrero;11921;GJT;Grand Junction, CO;CO;11292;DEN;Denver, CO;CO;748;-4;848;-8
+octubre;12758;KOA;Kona, HI;HI;12892;LAX;Los Angeles, CA;CA;1520;0;2327;-23
+febrero;13577;MYR;Myrtle Beach, SC;SC;13230;MDT;Harrisburg, PA;PA;1309;-13;1432;-20
+abril;11697;FLL;Fort Lauderdale, FL;FL;14122;PIT;Pittsburgh, PA;PA;2104;7;2340;6
+abril;14107;PHX;Phoenix, AZ;AZ;11697;FLL;Fort Lauderdale, FL;FL;1158;18;1912;12
+junio;14679;SAN;San Diego, CA;CA;11648;FCA;Kalispell, MT;MT;1050;-10;1458;2
+agosto;11259;DAL;Dallas, TX;TX;10140;ABQ;Albuquerque, NM;NM;2217;22;2305;25
+agosto;11109;COS;Colorado Springs, CO;CO;14869;SLC;Salt Lake City, UT;UT;824;-6;1011;-21
+julio;14986;SRQ;Sarasota/Bradenton, FL;FL;10821;BWI;Baltimore, MD;MD;1640;5;1858;-2
+noviembre;14685;SAV;Savannah, GA;GA;12191;HOU;Houston, TX;TX;1606;6;1744;24
+agosto;10466;AZA;Phoenix, AZ;AZ;11775;FSD;Sioux Falls, SD;SD;651;-9;1129;-6
+noviembre;14747;SEA;Seattle, WA;WA;11193;CVG;Cincinnati, OH;KY;923;-7;1648;-7
+diciembre;12892;LAX;Los Angeles, CA;CA;14679;SAN;San Diego, CA;CA;1749;-1;1842;-6
+marzo;14193;PNS;Pensacola, FL;FL;13204;MCO;Orlando, FL;FL;1434;-11;1655;-17
+marzo;15304;TPA;Tampa, FL;FL;14730;SDF;Louisville, KY;KY;534;-1;733;-7
+abril;11775;FSD;Sioux Falls, SD;SD;13487;MSP;Minneapolis, MN;MN;1454;96;1551;84
+octubre;11292;DEN;Denver, CO;CO;14877;SLN;Salina, KS;KS;735;-10;955;-20
+diciembre;12889;LAS;Las Vegas, NV;NV;10423;AUS;Austin, TX;TX;510;0;942;-8
+diciembre;14869;SLC;Salt Lake City, UT;UT;14057;PDX;Portland, OR;OR;619;-1;716;-1
+mayo;12892;LAX;Los Angeles, CA;CA;10721;BOS;Boston, MA;MA;608;8;1432;-25
+abril;12264;IAD;Washington, DC;VA;13487;MSP;Minneapolis, MN;MN;851;-9;1014;-21
+octubre;11292;DEN;Denver, CO;CO;13198;MCI;Kansas City, MO;MO;549;-1;827;-3
+septiembre;15624;VPS;Valparaiso, FL;FL;15370;TUL;Tulsa, OK;OK;1839;21;2033;20
+agosto;11697;FLL;Fort Lauderdale, FL;FL;10431;AVL;Asheville, NC;NC;626;-4;807;-19
+octubre;14869;SLC;Salt Lake City, UT;UT;10397;ATL;Atlanta, GA;GA;651;-9;1223;-17
+octubre;11298;DFW;Dallas/Fort Worth, TX;TX;10685;BMI;Bloomington/Normal, IL;IL;1858;-2;2058;-5
+diciembre;13230;MDT;Harrisburg, PA;PA;13204;MCO;Orlando, FL;FL;910;-13;1139;-14
+marzo;11298;DFW;Dallas/Fort Worth, TX;TX;10821;BWI;Baltimore, MD;MD;832;-4;1232;-13
+junio;10800;BUR;Burbank, CA;CA;14893;SMF;Sacramento, CA;CA;1732;22;1853;28
+abril;14986;SRQ;Sarasota/Bradenton, FL;FL;10693;BNA;Nashville, TN;TN;1809;12;1918;24
+abril;13232;MDW;Chicago, IL;IL;13891;ONT;Ontario, CA;CA;1107;7;1300;0
+julio;15412;TYS;Knoxville, TN;TN;15624;VPS;Valparaiso, FL;FL;603;-7;633;3
+diciembre;11298;DFW;Dallas/Fort Worth, TX;TX;12915;LCH;Lake Charles, LA;LA;1023;-5;1213;16
+junio;12191;HOU;Houston, TX;TX;14107;PHX;Phoenix, AZ;AZ;947;2;1014;-11
+noviembre;11057;CLT;Charlotte, NC;NC;14574;ROA;Roanoke, VA;VA;919;-10;1034;-3
+junio;14689;SBA;Santa Barbara, CA;CA;11298;DFW;Dallas/Fort Worth, TX;TX;528;-2;1034;-15
+diciembre;13342;MKE;Milwaukee, WI;WI;13487;MSP;Minneapolis, MN;MN;1522;-6;1639;-7
+marzo;13577;MYR;Myrtle Beach, SC;SC;11278;DCA;Washington, DC;VA;1906;-12;2035;-12
+febrero;14698;SBP;San Luis Obispo, CA;CA;12892;LAX;Los Angeles, CA;CA;521;-9;637;-7
+febrero;14843;SJU;San Juan, PR;PR;11618;EWR;Newark, NJ;NJ;1753;-2;2146;-19
+julio;10721;BOS;Boston, MA;MA;14524;RIC;Richmond, VA;VA;752;2;939;6
+agosto;10551;BET;Bethel, AK;AK;10299;ANC;Anchorage, AK;AK;1251;-7;1405;-8
+enero;14635;RSW;Fort Myers, FL;FL;12264;IAD;Washington, DC;VA;1310;-10;1535;-11
+diciembre;13486;MSO;Missoula, MT;MT;12889;LAS;Las Vegas, NV;NV;18;147;121;146
+julio;15023;STS;Santa Rosa, CA;CA;14908;SNA;Santa Ana, CA;CA;1104;-1;1235;-1
+febrero;11298;DFW;Dallas/Fort Worth, TX;TX;12478;JFK;New York, NY;NY;1451;4;1920;-9
+noviembre;11292;DEN;Denver, CO;CO;11618;EWR;Newark, NJ;NJ;946;92;1521;81
+mayo;15027;STX;Christiansted, VI;VI;11697;FLL;Fort Lauderdale, FL;FL;1535;-8;1818;-18
+julio;11042;CLE;Cleveland, OH;OH;13930;ORD;Chicago, IL;IL;1828;3;1903;8
+octubre;14193;PNS;Pensacola, FL;FL;11057;CLT;Charlotte, NC;NC;519;-11;757;-20
+enero;10792;BUF;Buffalo, NY;NY;11697;FLL;Fort Lauderdale, FL;FL;1819;-4;2103;-19
+mayo;11298;DFW;Dallas/Fort Worth, TX;TX;12206;HRL;Harlingen/San Benito, TX;TX;1416;-8;1547;-13
+julio;11057;CLT;Charlotte, NC;NC;10581;BGR;Bangor, ME;ME;1135;-2;1406;4
+mayo;11697;FLL;Fort Lauderdale, FL;FL;11292;DEN;Denver, CO;CO;936;11;1140;5
+agosto;11996;GSP;Greer, SC;SC;11433;DTW;Detroit, MI;MI;1645;-5;1836;-1
+noviembre;10423;AUS;Austin, TX;TX;11057;CLT;Charlotte, NC;NC;1001;-5;1344;-13
+septiembre;12478;JFK;New York, NY;NY;13541;MVY;Martha's Vineyard, MA;MA;1131;-7;1230;-18
+marzo;11423;DSM;Des Moines, IA;IA;10693;BNA;Nashville, TN;TN;843;-17;1014;-20
+diciembre;12992;LIT;Little Rock, AR;AR;14112;PIE;St. Petersburg, FL;FL;1028;8;1329;9
+diciembre;10397;ATL;Atlanta, GA;GA;12441;JAC;Jackson, WY;WY;1941;126;2118;105
+noviembre;10821;BWI;Baltimore, MD;MD;14635;RSW;Fort Myers, FL;FL;814;9;1037;2
+julio;10466;AZA;Phoenix, AZ;AZ;10620;BIL;Billings, MT;MT;634;4;946;4
+julio;10980;CHA;Chattanooga, TN;TN;14112;PIE;St. Petersburg, FL;FL;1507;-5;1632;-12
+febrero;13541;MVY;Martha's Vineyard, MA;MA;10721;BOS;Boston, MA;MA;1711;-9;1754;-14
+marzo;11066;CMH;Columbus, OH;OH;14771;SFO;San Francisco, CA;CA;548;-2;744;-6
+;13930;ORD;Chicago, IL;IL;11823;FWA;Fort Wayne, IN;IN;1108;33;1307;23
+julio;13930;ORD;Chicago, IL;IL;12945;LEX;Lexington, KY;KY;1604;84;1839;95
+agosto;10821;BWI;Baltimore, MD;MD;14843;SJU;San Juan, PR;PR;855;15;1250;-5
+enero;14696;SBN;South Bend, IN;IN;14082;PGD;Punta Gorda, FL;FL;1055;-2;1330;-1
+octubre;11298;DFW;Dallas/Fort Worth, TX;TX;13230;MDT;Harrisburg, PA;PA;1906;1;2250;-23
+diciembre;11278;DCA;Washington, DC;VA;11057;CLT;Charlotte, NC;NC;649;-5;824;-4
+febrero;11298;DFW;Dallas/Fort Worth, TX;TX;14193;PNS;Pensacola, FL;FL;707;-6;852;-13
+junio;14877;SLN;Salina, KS;KS;12255;HYS;Hays, KS;KS;1019;-25;1107;-19
+julio;14783;SGF;Springfield, MO;MO;10397;ATL;Atlanta, GA;GA;615;15;859;15
+;11996;GSP;Greer, SC;SC;13930;ORD;Chicago, IL;IL;615;-2;712;-10
+septiembre;11298;DFW;Dallas/Fort Worth, TX;TX;11503;EGE;Eagle, CO;CO;1028;-5;1135;-20
+septiembre;11292;DEN;Denver, CO;CO;11042;CLE;Cleveland, OH;OH;1601;56;2031;41
+julio;12892;LAX;Los Angeles, CA;CA;11057;CLT;Charlotte, NC;NC;902;9;1715;17
+enero;11057;CLT;Charlotte, NC;NC;11267;DAY;Dayton, OH;OH;2113;43;2252;44
+septiembre;10821;BWI;Baltimore, MD;MD;15096;SYR;Syracuse, NY;NY;1052;7;1157;7
+enero;13930;ORD;Chicago, IL;IL;14307;PVD;Providence, RI;RI;1104;4;1420;-6
+octubre;15016;STL;St. Louis, MO;MO;14107;PHX;Phoenix, AZ;AZ;615;-8;719;-23
+agosto;15412;TYS;Knoxville, TN;TN;13232;MDW;Chicago, IL;IL;1239;-14;1306;-19
+mayo;15919;XNA;Fayetteville, AR;AR;11697;FLL;Fort Lauderdale, FL;FL;1719;-3;2100;-7
+diciembre;10397;ATL;Atlanta, GA;GA;14679;SAN;San Diego, CA;CA;1354;0;1504;-16
+enero;13204;MCO;Orlando, FL;FL;12266;IAH;Houston, TX;TX;603;-2;721;-9
+agosto;14107;PHX;Phoenix, AZ;AZ;15304;TPA;Tampa, FL;FL;1208;-2;1910;-13
+octubre;13204;MCO;Orlando, FL;FL;13933;ORH;Worcester, MA;MA;1155;105;1518;139
+noviembre;10599;BHM;Birmingham, AL;AL;13303;MIA;Miami, FL;FL;1822;-3;2116;-7
+julio;12889;LAS;Las Vegas, NV;NV;14107;PHX;Phoenix, AZ;AZ;2240;0;2336;-14
+marzo;11298;DFW;Dallas/Fort Worth, TX;TX;13931;ORF;Norfolk, VA;VA;1829;-1;2222;-6
+febrero;11042;CLE;Cleveland, OH;OH;13303;MIA;Miami, FL;FL;611;-4;855;-12
+abril;14057;PDX;Portland, OR;OR;14698;SBP;San Luis Obispo, CA;CA;807;7;1015;4
+enero;12451;JAX;Jacksonville, FL;FL;11298;DFW;Dallas/Fort Worth, TX;TX;558;-2;745;8
+octubre;11298;DFW;Dallas/Fort Worth, TX;TX;11697;FLL;Fort Lauderdale, FL;FL;1831;30;2204;9
+julio;11537;ELM;Elmira/Corning, NY;NY;14112;PIE;St. Petersburg, FL;FL;917;-22;1200;-17
+junio;11618;EWR;Newark, NJ;NJ;13796;OAK;Oakland, CA;CA;752;-3;1101;-10
+octubre;11618;EWR;Newark, NJ;NJ;14307;PVD;Providence, RI;RI;1945;10;2042;-9
+febrero;15304;TPA;Tampa, FL;FL;10397;ATL;Atlanta, GA;GA;1556;19;1735;15
+agosto;13487;MSP;Minneapolis, MN;MN;14696;SBN;South Bend, IN;IN;1836;-5;2053;-12
+julio;11278;DCA;Washington, DC;VA;15249;TLH;Tallahassee, FL;FL;1344;-11;1554;-22
+agosto;11695;FLG;Flagstaff, AZ;AZ;11298;DFW;Dallas/Fort Worth, TX;TX;647;-10;1100;-27
+junio;14057;PDX;Portland, OR;OR;12266;IAH;Houston, TX;TX;1343;50;2000;60
+agosto;12173;HNL;Honolulu, HI;HI;11433;DTW;Detroit, MI;MI;1704;-1;716;-33
+diciembre;10397;ATL;Atlanta, GA;GA;10685;BMI;Bloomington/Normal, IL;IL;2137;-4;2242;10
+febrero;13303;MIA;Miami, FL;FL;11292;DEN;Denver, CO;CO;920;135;1120;124
+abril;14685;SAV;Savannah, GA;GA;11618;EWR;Newark, NJ;NJ;1058;-4;1309;-3
+enero;11057;CLT;Charlotte, NC;NC;11423;DSM;Des Moines, IA;IA;1130;-5;1250;-10
+septiembre;11997;GST;Gustavus, AK;AK;12523;JNU;Juneau, AK;AK;1730;-7;1814;4
+marzo;13487;MSP;Minneapolis, MN;MN;10631;BJI;Bemidji, MN;MN;1637;4;1737;4
+diciembre;13342;MKE;Milwaukee, WI;WI;13204;MCO;Orlando, FL;FL;610;-10;954;-11
+abril;10135;ABE;Allentown/Bethlehem/Easton, PA;PA;14986;SRQ;Sarasota/Bradenton, FL;FL;1504;-2;1751;7
+diciembre;14057;PDX;Portland, OR;OR;14689;SBA;Santa Barbara, CA;CA;918;-7;1122;-16
+enero;14107;PHX;Phoenix, AZ;AZ;14689;SBA;Santa Barbara, CA;CA;1358;-5;1521;-18
+febrero;10800;BUR;Burbank, CA;CA;14831;SJC;San Jose, CA;CA;854;-6;958;-17
+;11278;DCA;Washington, DC;VA;13485;MSN;Madison, WI;WI;1534;-6;1643;-22
+mayo;14574;ROA;Roanoke, VA;VA;14112;PIE;St. Petersburg, FL;FL;2132;-8;2340;7
+mayo;11986;GRR;Grand Rapids, MI;MI;12266;IAH;Houston, TX;TX;638;-7;816;-13
+junio;11638;FAT;Fresno, CA;CA;12889;LAS;Las Vegas, NV;NV;946;-17;1104;-8
+septiembre;14082;PGD;Punta Gorda, FL;FL;13198;MCI;Kansas City, MO;MO;753;-7;956;11
+abril;10397;ATL;Atlanta, GA;GA;11193;CVG;Cincinnati, OH;KY;1610;33;1726;15
+enero;12266;IAH;Houston, TX;TX;14869;SLC;Salt Lake City, UT;UT;1954;-3;2152;-17
+octubre;11603;EUG;Eugene, OR;OR;14869;SLC;Salt Lake City, UT;UT;1315;0;1556;-9
+mayo;13930;ORD;Chicago, IL;IL;14869;SLC;Salt Lake City, UT;UT;857;-5;1118;-14
+diciembre;15304;TPA;Tampa, FL;FL;13232;MDW;Chicago, IL;IL;2142;47;2356;86
+diciembre;10693;BNA;Nashville, TN;TN;10800;BUR;Burbank, CA;CA;1725;0;1945;5
+septiembre;11278;DCA;Washington, DC;VA;12451;JAX;Jacksonville, FL;FL;927;87;1126;78
+marzo;15016;STL;St. Louis, MO;MO;10721;BOS;Boston, MA;MA;1520;35;1844;24
+abril;13931;ORF;Norfolk, VA;VA;12451;JAX;Jacksonville, FL;FL;1157;-14;1334;-17
+noviembre;11259;DAL;Dallas, TX;TX;12889;LAS;Las Vegas, NV;NV;1943;8;2018;-2
+octubre;11618;EWR;Newark, NJ;NJ;11986;GRR;Grand Rapids, MI;MI;1355;-6;1558;-9
+marzo;10529;BDL;Hartford, CT;CT;11292;DEN;Denver, CO;CO;703;-2;907;-8
+marzo;11003;CID;Cedar Rapids/Iowa City, IA;IA;10397;ATL;Atlanta, GA;GA;549;-4;859;8
+mayo;11986;GRR;Grand Rapids, MI;MI;11298;DFW;Dallas/Fort Worth, TX;TX;1458;-4;1635;-6
+agosto;10821;BWI;Baltimore, MD;MD;13577;MYR;Myrtle Beach, SC;SC;2047;52;2215;55
+diciembre;12889;LAS;Las Vegas, NV;NV;11109;COS;Colorado Springs, CO;CO;840;-5;1111;-29
+junio;13487;MSP;Minneapolis, MN;MN;11292;DEN;Denver, CO;CO;2102;12;2157;7
+diciembre;10397;ATL;Atlanta, GA;GA;13360;MLB;Melbourne, FL;FL;2106;16;2228;7
+agosto;13970;OTZ;Kotzebue, AK;AK;10299;ANC;Anchorage, AK;AK;1929;-13;2110;-1
+;12953;LGA;New York, NY;NY;14524;RIC;Richmond, VA;VA;1621;-8;1750;-13
+mayo;13930;ORD;Chicago, IL;IL;11637;FAR;Fargo, ND;ND;2023;7;2218;2
+marzo;11298;DFW;Dallas/Fort Worth, TX;TX;11049;CLL;College Station/Bryan, TX;TX;831;-7;920;-24
+;11447;DVL;Devils Lake, ND;ND;11292;DEN;Denver, CO;CO;1816;-10;1916;-19
+enero;14986;SRQ;Sarasota/Bradenton, FL;FL;12264;IAD;Washington, DC;VA;1955;36;2214;32
+febrero;13796;OAK;Oakland, CA;CA;12889;LAS;Las Vegas, NV;NV;2004;-6;2127;-13
+diciembre;14570;RNO;Reno, NV;NV;10423;AUS;Austin, TX;TX;1402;-5;1909;-22
+septiembre;12173;HNL;Honolulu, HI;HI;10299;ANC;Anchorage, AK;AK;2206;21;627;35
+septiembre;13367;MLI;Moline, IL;IL;11292;DEN;Denver, CO;CO;901;-10;1033;-2
+junio;15624;VPS;Valparaiso, FL;FL;13851;OKC;Oklahoma City, OK;OK;1514;13;1747;42
+julio;12892;LAX;Los Angeles, CA;CA;14698;SBP;San Luis Obispo, CA;CA;2238;-5;2350;3
+marzo;11066;CMH;Columbus, OH;OH;11259;DAL;Dallas, TX;TX;1458;3;1609;-6
+julio;12758;KOA;Kona, HI;HI;14057;PDX;Portland, OR;OR;1631;6;54;-5
+noviembre;10466;AZA;Phoenix, AZ;AZ;14457;RAP;Rapid City, SD;SD;548;-12;900;-12
+diciembre;12478;JFK;New York, NY;NY;10994;CHS;Charleston, SC;SC;1536;-3;1815;11
+;12478;JFK;New York, NY;NY;14057;PDX;Portland, OR;OR;2202;152;121;146
+diciembre;10721;BOS;Boston, MA;MA;12266;IAH;Houston, TX;TX;1108;83;1356;59
+agosto;14869;SLC;Salt Lake City, UT;UT;13204;MCO;Orlando, FL;FL;1130;0;1804;10
+diciembre;14576;ROC;Rochester, NY;NY;12953;LGA;New York, NY;NY;710;-5;823;-13
+marzo;14831;SJC;San Jose, CA;CA;15016;STL;St. Louis, MO;MO;650;10;1227;-3
+septiembre;10372;ASE;Aspen, CO;CO;10423;AUS;Austin, TX;TX;1357;72;1721;79
+mayo;12892;LAX;Los Angeles, CA;CA;11042;CLE;Cleveland, OH;OH;2249;0;608;-16
+febrero;11057;CLT;Charlotte, NC;NC;14576;ROC;Rochester, NY;NY;936;-3;1124;-2
+noviembre;15016;STL;St. Louis, MO;MO;13198;MCI;Kansas City, MO;MO;809;-1;907;-3
+noviembre;13204;MCO;Orlando, FL;FL;11193;CVG;Cincinnati, OH;KY;1127;-5;1337;-5
+marzo;13303;MIA;Miami, FL;FL;12339;IND;Indianapolis, IN;IN;2209;69;101;72
+febrero;12264;IAD;Washington, DC;VA;14747;SEA;Seattle, WA;WA;856;-4;1139;-11
+septiembre;12892;LAX;Los Angeles, CA;CA;14893;SMF;Sacramento, CA;CA;1303;0;1420;-14
+enero;11618;EWR;Newark, NJ;NJ;14843;SJU;San Juan, PR;PR;941;-5;1324;-17
+julio;11057;CLT;Charlotte, NC;NC;15024;STT;Charlotte Amalie, VI;VI;930;14;1306;3
+febrero;10849;BZN;Bozeman, MT;MT;14679;SAN;San Diego, CA;CA;1251;-4;1425;-10
+febrero;11603;EUG;Eugene, OR;OR;14107;PHX;Phoenix, AZ;AZ;1649;-7;1908;-22
+agosto;15304;TPA;Tampa, FL;FL;13342;MKE;Milwaukee, WI;WI;932;2;1100;-10
+marzo;14100;PHL;Philadelphia, PA;PA;14122;PIT;Pittsburgh, PA;PA;834;-7;955;-6
+marzo;11278;DCA;Washington, DC;VA;12889;LAS;Las Vegas, NV;NV;753;-6;958;-5
+julio;15096;SYR;Syracuse, NY;NY;14761;SFB;Sanford, FL;FL;2045;7;2331;14
+agosto;15919;XNA;Fayetteville, AR;AR;15624;VPS;Valparaiso, FL;FL;1622;42;1816;48
+mayo;13930;ORD;Chicago, IL;IL;10431;AVL;Asheville, NC;NC;1823;-2;2117;3
+junio;14100;PHL;Philadelphia, PA;PA;13342;MKE;Milwaukee, WI;WI;2044;-9;2159;-9

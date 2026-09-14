@@ -1,0 +1,28 @@
+=== Batalla 1 ===
+Tablero inicial de Ana:
+1 - 1
+- - 1
+
+Tablero inicial de Leo:
+1 1 1
+- 1 -
+
+Movimiento 1: Jugador Ana usó 'normal' en (0,0), impactos: 1
+Tablero objetivo tras movimiento:
+X 1 1
+- 1 -
+
+Movimiento 2: Jugador Leo usó 'lineal' en (1,1), impactos: 1
+Tablero objetivo tras movimiento:
+1 - 1
+O O X
+
+Movimiento 3: Jugador Ana usó 'cruz' en (1,2), impactos: 2
+Tablero objetivo tras movimiento:
+X 1 X
+- X O
+
+=== Resultado de la batalla ===
+Ana: impactos = 3, trampas = 0
+Leo: impactos = 1, trampas = 0
+Ganador por daño: Ana

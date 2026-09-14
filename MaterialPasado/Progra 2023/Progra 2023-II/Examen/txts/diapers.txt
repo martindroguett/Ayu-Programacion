@@ -1,0 +1,365 @@
+Parent's Choice,G,54
+Pampers Premium Care,G,30
+Nateen,XG,35
+Pampers Premium Care Pants,P,108
+Parent's Choice,XG,108
+Parent's Choice,G,125
+Emu Baby Pañales Premium,G,57
+Huggies Active Sec,G,92
+Merries,XXG,33
+Pampers Premium Care Pants,XG,114
+Pampers Premium Care Pants,XXG,18
+Huggies Active Sec,G,29
+Pampers Premium Care Pants,G,65
+Babysec Super Premium,G,119
+Huggies Active Sec,G,29
+Pampers Premium Care,P,16
+Nateen,M,40
+Pampers Premium Care,XG,15
+Emu Baby Pañales Premium,M,42
+Bambo Nature,G,91
+Babysec Super Premium,XG,132
+Babysec Super Premium,M,62
+Pampers Premium Care Pants,M,90
+Parent's Choice,XXG,37
+Pampers Premium Care,G,24
+Pampers Premium Care,G,101
+Pampers Premium Care,XG,57
+Huggies Comfort Sec,G,82
+Pampers Premium Care Pants,G,47
+Pampers Premium Care,XG,35
+Pampers Premium Care,XG,50
+Parent's Choice,P,91
+Nateen,G,129
+Pampers Premium Care Pants,G,45
+Pampers Premium Care Pants,G,115
+Pampers Premium Care Pants,XG,80
+Pampers Premium Care Pants,XG,47
+Parent's Choice,XG,61
+Babysec Premium,XXG,73
+Pampers Premium Care,G,58
+Pampers Natural Care,XG,35
+Pampers Premium Care Pants,XG,88
+Nateen,XXG,40
+Huggies Active Sec,XXG,28
+Pampers Premium Care Pants,XG,101
+Babysec Super Premium,XXG,76
+Pampers Natural Care,XXG,2
+Pampers Premium Care,G,8
+Pampers Premium Care Pants,M,124
+Parent's Choice,XXG,106
+Pampers Premium Care,XG,16
+Pampers Premium Care Pants,G,116
+Pampers Premium Care,G,46
+Parent's Choice,XG,102
+Babysec Premium,G,119
+Huggies Active Sec,XG,100
+Huggies Active Sec,XG,37
+Huggies Active Sec,XXG,47
+Merries,G,91
+Pampers Premium Care,P,20
+Batitú,G,81
+Pampers Premium Care,M,77
+Pampers Premium Care Pants,XG,34
+Pampers Premium Care Pants,XXG,98
+Huggies Active Sec,XG,81
+Pampers Premium Care,M,92
+Huggies Active Sec,P,82
+Batitú,M,42
+Pampers Natural Care,M,127
+Pampers Premium Care,G,81
+Huggies Active Sec,XG,37
+Babysec Super Premium,RN,74
+Babysec Super Premium,XG,84
+Pampers Premium Care Pants,G,32
+Emu Baby Pañales Premium,XXG,111
+Pampers Premium Care Pants,M,20
+Pampers Premium Care,XG,70
+Pampers Premium Care,XG,12
+Nateen,XG,71
+Emu Baby Pañales Premium,G,116
+Pampers Premium Care Pants,G,118
+Pampers Premium Care,M,27
+Pampers Premium Care Pants,XG,32
+Huggies Active Sec,P,71
+Pampers Premium Care Pants,XG,21
+Pampers Premium Care,G,104
+Pampers Natural Care,RN,124
+Pampers Premium Care,RN,124
+Emu Baby Pañales Premium,RN,13
+Parent's Choice,XG,54
+Nateen,RN,125
+Pampers Premium Care Pants,P,93
+Merries,XG,13
+Merries,M,103
+Parent's Choice,G,120
+Pampers Premium Care,XG,17
+Huggies Active Sec,XG,103
+Pampers Premium Care,XXG,114
+Emu Baby Pañales Premium,G,82
+Pampers Premium Care,XG,127
+Emu Baby Pañales Premium,M,98
+Pampers Premium Care Pants,P,27
+Pampers Premium Care,P,3
+Babysec Super Premium,G,83
+Pampers Premium Care,M,75
+Batitú,G,85
+Pampers Premium Care,XG,104
+Huggies Active Sec,M,18
+Huggies Active Sec,G,40
+Batitú,G,82
+Merries,M,91
+Huggies Active Sec,XXG,16
+Pampers Premium Care,M,130
+Babysec Premium,RN,73
+Emu Baby Pañales Premium,XXG,86
+Batitú,XXG,61
+Pampers Natural Care,XG,47
+Pampers Premium Care Pants,XG,40
+Merries,G,106
+Batitú,XG,27
+Huggies Active Sec,G,85
+Batitú,RN,75
+Parent's Choice,G,112
+Nateen,XG,8
+Huggies Comfort Sec,G,126
+Huggies Active Sec,XG,83
+Nateen,G,100
+Nateen,XXG,117
+Babysec Premium,RN,102
+Pampers Premium Care Pants,G,117
+Huggies Comfort Sec,P,109
+Huggies Active Sec,XG,132
+Pampers Premium Care Pants,G,7
+Pampers Premium Care Pants,RN,77
+Huggies Comfort Sec,M,81
+Huggies Comfort Sec,P,2
+Babysec Super Premium,XG,119
+Huggies Active Sec,XG,85
+Pampers Premium Care,XXG,2
+Huggies Comfort Sec,XG,46
+Pampers Premium Care Pants,M,127
+Huggies Active Sec,XXG,131
+Pampers Premium Care Pants,RN,94
+Pampers Premium Care,XG,4
+Batitú,XXG,52
+Pampers Premium Care Pants,XG,74
+Pampers Premium Care,XG,113
+Pampers Premium Care,XG,2
+Parent's Choice,P,95
+Babysec Super Premium,XG,73
+Pampers Premium Care,M,111
+Bambo Nature,P,79
+Huggies Comfort Sec,XG,5
+Emu Baby Pañales Premium,M,73
+Pampers Premium Care Pants,XXG,129
+Huggies Active Sec,XG,36
+Babysec Super Premium,XXG,39
+Pampers Premium Care,XG,43
+Pampers Premium Care,XG,2
+Huggies Active Sec,P,43
+Pampers Premium Care,G,17
+Babysec Super Premium,RN,26
+Nateen,XXG,68
+Nateen,XG,53
+Parent's Choice,XG,39
+Babysec Premium,XG,96
+Huggies Active Sec,XG,68
+Pampers Premium Care Pants,M,78
+Pampers Premium Care Pants,XG,53
+Emu Baby Pañales Premium,M,18
+Pampers Premium Care Pants,M,94
+Pampers Premium Care Pants,XG,67
+Bambo Nature,M,123
+Babysec Premium,XXG,12
+Huggies Active Sec,G,64
+Pampers Premium Care,XXG,12
+Pampers Premium Care Pants,M,31
+Pampers Premium Care Pants,XG,53
+Pampers Premium Care,XXG,25
+Babysec Premium,G,54
+Huggies Active Sec,RN,17
+Pampers Premium Care,XXG,35
+Merries,XG,122
+Babysec Super Premium,RN,13
+Pampers Premium Care Pants,XG,129
+Pampers Premium Care Pants,XXG,19
+Parent's Choice,P,128
+Pampers Premium Care,G,120
+Huggies Active Sec,M,59
+Pampers Premium Care Pants,G,83
+Pampers Premium Care,XG,35
+Pampers Premium Care Pants,G,44
+Huggies Active Sec,XG,112
+Pampers Premium Care Pants,XG,109
+Huggies Comfort Sec,M,23
+Nateen,XG,4
+Pampers Premium Care Pants,G,40
+Batitú,G,16
+Pampers Premium Care Pants,RN,78
+Parent's Choice,M,95
+Pampers Premium Care Pants,XG,75
+Babysec Premium,XG,25
+Pampers Premium Care,XG,62
+Babysec Premium,G,39
+Pampers Premium Care,XG,22
+Parent's Choice,XG,77
+Babysec Premium,G,41
+Pampers Natural Care,G,28
+Merries,M,116
+Babysec Super Premium,G,47
+Huggies Comfort Sec,XXG,80
+Pampers Premium Care Pants,G,50
+Nateen,G,58
+Pampers Premium Care Pants,XG,116
+Babysec Super Premium,RN,112
+Babysec Super Premium,G,43
+Pampers Premium Care,G,2
+Nateen,M,98
+Pampers Premium Care,G,114
+Parent's Choice,G,125
+Pampers Premium Care,G,59
+Pampers Premium Care Pants,G,108
+Pampers Premium Care Pants,XXG,127
+Pampers Natural Care,M,12
+Pampers Premium Care,RN,100
+Pampers Premium Care,XG,103
+Nateen,XXG,109
+Pampers Premium Care,G,78
+Bambo Nature,G,34
+Pampers Premium Care,XG,72
+Nateen,XG,2
+Pampers Premium Care,XXG,23
+Huggies Comfort Sec,XXG,122
+Pampers Premium Care,XXG,104
+Parent's Choice,XXG,63
+Huggies Comfort Sec,XXG,68
+Huggies Active Sec,M,91
+Pampers Premium Care Pants,G,15
+Huggies Comfort Sec,XG,46
+Pampers Premium Care Pants,M,107
+Pampers Premium Care Pants,XG,49
+Emu Baby Pañales Premium,XG,26
+Nateen,XG,94
+Pampers Premium Care Pants,XG,12
+Babysec Super Premium,P,15
+Emu Baby Pañales Premium,RN,79
+Emu Baby Pañales Premium,M,83
+Babysec Super Premium,XG,131
+Huggies Active Sec,RN,52
+Pampers Premium Care,XXG,1
+Huggies Comfort Sec,XXG,28
+Pampers Premium Care,RN,66
+Pampers Premium Care Pants,XXG,69
+Pampers Premium Care Pants,G,122
+Pampers Natural Care,M,128
+Pampers Premium Care,M,128
+Pampers Premium Care Pants,XG,42
+Pampers Premium Care,G,79
+Pampers Premium Care,XXG,56
+Pampers Premium Care,XG,28
+Huggies Comfort Sec,XXG,62
+Pampers Premium Care,XG,129
+Bambo Nature,G,23
+Pampers Premium Care Pants,G,129
+Huggies Active Sec,RN,17
+Huggies Active Sec,XG,19
+Pampers Natural Care,G,70
+Pampers Premium Care,XG,118
+Pampers Natural Care,M,69
+Merries,G,112
+Pampers Premium Care Pants,G,50
+Batitú,XG,113
+Merries,XG,16
+Pampers Premium Care,M,130
+Pampers Premium Care,XG,28
+Pampers Natural Care,XG,122
+Pampers Premium Care,RN,11
+Huggies Active Sec,XG,15
+Emu Baby Pañales Premium,G,107
+Pampers Premium Care,XXG,86
+Huggies Active Sec,M,15
+Pampers Premium Care Pants,RN,31
+Pampers Premium Care,M,64
+Emu Baby Pañales Premium,G,118
+Pampers Premium Care Pants,M,104
+Emu Baby Pañales Premium,M,14
+Pampers Premium Care,RN,27
+Pampers Premium Care,XG,53
+Huggies Active Sec,M,20
+Babysec Super Premium,G,97
+Pampers Premium Care Pants,XXG,128
+Pampers Premium Care,XG,13
+Pampers Natural Care,RN,4
+Pampers Premium Care,XG,4
+Pampers Premium Care Pants,G,115
+Babysec Premium,XG,105
+Pampers Premium Care,RN,6
+Pampers Natural Care,G,88
+Pampers Premium Care,XG,34
+Pampers Premium Care Pants,M,63
+Pampers Premium Care,M,121
+Pampers Premium Care,M,123
+Pampers Premium Care Pants,G,20
+Pampers Premium Care Pants,XXG,63
+Pampers Natural Care,G,26
+Pampers Premium Care,P,8
+Pampers Premium Care Pants,G,64
+Pampers Premium Care,XXG,20
+Pampers Premium Care,XG,78
+Merries,XXG,76
+Pampers Premium Care Pants,XG,132
+Huggies Active Sec,XG,112
+Huggies Comfort Sec,G,49
+Pampers Premium Care,RN,129
+Huggies Comfort Sec,RN,129
+Merries,XXG,21
+Pampers Premium Care,XG,30
+Pampers Premium Care,XG,30
+Pampers Premium Care Pants,RN,54
+Pampers Natural Care,XG,13
+Pampers Premium Care,G,18
+Huggies Comfort Sec,XG,98
+Pampers Premium Care,XG,27
+Pampers Premium Care,M,69
+Pampers Premium Care,XG,60
+Pampers Premium Care Pants,XXG,77
+Huggies Active Sec,P,72
+Pampers Premium Care Pants,XXG,76
+Pampers Premium Care Pants,G,24
+Huggies Active Sec,M,34
+Pampers Premium Care,G,90
+Pampers Premium Care,G,131
+Pampers Premium Care,G,124
+Huggies Active Sec,M,120
+Pampers Premium Care,G,122
+Pampers Premium Care Pants,G,13
+Bambo Nature,XXG,43
+Emu Baby Pañales Premium,XG,16
+Pampers Premium Care Pants,XG,84
+Huggies Active Sec,XG,36
+Babysec Super Premium,XXG,74
+Pampers Premium Care,XG,39
+Babysec Super Premium,XXG,19
+Pampers Premium Care Pants,XG,41
+Emu Baby Pañales Premium,M,10
+Pampers Premium Care Pants,M,60
+Pampers Premium Care,XXG,42
+Pampers Premium Care,P,99
+Pampers Premium Care Pants,XXG,66
+Huggies Active Sec,XXG,109
+Huggies Active Sec,XG,38
+Pampers Premium Care Pants,XXG,109
+Huggies Active Sec,XXG,27
+Pampers Premium Care Pants,M,59
+Huggies Active Sec,XG,91
+Huggies Active Sec,G,116
+Pampers Natural Care,P,33
+Babysec Premium,XG,40
+Parent's Choice,XG,83
+Parent's Choice,XG,101
+Merries,P,63
+Pampers Premium Care,G,57
+Babysec Super Premium,M,48
+Pampers Premium Care Pants,XG,12
+Pampers Premium Care Pants,P,103

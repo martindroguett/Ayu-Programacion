@@ -1,0 +1,26 @@
+Ingrese el nombre de la apliación: uber
+ingrese la contraseña asociada a la aplicación: password
+Ingrese la cantidad de veces que se cifrará la contraseña: -1
+Error, cantidad inválida
+Ingrese la cantidad de veces que se cifrará la contraseña: 3
+[-] La nueva contraseña no es robusta: pe1csswv0lrdpe1csswv0lrdpe1csswv0lrd
+[i] faltan 3 cantidad de caracteres especiales
+----------------------------------------
+Ingrese el nombre de la apliación: instagram
+ingrese la contraseña asociada a la aplicación: pa$$word!
+Ingrese la cantidad de veces que se cifrará la contraseña: 2
+[+] La nueva contraseña es robusta: pe1c$$wv0lrd!pe1c$$wv0lrd!
+----------------------------------------
+Ingrese el nombre de la apliación: league of legends
+ingrese la contraseña asociada a la aplicación: wua
+Ingrese la cantidad de veces que se cifrará la contraseña: 10
+[+] La nueva contraseña es robusta: w3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1c
+----------------------------------------
+Ingrese el nombre de la apliación: fin
+========================================
+      [+] Resumen de Aplicación con mayor Robustez     
+Nombre de la aplicación: league of legends
+Contraseña cifrada: w3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1cw3$te1c
+Cantidad de caracteres en total: 70
+Cantidad de caracteres especiales: 10
+========================================

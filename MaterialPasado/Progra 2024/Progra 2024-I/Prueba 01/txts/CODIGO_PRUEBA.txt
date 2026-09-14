@@ -1,0 +1,15 @@
+SEP:;?V=2
+PALABRA;HOLA;ESTE;ES
+SEP:=?V=3
+_= =_= =----
+SEP:,?V=4
+123:,ES,222,XX33XXX,ES,A,A,W3E,A
+SEP:=?V=3
+_= =_= =----
+SEP:¿?V=0
+UN¿22¿ERROR¿¡
+SEP:=?V=3
+_= =_= =----
+SEP:=?V=7
+_= =_= =----=2=as=EJEMPLO=por=iiii=ooo
+endwar

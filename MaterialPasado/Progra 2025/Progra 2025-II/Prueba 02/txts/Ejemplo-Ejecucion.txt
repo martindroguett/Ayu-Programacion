@@ -1,0 +1,1067 @@
+1. Coste de producción de cada lote
+Lote 0-0-1: 231.69
+Lote 0-0-2: 366.35
+Lote 0-0-3: 194.7
+Lote 0-1-1: 428.98
+Lote 0-1-2: 536.2
+Lote 0-1-3: 235.04
+Lote 0-1-4: 645.43
+Lote 0-1-5: 651.94
+Lote 0-1-6: 34.53
+Lote 0-1-7: 780.79
+Lote 0-1-8: 322.46
+Lote 0-2-1: 65.73
+Lote 0-2-2: 485.2
+Lote 0-2-3: 159.95
+Lote 0-2-4: 543.09
+Lote 0-2-5: 487.94
+Lote 0-2-6: 504.95
+Lote 0-2-7: 129.32
+Lote 0-3-1: 154.99
+Lote 0-3-2: 266.18
+Lote 0-3-3: 538.48
+Lote 0-3-4: 266.09
+Lote 0-3-5: 469.83
+Lote 0-3-6: 506.45
+Lote 0-3-7: 403.81
+Lote 0-3-8: 566.14
+Lote 0-4-1: 347.23
+Lote 0-4-2: 94.36
+Lote 0-4-3: 729.29
+Lote 0-4-4: 79.38
+Lote 0-4-5: 192.53
+Lote 0-5-1: 416.84
+Lote 0-5-2: 389.75
+Lote 0-5-3: 407.23
+Lote 0-5-4: 287.64
+Lote 0-5-5: 465.29
+Lote 0-6-1: 193.11
+Lote 0-6-2: 277.18
+Lote 0-8-1: 300.22
+Lote 0-8-2: 81.6
+Lote 0-8-3: 656.87
+Lote 0-8-4: 86.62
+Lote 0-8-5: 56.21
+Lote 0-8-6: 470.13
+Lote 0-8-7: 117.36
+Lote 0-8-8: 18.54
+Lote 0-8-9: 573.39
+Lote 0-9-1: 367.27
+Lote 0-9-2: 157.29
+Lote 0-9-3: 80.85
+Lote 0-9-4: 279.08
+Lote 0-9-5: 464.4
+Lote 0-9-6: 7.45
+Lote 1-0-1: 417.1
+Lote 1-0-2: 549.24
+Lote 1-1-1: 656.18
+Lote 1-1-2: 749.72
+Lote 1-1-3: 150.39
+Lote 1-2-1: 103.16
+Lote 1-2-2: 182.29
+Lote 1-2-3: 204.09
+Lote 1-2-4: 420.7
+Lote 1-2-5: 137.82
+Lote 1-2-6: 53.03
+Lote 1-2-7: 349.94
+Lote 1-2-8: 54.03
+Lote 1-2-9: 342.34
+Lote 1-2-10: 513.81
+Lote 1-3-1: 220.53
+Lote 1-3-2: 335.49
+Lote 1-3-3: 517.68
+Lote 1-3-4: 392.01
+Lote 1-3-5: 304.75
+Lote 1-4-1: 181.7
+Lote 1-4-2: 591.34
+Lote 1-4-3: 69.44
+Lote 1-4-4: 430.11
+Lote 1-4-5: 301.09
+Lote 1-4-6: 266.14
+Lote 1-4-7: 174.21
+Lote 1-5-1: 521.41
+Lote 1-5-2: 22.27
+Lote 1-5-3: 85.97
+Lote 1-5-4: 535.07
+Lote 1-6-1: 164.5
+Lote 1-6-2: 221.56
+Lote 1-7-1: 555.65
+Lote 1-7-2: 614.36
+Lote 1-7-3: 76.14
+Lote 1-7-4: 237.14
+Lote 1-7-5: 83.78
+Lote 1-7-6: 210.06
+Lote 1-7-7: 659.72
+Lote 1-8-1: 91.98
+Lote 1-8-2: 161.24
+Lote 1-8-3: 398.82
+Lote 1-8-4: 91.12
+Lote 1-8-5: 375.45
+Lote 1-8-6: 2.8
+Lote 1-8-7: 578.86
+Lote 2-0-1: 482.8
+Lote 2-0-2: 28.53
+Lote 2-1-1: 519.51
+Lote 2-1-2: 436.13
+Lote 2-1-3: 556.64
+Lote 2-1-4: 109.81
+Lote 2-1-5: 541.2
+Lote 2-1-6: 72.91
+Lote 2-1-7: 603.99
+Lote 2-3-1: 345.81
+Lote 2-4-1: 521.08
+Lote 2-4-2: 123.64
+Lote 2-4-3: 100.32
+Lote 2-4-4: 54.12
+Lote 2-5-1: 433.37
+Lote 2-5-2: 47.76
+Lote 2-5-3: 581.23
+Lote 2-6-1: 251.98
+Lote 2-6-2: 680.39
+Lote 2-6-3: 522.78
+Lote 2-6-4: 108.34
+Lote 2-6-5: 166.71
+Lote 2-7-1: 307.5
+Lote 2-7-2: 515.14
+Lote 2-8-1: 488.87
+Lote 2-8-2: 412.09
+Lote 2-8-3: 194.6
+Lote 2-8-4: 562.87
+Lote 2-8-5: 506.91
+Lote 2-8-6: 422.2
+Lote 2-8-7: 547.11
+Lote 2-8-8: 517.14
+Lote 2-9-1: 122.39
+Lote 2-9-2: 386.76
+Lote 2-9-3: 256.8
+Lote 2-9-4: 695.58
+Lote 2-9-5: 189.57
+Lote 2-9-6: 167.72
+Lote 3-0-1: 440.41
+Lote 3-0-2: 546.6
+Lote 3-0-3: 631.55
+Lote 3-0-4: 486.88
+Lote 3-0-5: 141.57
+Lote 3-0-6: 239.41
+Lote 3-1-1: 378.65
+Lote 3-2-1: 146.76
+Lote 3-2-2: 78.52
+Lote 3-3-1: 331.76
+Lote 3-3-2: 500.93
+Lote 3-3-3: 133.03
+Lote 3-3-4: 396.89
+Lote 3-4-1: 74.61
+Lote 3-4-2: 594.59
+Lote 3-4-3: 420.28
+Lote 3-4-4: 236.66
+Lote 3-5-1: 322.61
+Lote 3-6-1: 9.59
+Lote 3-7-1: 280.25
+Lote 3-7-2: 415.95
+Lote 3-7-3: 104.52
+Lote 3-7-4: 396.47
+Lote 3-8-1: 237.99
+Lote 3-8-2: 465.73
+Lote 3-8-3: 684.08
+Lote 3-8-4: 503.07
+Lote 3-8-5: 444.59
+Lote 3-8-6: 270.33
+Lote 3-8-7: 571.22
+Lote 3-8-8: 122.2
+Lote 3-8-9: 561.65
+Lote 3-9-1: 609.61
+Lote 3-9-2: 198.86
+Lote 3-9-3: 122.81
+Lote 3-9-4: 393.85
+Lote 4-0-1: 632.79
+Lote 4-0-2: 596.03
+Lote 4-1-1: 429.74
+Lote 4-1-2: 529.97
+Lote 4-1-3: 121.38
+Lote 4-1-4: 291.15
+Lote 4-1-5: 521.58
+Lote 4-2-1: 36.55
+Lote 4-2-2: 63.08
+Lote 4-2-3: 474.46
+Lote 4-2-4: 592.04
+Lote 4-3-1: 247.21
+Lote 4-3-2: 361.68
+Lote 4-3-3: 159.63
+Lote 4-3-4: 282.1
+Lote 4-3-5: 67.32
+Lote 4-3-6: 342.41
+Lote 4-3-7: 235.05
+Lote 4-3-8: 279.58
+Lote 4-4-1: 43.57
+Lote 4-6-1: 75.13
+Lote 4-6-2: 263.41
+Lote 4-6-3: 692.36
+Lote 4-6-4: 471.36
+Lote 4-6-5: 128.66
+Lote 4-6-6: 320.25
+Lote 4-6-7: 543.09
+Lote 4-6-8: 474.38
+Lote 4-6-9: 639.46
+Lote 4-7-1: 117.24
+Lote 4-7-2: 297.55
+Lote 4-7-3: 265.69
+Lote 4-7-4: 375.56
+Lote 4-7-5: 242.3
+Lote 4-7-6: 597.22
+Lote 4-7-7: 334.11
+Lote 4-7-8: 287.89
+Lote 4-8-1: 160.77
+Lote 4-8-2: 261.64
+Lote 4-8-3: 323.28
+Lote 4-8-4: 511.14
+Lote 4-8-5: 539.86
+Lote 4-8-6: 228.14
+Lote 4-8-7: 195.05
+Lote 4-9-1: 426.19
+Lote 4-9-2: 190.11
+Lote 4-9-3: 516.3
+Lote 4-9-4: 223.64
+Lote 4-9-5: 380.29
+Lote 4-9-6: 279.2
+Lote 5-0-1: 124.87
+Lote 5-0-2: 556.82
+Lote 5-0-3: 256.65
+Lote 5-0-4: 562.09
+Lote 5-0-5: 291.91
+Lote 5-0-6: 65.78
+Lote 5-0-7: 685.53
+Lote 5-0-8: 415.56
+Lote 5-1-1: 517.03
+Lote 5-1-2: 360.97
+Lote 5-1-3: 319.4
+Lote 5-1-4: 448.96
+Lote 5-1-5: 120.52
+Lote 5-1-6: 215.86
+Lote 5-1-7: 421.92
+Lote 5-1-8: 303.5
+Lote 5-1-9: 545.2
+Lote 5-1-10: 150.02
+Lote 5-2-1: 177.91
+Lote 5-2-2: 497.89
+Lote 5-2-3: 376.52
+Lote 5-2-4: 360.03
+Lote 5-2-5: 406.53
+Lote 5-2-6: 262.15
+Lote 5-2-7: 543.09
+Lote 5-3-1: 172.39
+Lote 5-3-2: 690.49
+Lote 5-4-1: 110.27
+Lote 5-4-2: 238.56
+Lote 5-5-1: 612.78
+Lote 5-5-2: 557.17
+Lote 5-5-3: 434.73
+Lote 5-5-4: 320.87
+Lote 5-5-5: 373.33
+Lote 5-5-6: 318.44
+Lote 5-5-7: 23.31
+Lote 5-5-8: 497.98
+Lote 5-5-9: 389.97
+Lote 5-6-1: 372.55
+Lote 5-6-2: 191.27
+Lote 5-6-3: 184.15
+Lote 5-6-4: 353.36
+Lote 5-6-5: 178.53
+Lote 5-6-6: 635.66
+Lote 5-6-7: 148.38
+Lote 5-6-8: 220.83
+Lote 5-6-9: 291.58
+Lote 5-7-1: 135.66
+Lote 5-7-2: 384.21
+Lote 5-7-3: 221.84
+Lote 5-7-4: 202.67
+Lote 5-7-5: 157.18
+Lote 5-7-6: 565.88
+Lote 5-7-7: 33.7
+Lote 5-7-8: 178.77
+Lote 5-7-9: 392.38
+Lote 5-8-1: 100.7
+Lote 5-8-2: 333.66
+Lote 5-8-3: 145.59
+Lote 5-8-4: 259.27
+Lote 5-8-5: 250.77
+Lote 5-8-6: 27.12
+Lote 5-8-7: 649.37
+Lote 5-8-8: 183.08
+Lote 5-9-1: 49.83
+Lote 5-9-2: 396.02
+Lote 5-9-3: 411.53
+Lote 6-0-1: 504.27
+Lote 6-0-2: 459.83
+Lote 6-0-3: 567.29
+Lote 6-0-4: 626.24
+Lote 6-0-5: 204.87
+Lote 6-1-1: 156.21
+Lote 6-1-2: 432.23
+Lote 6-1-3: 364.38
+Lote 6-1-4: 154.86
+Lote 6-1-5: 17.23
+Lote 6-1-6: 369.97
+Lote 6-1-7: 284.39
+Lote 6-2-1: 467.58
+Lote 6-2-2: 325.41
+Lote 6-2-3: 549.72
+Lote 6-2-4: 86.74
+Lote 6-2-5: 160.25
+Lote 6-2-6: 563.23
+Lote 6-2-7: 254.83
+Lote 6-2-8: 560.98
+Lote 6-2-9: 153.05
+Lote 6-4-1: 417.46
+Lote 6-4-2: 36.57
+Lote 6-4-3: 228.45
+Lote 6-4-4: 208.81
+Lote 6-4-5: 290.56
+Lote 6-4-6: 13.51
+Lote 6-4-7: 336.81
+Lote 6-4-8: 74.62
+Lote 6-4-9: 253.82
+Lote 6-4-10: 125.23
+Lote 6-5-1: 221.25
+Lote 6-5-2: 550.4
+Lote 6-5-3: 257.3
+Lote 6-5-4: 136.59
+Lote 6-6-1: 7.05
+Lote 6-6-2: 289.54
+Lote 6-6-3: 403.92
+Lote 6-6-4: 343.39
+Lote 6-7-1: 171.04
+Lote 6-7-2: 73.86
+Lote 6-7-3: 675.61
+Lote 6-7-4: 157.14
+Lote 6-7-5: 274.01
+Lote 6-7-6: 477.04
+Lote 6-7-7: 530.61
+Lote 6-7-8: 705.07
+Lote 6-7-9: 523.11
+Lote 6-8-1: 114.28
+Lote 6-8-2: 588.27
+Lote 6-8-3: 343.05
+Lote 6-8-4: 304.56
+Lote 6-8-5: 331.7
+Lote 6-9-1: 244.5
+Lote 6-9-2: 439.18
+Lote 6-9-3: 391.13
+Lote 6-9-4: 206.77
+Lote 6-9-5: 116.14
+Lote 6-9-6: 454.47
+----------------------------------------------------
+
+----------------------------------------------------
+2. Listado de productos con sus unidades producidas
+Dill Pickle Chips: 18996
+Cushion Covers: 25516
+Coconut Chips: 29512
+Marinated Artichokes: 19777
+Stuffed Grape Leaves: 30777
+Pet Safety Harness: 24199
+Hummus: 17735
+Insulated Coffee Mug: 23449
+Golf Polo Shirt: 19803
+Ranch Dressing: 23669
+Car Windshield Sun Shade: 20073
+Organic Coconut Water: 26972
+Electric Wax Warmer: 25034
+Hummus Trio Pack: 28711
+Fitness Tracker: 21274
+Basil Lemonade: 20881
+Rechargeable Laptop Battery Pack: 20574
+Bamboo Cotton Tank Top: 22665
+Spinach and Ricotta Ravioli: 21703
+Organic Brown Rice Cakes: 21617
+Compressed Towel Tablets: 26123
+Winter Knit Beanie: 28325
+Portable Ice Maker: 22006
+Glass Tea Pot: 22824
+Electric Toothbrush Holder: 31660
+Dog Training Collar: 30042
+Fitness Tracker Watch: 22465
+Smart Wi-Fi Light Bulbs: 26858
+Non-Stick Grill Pan: 27378
+Window Bird Feeder: 19272
+Creamy Coleslaw Mix: 22436
+Acoustic Guitar: 25227
+Coconut Rice: 24118
+Cold Brew Coffee Concentrate: 25322
+Almond Butter Crunch Bar: 20688
+Canvas Wall Art: 23847
+Pecan Nuts: 24681
+Rechargeable Hand Warmer: 28414
+Sweet Corn: 18586
+Garden Vegetable Chips: 21144
+Sweet Chili Sauce: 21295
+Magnetic Phone Car Mount: 20019
+Pineapple Rings: 22817
+Whole Chicken: 23069
+Whisk Set: 26030
+Chicken Broth: 19978
+Children's Science Experiment Lab Kit: 21963
+Lentil Soup (canned): 24434
+Electric Heating Pad: 19731
+Cucumber Lime Sparkling Water: 23311
+Frozen Chicken Nuggets: 22354
+Miso Soup Mix: 27419
+Pumpkin Seeds: 21289
+Cinnamon Raisin Bread: 21739
+Lentil Vegetable Stew: 23892
+Puffed Rice Cake: 26466
+Deep Tissue Massage Gun: 19808
+3D Night Light: 23625
+Reusable Snack Bags: 29261
+Travel Sewing Kit: 19089
+Almond Coconut Granola: 21819
+Toasted Coconut Granola: 23538
+Herb Garden Planter Box: 22974
+Skincare Fridge: 22715
+Vegan chocolate chip cookies: 17486
+Window A/C Unit: 19528
+Roasted Garlic: 21735
+Sweet and Spicy Barbecue Sauce: 25957
+Whole Wheat Pasta: 17057
+LED Strip Lights Kit: 18931
+Snap-On Tupperware Set: 21673
+Cilantro Lime Rice: 20302
+Vegetable Stock: 17525
+Peach Salsa: 27820
+Portable Projector: 16849
+Chipotle Seasoning Blend: 20170
+Slim Fit Chinos: 23699
+Compressible Packing Cubes: 15433
+Motorcycle Phone Mount: 26997
+Sooji (Semolina): 20114
+Handheld Garment Steamer: 25876
+Smart Water Bottle: 21258
+Pet Travel Bowl: 23074
+Smartphone Gimbal Stabilizer: 17411
+Personal Blender: 21165
+Chocolate Chip Cookie Dough: 20213
+Thai Basil Fried Rice: 20587
+Smartphone Camera Lens Kit: 24990
+Ergonomic Mouse Pad with Wrist Support: 23267
+Herbal Tea Sampler Box: 26629
+LED Strip Light Kit: 24017
+Microwave Popcorn Maker: 25596
+Insulated Lunch Bag: 28712
+Brownie Bites: 20033
+Foldable Yoga Mat Carry Bag: 20974
+Salsa: 26288
+Beef Enchilada Casserole: 21130
+Coconut Milk Yogurt: 20452
+----------------------------------------------------
+
+----------------------------------------------------
+3. Valor de todos los productos fabricados: 56888223.56
+----------------------------------------------------
+
+----------------------------------------------------
+4. Detalle de producción anual
+
+2025
+
+Dill Pickle Chips: 4488
+Cushion Covers: 6010
+Coconut Chips: 6187
+Marinated Artichokes: 4166
+Stuffed Grape Leaves: 8293
+Pet Safety Harness: 5752
+Hummus: 5398
+Insulated Coffee Mug: 9047
+Golf Polo Shirt: 2153
+Ranch Dressing: 5380
+Car Windshield Sun Shade: 3323
+Organic Coconut Water: 5949
+Electric Wax Warmer: 4266
+Hummus Trio Pack: 5086
+Fitness Tracker: 5252
+Basil Lemonade: 3432
+Rechargeable Laptop Battery Pack: 6611
+Bamboo Cotton Tank Top: 6621
+Spinach and Ricotta Ravioli: 5316
+Organic Brown Rice Cakes: 4794
+Compressed Towel Tablets: 6015
+Winter Knit Beanie: 5432
+Portable Ice Maker: 4386
+Glass Tea Pot: 4472
+Electric Toothbrush Holder: 6143
+Dog Training Collar: 6116
+Fitness Tracker Watch: 5245
+Smart Wi-Fi Light Bulbs: 8289
+Non-Stick Grill Pan: 7407
+Window Bird Feeder: 5346
+Creamy Coleslaw Mix: 3596
+Acoustic Guitar: 3012
+Coconut Rice: 4004
+Cold Brew Coffee Concentrate: 3936
+Almond Butter Crunch Bar: 4854
+Canvas Wall Art: 8423
+Pecan Nuts: 5527
+Rechargeable Hand Warmer: 6601
+Sweet Corn: 5926
+Garden Vegetable Chips: 4557
+Sweet Chili Sauce: 2864
+Magnetic Phone Car Mount: 5823
+Pineapple Rings: 5337
+Whole Chicken: 3361
+Whisk Set: 4234
+Chicken Broth: 2933
+Children's Science Experiment Lab Kit: 4551
+Lentil Soup (canned): 2323
+Electric Heating Pad: 4582
+Cucumber Lime Sparkling Water: 5239
+Frozen Chicken Nuggets: 4670
+Miso Soup Mix: 4665
+Pumpkin Seeds: 6524
+Cinnamon Raisin Bread: 8580
+Lentil Vegetable Stew: 4544
+Puffed Rice Cake: 6671
+Deep Tissue Massage Gun: 1922
+3D Night Light: 2982
+Reusable Snack Bags: 5519
+Travel Sewing Kit: 1396
+Almond Coconut Granola: 1686
+Toasted Coconut Granola: 6072
+Herb Garden Planter Box: 3813
+Skincare Fridge: 3400
+Vegan chocolate chip cookies: 4222
+Window A/C Unit: 5975
+Roasted Garlic: 4118
+Sweet and Spicy Barbecue Sauce: 5130
+Whole Wheat Pasta: 1839
+LED Strip Lights Kit: 1336
+Snap-On Tupperware Set: 5315
+Cilantro Lime Rice: 3425
+Vegetable Stock: 3051
+Peach Salsa: 3223
+Portable Projector: 5828
+Chipotle Seasoning Blend: 4180
+Slim Fit Chinos: 2074
+Compressible Packing Cubes: 5709
+Motorcycle Phone Mount: 5702
+Sooji (Semolina): 2130
+Handheld Garment Steamer: 3949
+Smart Water Bottle: 5265
+Pet Travel Bowl: 7067
+Smartphone Gimbal Stabilizer: 1934
+Personal Blender: 6073
+Chocolate Chip Cookie Dough: 3427
+Thai Basil Fried Rice: 1269
+Smartphone Camera Lens Kit: 3632
+Ergonomic Mouse Pad with Wrist Support: 3557
+Herbal Tea Sampler Box: 3771
+LED Strip Light Kit: 4959
+Microwave Popcorn Maker: 5888
+Insulated Lunch Bag: 4152
+Brownie Bites: 4341
+Foldable Yoga Mat Carry Bag: 1734
+Salsa: 4350
+Beef Enchilada Casserole: 3016
+Coconut Milk Yogurt: 3085
+
+2020
+
+Dill Pickle Chips: 3143
+Cushion Covers: 3227
+Coconut Chips: 4509
+Marinated Artichokes: 989
+Stuffed Grape Leaves: 2207
+Pet Safety Harness: 3362
+Hummus: 1538
+Insulated Coffee Mug: 4895
+Golf Polo Shirt: 3726
+Ranch Dressing: 4999
+Car Windshield Sun Shade: 4018
+Organic Coconut Water: 2523
+Electric Wax Warmer: 2445
+Hummus Trio Pack: 1577
+Fitness Tracker: 2261
+Basil Lemonade: 2987
+Rechargeable Laptop Battery Pack: 3784
+Bamboo Cotton Tank Top: 3220
+Spinach and Ricotta Ravioli: 1651
+Organic Brown Rice Cakes: 1404
+Compressed Towel Tablets: 1792
+Winter Knit Beanie: 4885
+Portable Ice Maker: 4146
+Glass Tea Pot: 4805
+Electric Toothbrush Holder: 2551
+Dog Training Collar: 2767
+Fitness Tracker Watch: 2421
+Smart Wi-Fi Light Bulbs: 4843
+Non-Stick Grill Pan: 3026
+Window Bird Feeder: 775
+Creamy Coleslaw Mix: 3089
+Acoustic Guitar: 4015
+Coconut Rice: 3458
+Cold Brew Coffee Concentrate: 3254
+Almond Butter Crunch Bar: 3004
+Canvas Wall Art: 1865
+Pecan Nuts: 3705
+Rechargeable Hand Warmer: 3019
+Sweet Corn: 886
+Garden Vegetable Chips: 2816
+Sweet Chili Sauce: 2350
+Magnetic Phone Car Mount: 1565
+Pineapple Rings: 1737
+Whole Chicken: 3089
+Whisk Set: 2730
+Chicken Broth: 2957
+Children's Science Experiment Lab Kit: 629
+Lentil Soup (canned): 2602
+Electric Heating Pad: 2627
+Cucumber Lime Sparkling Water: 3657
+Frozen Chicken Nuggets: 1824
+Miso Soup Mix: 4768
+Pumpkin Seeds: 3192
+Cinnamon Raisin Bread: 2799
+Lentil Vegetable Stew: 3421
+Puffed Rice Cake: 3996
+Deep Tissue Massage Gun: 2455
+3D Night Light: 1571
+Reusable Snack Bags: 3409
+Travel Sewing Kit: 3436
+Almond Coconut Granola: 6037
+Toasted Coconut Granola: 3044
+Herb Garden Planter Box: 1534
+Skincare Fridge: 1893
+Vegan chocolate chip cookies: 1516
+Window A/C Unit: 3402
+Roasted Garlic: 3869
+Sweet and Spicy Barbecue Sauce: 4908
+Whole Wheat Pasta: 2528
+LED Strip Lights Kit: 2660
+Snap-On Tupperware Set: 3576
+Cilantro Lime Rice: 2547
+Vegetable Stock: 3067
+Peach Salsa: 4259
+Portable Projector: 2054
+Chipotle Seasoning Blend: 4033
+Slim Fit Chinos: 4857
+Compressible Packing Cubes: 2209
+Motorcycle Phone Mount: 3711
+Sooji (Semolina): 3741
+Handheld Garment Steamer: 5151
+Smart Water Bottle: 2910
+Pet Travel Bowl: 539
+Smartphone Gimbal Stabilizer: 2790
+Personal Blender: 2141
+Chocolate Chip Cookie Dough: 4466
+Thai Basil Fried Rice: 3981
+Smartphone Camera Lens Kit: 3166
+Ergonomic Mouse Pad with Wrist Support: 471
+Herbal Tea Sampler Box: 5035
+LED Strip Light Kit: 2637
+Microwave Popcorn Maker: 4762
+Insulated Lunch Bag: 2948
+Brownie Bites: 2657
+Foldable Yoga Mat Carry Bag: 3088
+Salsa: 2172
+Beef Enchilada Casserole: 3005
+Coconut Milk Yogurt: 3581
+
+2021
+
+Dill Pickle Chips: 1435
+Cushion Covers: 3325
+Coconut Chips: 5361
+Marinated Artichokes: 2923
+Stuffed Grape Leaves: 4267
+Pet Safety Harness: 1496
+Hummus: 2576
+Insulated Coffee Mug: 2060
+Golf Polo Shirt: 4609
+Ranch Dressing: 4682
+Car Windshield Sun Shade: 3416
+Organic Coconut Water: 2752
+Electric Wax Warmer: 3427
+Hummus Trio Pack: 7212
+Fitness Tracker: 3021
+Basil Lemonade: 3755
+Rechargeable Laptop Battery Pack: 3045
+Bamboo Cotton Tank Top: 2901
+Spinach and Ricotta Ravioli: 3415
+Organic Brown Rice Cakes: 4713
+Compressed Towel Tablets: 3788
+Winter Knit Beanie: 5972
+Portable Ice Maker: 1732
+Glass Tea Pot: 3806
+Electric Toothbrush Holder: 6520
+Dog Training Collar: 6470
+Fitness Tracker Watch: 4345
+Smart Wi-Fi Light Bulbs: 4734
+Non-Stick Grill Pan: 5398
+Window Bird Feeder: 2961
+Creamy Coleslaw Mix: 3310
+Acoustic Guitar: 3546
+Coconut Rice: 7103
+Cold Brew Coffee Concentrate: 3827
+Almond Butter Crunch Bar: 2627
+Canvas Wall Art: 1937
+Pecan Nuts: 1442
+Rechargeable Hand Warmer: 3838
+Sweet Corn: 1643
+Garden Vegetable Chips: 3507
+Sweet Chili Sauce: 5190
+Magnetic Phone Car Mount: 1833
+Pineapple Rings: 2690
+Whole Chicken: 3754
+Whisk Set: 5536
+Chicken Broth: 2913
+Children's Science Experiment Lab Kit: 4465
+Lentil Soup (canned): 7312
+Electric Heating Pad: 1444
+Cucumber Lime Sparkling Water: 4488
+Frozen Chicken Nuggets: 2750
+Miso Soup Mix: 3341
+Pumpkin Seeds: 2976
+Cinnamon Raisin Bread: 2939
+Lentil Vegetable Stew: 4490
+Puffed Rice Cake: 2761
+Deep Tissue Massage Gun: 3797
+3D Night Light: 4928
+Reusable Snack Bags: 3937
+Travel Sewing Kit: 3504
+Almond Coconut Granola: 1465
+Toasted Coconut Granola: 2198
+Herb Garden Planter Box: 6046
+Skincare Fridge: 4535
+Vegan chocolate chip cookies: 1286
+Window A/C Unit: 2342
+Roasted Garlic: 3978
+Sweet and Spicy Barbecue Sauce: 1675
+Whole Wheat Pasta: 5100
+LED Strip Lights Kit: 2146
+Snap-On Tupperware Set: 2410
+Cilantro Lime Rice: 4172
+Vegetable Stock: 1248
+Peach Salsa: 3624
+Portable Projector: 3415
+Chipotle Seasoning Blend: 3049
+Slim Fit Chinos: 3892
+Compressible Packing Cubes: 4626
+Motorcycle Phone Mount: 2190
+Sooji (Semolina): 2762
+Handheld Garment Steamer: 2154
+Smart Water Bottle: 1793
+Pet Travel Bowl: 6923
+Smartphone Gimbal Stabilizer: 3512
+Personal Blender: 5194
+Chocolate Chip Cookie Dough: 3420
+Thai Basil Fried Rice: 4429
+Smartphone Camera Lens Kit: 5963
+Ergonomic Mouse Pad with Wrist Support: 3472
+Herbal Tea Sampler Box: 6069
+LED Strip Light Kit: 5402
+Microwave Popcorn Maker: 3420
+Insulated Lunch Bag: 6375
+Brownie Bites: 1904
+Foldable Yoga Mat Carry Bag: 5084
+Salsa: 4657
+Beef Enchilada Casserole: 966
+Coconut Milk Yogurt: 3804
+
+2024
+
+Dill Pickle Chips: 4539
+Cushion Covers: 5604
+Coconut Chips: 4667
+Marinated Artichokes: 5571
+Stuffed Grape Leaves: 6178
+Pet Safety Harness: 3474
+Hummus: 3830
+Insulated Coffee Mug: 3043
+Golf Polo Shirt: 3912
+Ranch Dressing: 2499
+Car Windshield Sun Shade: 3351
+Organic Coconut Water: 4726
+Electric Wax Warmer: 4405
+Hummus Trio Pack: 3803
+Fitness Tracker: 2373
+Basil Lemonade: 3346
+Rechargeable Laptop Battery Pack: 2490
+Bamboo Cotton Tank Top: 3758
+Spinach and Ricotta Ravioli: 4284
+Organic Brown Rice Cakes: 2317
+Compressed Towel Tablets: 3832
+Winter Knit Beanie: 5574
+Portable Ice Maker: 4406
+Glass Tea Pot: 3996
+Electric Toothbrush Holder: 7240
+Dog Training Collar: 4910
+Fitness Tracker Watch: 888
+Smart Wi-Fi Light Bulbs: 3347
+Non-Stick Grill Pan: 5937
+Window Bird Feeder: 4131
+Creamy Coleslaw Mix: 3676
+Acoustic Guitar: 5430
+Coconut Rice: 5274
+Cold Brew Coffee Concentrate: 5423
+Almond Butter Crunch Bar: 4316
+Canvas Wall Art: 5050
+Pecan Nuts: 2589
+Rechargeable Hand Warmer: 1942
+Sweet Corn: 3792
+Garden Vegetable Chips: 2589
+Sweet Chili Sauce: 4403
+Magnetic Phone Car Mount: 6202
+Pineapple Rings: 6363
+Whole Chicken: 5189
+Whisk Set: 3537
+Chicken Broth: 4380
+Children's Science Experiment Lab Kit: 5295
+Lentil Soup (canned): 3144
+Electric Heating Pad: 1728
+Cucumber Lime Sparkling Water: 1411
+Frozen Chicken Nuggets: 4240
+Miso Soup Mix: 1883
+Pumpkin Seeds: 1619
+Cinnamon Raisin Bread: 2510
+Lentil Vegetable Stew: 1557
+Puffed Rice Cake: 2399
+Deep Tissue Massage Gun: 4314
+3D Night Light: 5892
+Reusable Snack Bags: 6855
+Travel Sewing Kit: 4273
+Almond Coconut Granola: 3687
+Toasted Coconut Granola: 3984
+Herb Garden Planter Box: 2198
+Skincare Fridge: 1763
+Vegan chocolate chip cookies: 3085
+Window A/C Unit: 1121
+Roasted Garlic: 2876
+Sweet and Spicy Barbecue Sauce: 4933
+Whole Wheat Pasta: 1762
+LED Strip Lights Kit: 3976
+Snap-On Tupperware Set: 2776
+Cilantro Lime Rice: 1787
+Vegetable Stock: 1845
+Peach Salsa: 4343
+Portable Projector: 2006
+Chipotle Seasoning Blend: 2464
+Slim Fit Chinos: 3540
+Compressible Packing Cubes: 1291
+Motorcycle Phone Mount: 5247
+Sooji (Semolina): 2435
+Handheld Garment Steamer: 2252
+Smart Water Bottle: 3697
+Pet Travel Bowl: 1778
+Smartphone Gimbal Stabilizer: 1560
+Personal Blender: 887
+Chocolate Chip Cookie Dough: 2736
+Thai Basil Fried Rice: 4112
+Smartphone Camera Lens Kit: 2461
+Ergonomic Mouse Pad with Wrist Support: 3254
+Herbal Tea Sampler Box: 4573
+LED Strip Light Kit: 5272
+Microwave Popcorn Maker: 3641
+Insulated Lunch Bag: 4243
+Brownie Bites: 2987
+Foldable Yoga Mat Carry Bag: 2602
+Salsa: 3930
+Beef Enchilada Casserole: 4825
+Coconut Milk Yogurt: 1509
+
+2022
+
+Dill Pickle Chips: 2129
+Cushion Covers: 3068
+Coconut Chips: 4132
+Marinated Artichokes: 3677
+Stuffed Grape Leaves: 4934
+Pet Safety Harness: 6847
+Hummus: 1083
+Insulated Coffee Mug: 2055
+Golf Polo Shirt: 3588
+Ranch Dressing: 1985
+Car Windshield Sun Shade: 4239
+Organic Coconut Water: 5909
+Electric Wax Warmer: 6651
+Hummus Trio Pack: 4140
+Fitness Tracker: 4590
+Basil Lemonade: 3160
+Rechargeable Laptop Battery Pack: 3300
+Bamboo Cotton Tank Top: 3353
+Spinach and Ricotta Ravioli: 4321
+Organic Brown Rice Cakes: 4496
+Compressed Towel Tablets: 5280
+Winter Knit Beanie: 3213
+Portable Ice Maker: 2322
+Glass Tea Pot: 3299
+Electric Toothbrush Holder: 5357
+Dog Training Collar: 6167
+Fitness Tracker Watch: 6392
+Smart Wi-Fi Light Bulbs: 3858
+Non-Stick Grill Pan: 2558
+Window Bird Feeder: 3173
+Creamy Coleslaw Mix: 5218
+Acoustic Guitar: 2540
+Coconut Rice: 2399
+Cold Brew Coffee Concentrate: 5279
+Almond Butter Crunch Bar: 3300
+Canvas Wall Art: 2870
+Pecan Nuts: 3991
+Rechargeable Hand Warmer: 5376
+Sweet Corn: 4832
+Garden Vegetable Chips: 3104
+Sweet Chili Sauce: 3719
+Magnetic Phone Car Mount: 1860
+Pineapple Rings: 3193
+Whole Chicken: 3106
+Whisk Set: 3307
+Chicken Broth: 2512
+Children's Science Experiment Lab Kit: 4229
+Lentil Soup (canned): 4552
+Electric Heating Pad: 5391
+Cucumber Lime Sparkling Water: 6401
+Frozen Chicken Nuggets: 3175
+Miso Soup Mix: 6330
+Pumpkin Seeds: 2800
+Cinnamon Raisin Bread: 2476
+Lentil Vegetable Stew: 3553
+Puffed Rice Cake: 3008
+Deep Tissue Massage Gun: 4360
+3D Night Light: 6306
+Reusable Snack Bags: 2732
+Travel Sewing Kit: 2658
+Almond Coconut Granola: 7077
+Toasted Coconut Granola: 3334
+Herb Garden Planter Box: 4226
+Skincare Fridge: 2974
+Vegan chocolate chip cookies: 3662
+Window A/C Unit: 996
+Roasted Garlic: 1506
+Sweet and Spicy Barbecue Sauce: 5833
+Whole Wheat Pasta: 3398
+LED Strip Lights Kit: 3199
+Snap-On Tupperware Set: 4672
+Cilantro Lime Rice: 4313
+Vegetable Stock: 4328
+Peach Salsa: 7787
+Portable Projector: 757
+Chipotle Seasoning Blend: 2379
+Slim Fit Chinos: 2756
+Compressible Packing Cubes: 507
+Motorcycle Phone Mount: 4822
+Sooji (Semolina): 5363
+Handheld Garment Steamer: 4325
+Smart Water Bottle: 3070
+Pet Travel Bowl: 3006
+Smartphone Gimbal Stabilizer: 3721
+Personal Blender: 3242
+Chocolate Chip Cookie Dough: 1343
+Thai Basil Fried Rice: 1726
+Smartphone Camera Lens Kit: 5412
+Ergonomic Mouse Pad with Wrist Support: 3917
+Herbal Tea Sampler Box: 3351
+LED Strip Light Kit: 2252
+Microwave Popcorn Maker: 2355
+Insulated Lunch Bag: 4044
+Brownie Bites: 3825
+Foldable Yoga Mat Carry Bag: 3054
+Salsa: 6494
+Beef Enchilada Casserole: 4191
+Coconut Milk Yogurt: 4330
+
+2023
+
+Dill Pickle Chips: 3262
+Cushion Covers: 4282
+Coconut Chips: 4656
+Marinated Artichokes: 2451
+Stuffed Grape Leaves: 4898
+Pet Safety Harness: 3268
+Hummus: 3310
+Insulated Coffee Mug: 2349
+Golf Polo Shirt: 1815
+Ranch Dressing: 4124
+Car Windshield Sun Shade: 1726
+Organic Coconut Water: 5113
+Electric Wax Warmer: 3840
+Hummus Trio Pack: 6893
+Fitness Tracker: 3777
+Basil Lemonade: 4201
+Rechargeable Laptop Battery Pack: 1344
+Bamboo Cotton Tank Top: 2812
+Spinach and Ricotta Ravioli: 2716
+Organic Brown Rice Cakes: 3893
+Compressed Towel Tablets: 5416
+Winter Knit Beanie: 3249
+Portable Ice Maker: 5014
+Glass Tea Pot: 2446
+Electric Toothbrush Holder: 3849
+Dog Training Collar: 3612
+Fitness Tracker Watch: 3174
+Smart Wi-Fi Light Bulbs: 1787
+Non-Stick Grill Pan: 3052
+Window Bird Feeder: 2886
+Creamy Coleslaw Mix: 3547
+Acoustic Guitar: 6684
+Coconut Rice: 1880
+Cold Brew Coffee Concentrate: 3603
+Almond Butter Crunch Bar: 2587
+Canvas Wall Art: 3702
+Pecan Nuts: 7427
+Rechargeable Hand Warmer: 7638
+Sweet Corn: 1507
+Garden Vegetable Chips: 4571
+Sweet Chili Sauce: 2769
+Magnetic Phone Car Mount: 2736
+Pineapple Rings: 3497
+Whole Chicken: 4570
+Whisk Set: 6686
+Chicken Broth: 4283
+Children's Science Experiment Lab Kit: 2794
+Lentil Soup (canned): 4501
+Electric Heating Pad: 3959
+Cucumber Lime Sparkling Water: 2115
+Frozen Chicken Nuggets: 5695
+Miso Soup Mix: 6432
+Pumpkin Seeds: 4178
+Cinnamon Raisin Bread: 2435
+Lentil Vegetable Stew: 6327
+Puffed Rice Cake: 7631
+Deep Tissue Massage Gun: 2960
+3D Night Light: 1946
+Reusable Snack Bags: 6809
+Travel Sewing Kit: 3822
+Almond Coconut Granola: 1867
+Toasted Coconut Granola: 4906
+Herb Garden Planter Box: 5157
+Skincare Fridge: 8150
+Vegan chocolate chip cookies: 3715
+Window A/C Unit: 5692
+Roasted Garlic: 5388
+Sweet and Spicy Barbecue Sauce: 3478
+Whole Wheat Pasta: 2430
+LED Strip Lights Kit: 5614
+Snap-On Tupperware Set: 2924
+Cilantro Lime Rice: 4058
+Vegetable Stock: 3986
+Peach Salsa: 4584
+Portable Projector: 2789
+Chipotle Seasoning Blend: 4065
+Slim Fit Chinos: 6580
+Compressible Packing Cubes: 1091
+Motorcycle Phone Mount: 5325
+Sooji (Semolina): 3683
+Handheld Garment Steamer: 8045
+Smart Water Bottle: 4523
+Pet Travel Bowl: 3761
+Smartphone Gimbal Stabilizer: 3894
+Personal Blender: 3628
+Chocolate Chip Cookie Dough: 4821
+Thai Basil Fried Rice: 5070
+Smartphone Camera Lens Kit: 4356
+Ergonomic Mouse Pad with Wrist Support: 8596
+Herbal Tea Sampler Box: 3830
+LED Strip Light Kit: 3495
+Microwave Popcorn Maker: 5530
+Insulated Lunch Bag: 6950
+Brownie Bites: 4319
+Foldable Yoga Mat Carry Bag: 5412
+Salsa: 4685
+Beef Enchilada Casserole: 5127
+Coconut Milk Yogurt: 4143

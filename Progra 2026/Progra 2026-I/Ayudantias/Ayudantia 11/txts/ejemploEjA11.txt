@@ -1,0 +1,145 @@
+Número de objetivos?: 2
+Filas:3
+Columnas:3
+
+|R - 2|
+|- - -|
+|- 1 -|
+Objetivos restantes: 2
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): s
+
+|* - 2|
+|R - -|
+|- 1 -|
+Objetivos restantes: 2
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): s
+
+|* - 2|
+|* - -|
+|R 1 -|
+Objetivos restantes: 2
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): d
+
+|* - 2|
+|* - -|
+|* R -|
+Objetivos restantes: 1
+Siguiente objetivo: 2
+Movimiento (w/a/s/d o 'x' para salir): d
+
+|* - 2|
+|* - -|
+|* * R|
+Objetivos restantes: 1
+Siguiente objetivo: 2
+Movimiento (w/a/s/d o 'x' para salir): w
+
+|* - 2|
+|* - R|
+|* * *|
+Objetivos restantes: 1
+Siguiente objetivo: 2
+Movimiento (w/a/s/d o 'x' para salir): w
+
+|* - R|
+|* - *|
+|* * *|
+Todo listo!
+
+==========================OTRA EJECUCION=========================================
+Número de objetivos?: 3
+Filas:4
+Columnas:4
+
+|R - - -|
+|- - - -|
+|2 - 3 -|
+|- - 1 -|
+Objetivos restantes: 3
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): d
+
+|* R - -|
+|- - - -|
+|2 - 3 -|
+|- - 1 -|
+Objetivos restantes: 3
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): s
+
+|* * - -|
+|- R - -|
+|2 - 3 -|
+|- - 1 -|
+Objetivos restantes: 3
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): s
+
+|* * - -|
+|- * - -|
+|2 R 3 -|
+|- - 1 -|
+Objetivos restantes: 3
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): d
+
+|* * - -|
+|- * - -|
+|2 * R -|
+|- - 1 -|
+Tienes que regar en orden!
+==========================EJECUCION==============================
+Número de objetivos?: 9
+Filas:6
+Columnas:6
+
+|R - - - - -|
+|- 8 - - - 7|
+|- - 9 - 5 -|
+|- 6 4 - - -|
+|3 - - 2 - 1|
+|- - - - - -|
+Objetivos restantes: 9
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): s
+
+|* - - - - -|
+|R 8 - - - 7|
+|- - 9 - 5 -|
+|- 6 4 - - -|
+|3 - - 2 - 1|
+|- - - - - -|
+Objetivos restantes: 9
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): s
+
+|* - - - - -|
+|* 8 - - - 7|
+|R - 9 - 5 -|
+|- 6 4 - - -|
+|3 - - 2 - 1|
+|- - - - - -|
+Objetivos restantes: 9
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): d
+
+|* - - - - -|
+|* 8 - - - 7|
+|* R 9 - 5 -|
+|- 6 4 - - -|
+|3 - - 2 - 1|
+|- - - - - -|
+Objetivos restantes: 9
+Siguiente objetivo: 1
+Movimiento (w/a/s/d o 'x' para salir): a
+
+|* - - - - -|
+|* 8 - - - 7|
+|R * 9 - 5 -|
+|- 6 4 - - -|
+|3 - - 2 - 1|
+|- - - - - -|
+Has regado dos veces en el mismo lugar!

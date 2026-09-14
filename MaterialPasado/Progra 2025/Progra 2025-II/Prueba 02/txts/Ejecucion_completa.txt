@@ -1,0 +1,1989 @@
+
+vuelta 1
+
+
+Clasificación Vuelta 1:
+
+Adelantamientos vuelta: 1
+norris adelantó a verstappen
+perez adelantó a russell
+alonso adelantó a russell
+stroll adelantó a russell
+hulkenberg adelantó a gasly
+tsunoda adelantó a sargeant
+colapinto adelantó a bottas
+perez adelantó a hamilton
+stroll adelantó a alonso
+tsunoda adelantó a albon
+colapinto adelantó a ricciardo
+perez adelantó a sainz
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:007
+3 - piastri: +0:00:000
+4 - leclerc: +0:00:002
+5 - perez: +0:01:001
+6 - sainz: +0:00:001
+7 - hamilton: +0:00:002
+8 - stroll: +0:00:002
+9 - alonso: +0:00:003
+10 - russell: +0:00:001
+11 - ocon: +0:00:001
+12 - hulkenberg: +0:00:003
+13 - gasly: +0:00:005
+14 - magnussen: +0:00:001
+15 - tsunoda: +0:01:000
+16 - albon: +0:00:000
+17 - sargeant: +0:00:001
+18 - colapinto: +0:00:004
+19 - ricciardo: +0:00:003
+20 - bottas: +0:00:007
+
+vuelta 2
+
+
+Clasificación Vuelta 2:
+
+Adelantamientos vuelta: 2
+piastri adelantó a verstappen
+hamilton adelantó a sainz
+russell adelantó a alonso
+albon adelantó a tsunoda
+sargeant adelantó a tsunoda
+ricciardo adelantó a colapinto
+russell adelantó a stroll
+
+1 - norris: -:--:---
+2 - piastri: +0:00:005
+3 - verstappen: +0:00:000
+4 - leclerc: +0:00:001
+5 - perez: +0:02:004
+6 - hamilton: +0:00:000
+7 - sainz: +0:00:005
+8 - russell: +0:00:001
+9 - stroll: +0:01:004
+10 - alonso: +0:00:004
+11 - ocon: +0:00:009
+12 - hulkenberg: +0:00:005
+13 - gasly: +0:00:005
+14 - magnussen: +0:01:002
+15 - albon: +0:00:004
+16 - sargeant: +0:00:008
+17 - tsunoda: +0:00:006
+18 - ricciardo: +0:00:009
+19 - colapinto: +0:00:002
+20 - bottas: +0:01:002
+
+vuelta 3
+
+
+Clasificación Vuelta 3:
+
+Adelantamientos vuelta: 3
+hamilton adelantó a perez
+sainz adelantó a perez
+sainz adelantó a hamilton
+
+1 - norris: -:--:---
+2 - piastri: +0:01:001
+3 - verstappen: +0:00:002
+4 - leclerc: +0:00:004
+5 - sainz: +0:03:000
+6 - hamilton: +0:00:001
+7 - perez: +0:00:006
+8 - russell: +0:00:000
+9 - stroll: +0:02:009
+10 - alonso: +0:00:005
+11 - ocon: +0:01:001
+12 - hulkenberg: +0:01:000
+13 - gasly: +0:00:000
+14 - magnussen: +0:03:002
+15 - albon: +0:00:002
+16 - sargeant: +0:01:001
+17 - tsunoda: +0:00:001
+18 - ricciardo: +0:02:003
+19 - colapinto: +0:00:003
+20 - bottas: +0:00:005
+
+vuelta 4
+
+
+Clasificación Vuelta 4:
+
+Adelantamientos vuelta: 4
+gasly adelantó a hulkenberg
+
+1 - norris: -:--:---
+2 - piastri: +0:01:003
+3 - verstappen: +0:00:003
+4 - leclerc: +0:00:009
+5 - sainz: +0:03:006
+6 - hamilton: +0:00:003
+7 - perez: +0:00:000
+8 - russell: +0:00:000
+9 - stroll: +0:04:001
+10 - alonso: +0:00:003
+11 - ocon: +0:01:006
+12 - gasly: +0:02:008
+13 - hulkenberg: +0:00:001
+14 - magnussen: +0:02:006
+15 - albon: +0:01:002
+16 - sargeant: +0:00:009
+17 - tsunoda: +0:01:004
+18 - ricciardo: +0:01:008
+19 - colapinto: +0:00:006
+20 - bottas: +0:00:002
+
+vuelta 5
+
+
+Clasificación Vuelta 5:
+
+Adelantamientos vuelta: 5
+verstappen adelantó a piastri
+
+1 - norris: -:--:---
+2 - verstappen: +0:01:009
+3 - piastri: +0:00:004
+4 - leclerc: +0:02:002
+5 - sainz: +0:03:001
+6 - hamilton: +0:00:003
+7 - perez: +0:01:002
+8 - russell: +0:00:006
+9 - stroll: +0:03:004
+10 - alonso: +0:00:000
+11 - ocon: +0:02:004
+12 - gasly: +0:04:000
+13 - hulkenberg: +0:00:008
+14 - magnussen: +0:02:003
+15 - albon: +0:00:009
+16 - sargeant: +0:01:009
+17 - tsunoda: +0:02:009
+18 - ricciardo: +0:01:003
+19 - colapinto: +0:01:009
+20 - bottas: +0:00:000
+
+vuelta 6
+
+
+Clasificación Vuelta 6:
+
+Adelantamientos vuelta: 6
+russell adelantó a perez
+alonso adelantó a stroll
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:002
+3 - piastri: +0:02:003
+4 - leclerc: +0:02:003
+5 - sainz: +0:02:009
+6 - hamilton: +0:01:003
+7 - russell: +0:01:002
+8 - perez: +0:00:003
+9 - alonso: +0:04:004
+10 - stroll: +0:01:002
+11 - ocon: +0:02:006
+12 - gasly: +0:03:003
+13 - hulkenberg: +0:01:005
+14 - magnussen: +0:02:001
+15 - albon: +0:02:006
+16 - sargeant: +0:02:001
+17 - tsunoda: +0:02:002
+18 - ricciardo: +0:02:003
+19 - colapinto: +0:01:007
+20 - bottas: +0:00:005
+
+vuelta 7
+
+
+Clasificación Vuelta 7:
+
+Adelantamientos vuelta: 7
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:003
+3 - piastri: +0:03:000
+4 - leclerc: +0:02:002
+5 - sainz: +0:02:003
+6 - hamilton: +0:02:003
+7 - russell: +0:01:000
+8 - perez: +0:02:003
+9 - alonso: +0:04:007
+10 - stroll: +0:01:004
+11 - ocon: +0:02:000
+12 - gasly: +0:03:002
+13 - hulkenberg: +0:03:004
+14 - magnussen: +0:02:006
+15 - albon: +0:01:004
+16 - sargeant: +0:03:002
+17 - tsunoda: +0:01:008
+18 - ricciardo: +0:03:009
+19 - colapinto: +0:01:003
+20 - bottas: +0:01:003
+
+vuelta 8
+
+
+Clasificación Vuelta 8:
+
+Adelantamientos vuelta: 8
+verstappen adelantó a norris
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:001
+3 - piastri: +0:03:002
+4 - leclerc: +0:03:006
+5 - sainz: +0:01:009
+6 - hamilton: +0:02:002
+7 - russell: +0:02:000
+8 - perez: +0:03:000
+9 - alonso: +0:04:001
+10 - stroll: +0:02:000
+11 - ocon: +0:03:006
+12 - gasly: +0:02:009
+13 - hulkenberg: +0:03:003
+14 - magnussen: +0:03:001
+15 - albon: +0:01:000
+16 - sargeant: +0:03:007
+17 - tsunoda: +0:02:003
+18 - ricciardo: +0:04:007
+19 - colapinto: +0:01:003
+20 - bottas: +0:00:009
+
+vuelta 9
+
+
+Clasificación Vuelta 9:
+
+Adelantamientos vuelta: 9
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:01:005
+3 - piastri: +0:02:008
+4 - leclerc: +0:05:002
+5 - sainz: +0:02:001
+6 - hamilton: +0:01:002
+7 - russell: +0:02:006
+8 - perez: +0:04:001
+9 - alonso: +0:03:006
+10 - stroll: +0:02:002
+11 - ocon: +0:05:004
+12 - gasly: +0:02:006
+13 - hulkenberg: +0:03:005
+14 - magnussen: +0:04:000
+15 - albon: +0:01:004
+16 - sargeant: +0:03:000
+17 - tsunoda: +0:02:005
+18 - ricciardo: +0:05:006
+19 - colapinto: +0:02:001
+20 - bottas: +0:00:005
+
+vuelta 10
+
+
+Clasificación Vuelta 10:
+
+Adelantamientos vuelta: 10
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:01:007
+3 - piastri: +0:03:007
+4 - leclerc: +0:03:009
+5 - sainz: +0:03:000
+6 - hamilton: +0:01:004
+7 - russell: +0:03:009
+8 - perez: +0:03:003
+9 - alonso: +0:03:009
+10 - stroll: +0:03:000
+11 - ocon: +0:05:007
+12 - gasly: +0:02:007
+13 - hulkenberg: +0:03:008
+14 - magnussen: +0:05:005
+15 - albon: +0:00:009
+16 - sargeant: +0:04:001
+17 - tsunoda: +0:02:003
+18 - ricciardo: +0:05:001
+19 - colapinto: +0:04:002
+20 - bottas: +0:00:005
+
+vuelta 11
+
+
+Clasificación Vuelta 11:
+
+Adelantamientos vuelta: 11
+bottas adelantó a colapinto
+
+1 - verstappen: -:--:---
+2 - norris: +0:01:005
+3 - piastri: +0:03:009
+4 - leclerc: +0:03:005
+5 - sainz: +0:04:000
+6 - hamilton: +0:01:003
+7 - russell: +0:04:006
+8 - perez: +0:03:001
+9 - alonso: +0:04:008
+10 - stroll: +0:04:004
+11 - ocon: +0:04:008
+12 - gasly: +0:04:000
+13 - hulkenberg: +0:03:006
+14 - magnussen: +0:05:008
+15 - albon: +0:02:002
+16 - sargeant: +0:04:005
+17 - tsunoda: +0:01:009
+18 - ricciardo: +0:05:007
+19 - bottas: +0:04:001
+20 - colapinto: +0:00:001
+
+vuelta 12
+
+
+Clasificación Vuelta 12:
+
+Adelantamientos vuelta: 12
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:007
+3 - piastri: +0:04:002
+4 - leclerc: +0:04:007
+5 - sainz: +0:03:001
+6 - hamilton: +0:02:006
+7 - russell: +0:04:008
+8 - perez: +0:04:000
+9 - alonso: +0:03:009
+10 - stroll: +0:06:002
+11 - ocon: +0:03:005
+12 - gasly: +0:04:005
+13 - hulkenberg: +0:04:007
+14 - magnussen: +0:06:003
+15 - albon: +0:01:007
+16 - sargeant: +0:04:006
+17 - tsunoda: +0:03:006
+18 - ricciardo: +0:04:009
+19 - bottas: +0:05:000
+20 - colapinto: +0:00:004
+
+vuelta 13
+
+
+Clasificación Vuelta 13:
+
+Adelantamientos vuelta: 13
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:009
+3 - piastri: +0:04:004
+4 - leclerc: +0:06:002
+5 - sainz: +0:02:001
+6 - hamilton: +0:03:008
+7 - russell: +0:04:003
+8 - perez: +0:04:007
+9 - alonso: +0:04:007
+10 - stroll: +0:05:009
+11 - ocon: +0:03:009
+12 - gasly: +0:05:007
+13 - hulkenberg: +0:03:008
+14 - magnussen: +0:07:004
+15 - albon: +0:03:001
+16 - sargeant: +0:05:000
+17 - tsunoda: +0:02:003
+18 - ricciardo: +0:05:005
+19 - bottas: +0:05:005
+20 - colapinto: +0:02:000
+
+vuelta 14
+
+
+Clasificación Vuelta 14:
+
+Adelantamientos vuelta: 14
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:008
+3 - piastri: +0:03:009
+4 - leclerc: +0:06:007
+5 - sainz: +0:03:007
+6 - hamilton: +0:03:009
+7 - russell: +0:04:005
+8 - perez: +0:05:007
+9 - alonso: +0:04:005
+10 - stroll: +0:05:001
+11 - ocon: +0:05:007
+12 - gasly: +0:05:001
+13 - hulkenberg: +0:04:008
+14 - magnussen: +0:08:002
+15 - albon: +0:02:000
+16 - sargeant: +0:05:003
+17 - tsunoda: +0:02:006
+18 - ricciardo: +0:06:007
+19 - bottas: +0:05:003
+20 - colapinto: +0:03:000
+
+vuelta 15
+
+
+Clasificación Vuelta 15:
+
+Adelantamientos vuelta: 15
+norris adelantó a verstappen
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:001
+3 - piastri: +0:04:008
+4 - leclerc: +0:06:008
+5 - sainz: +0:04:004
+6 - hamilton: +0:05:000
+7 - russell: +0:04:007
+8 - perez: +0:04:007
+9 - alonso: +0:05:004
+10 - stroll: +0:05:002
+11 - ocon: +0:05:006
+12 - gasly: +0:06:008
+13 - hulkenberg: +0:04:009
+14 - magnussen: +0:07:009
+15 - albon: +0:03:002
+16 - sargeant: +0:05:003
+17 - tsunoda: +0:02:008
+18 - ricciardo: +0:06:003
+19 - bottas: +0:05:008
+20 - colapinto: +0:04:008
+
+vuelta 16
+
+
+Clasificación Vuelta 16:
+
+Adelantamientos vuelta: 16
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:009
+3 - piastri: +0:04:009
+4 - leclerc: +0:07:001
+5 - sainz: +0:04:000
+6 - hamilton: +0:05:004
+7 - russell: +0:05:004
+8 - perez: +0:06:001
+9 - alonso: +0:05:006
+10 - stroll: +0:05:006
+11 - ocon: +0:06:000
+12 - gasly: +0:05:009
+13 - hulkenberg: +0:05:003
+14 - magnussen: +0:08:000
+15 - albon: +0:04:007
+16 - sargeant: +0:05:009
+17 - tsunoda: +0:02:003
+18 - ricciardo: +0:07:000
+19 - bottas: +0:05:003
+20 - colapinto: +0:06:005
+
+vuelta 17
+
+
+Clasificación Vuelta 17:
+
+Adelantamientos vuelta: 17
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:008
+3 - piastri: +0:05:001
+4 - leclerc: +0:08:001
+5 - sainz: +0:02:008
+6 - hamilton: +0:07:000
+7 - russell: +0:05:000
+8 - perez: +0:07:005
+9 - alonso: +0:05:007
+10 - stroll: +0:06:001
+11 - ocon: +0:06:003
+12 - gasly: +0:05:003
+13 - hulkenberg: +0:06:006
+14 - magnussen: +0:07:001
+15 - albon: +0:06:005
+16 - sargeant: +0:06:002
+17 - tsunoda: +0:01:005
+18 - ricciardo: +0:08:004
+19 - bottas: +0:05:000
+20 - colapinto: +0:06:006
+
+vuelta 18
+
+
+Clasificación Vuelta 18:
+
+Adelantamientos vuelta: 18
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:01:009
+3 - piastri: +0:03:009
+4 - leclerc: +0:09:002
+5 - sainz: +0:03:004
+6 - hamilton: +0:08:003
+7 - russell: +0:05:005
+8 - perez: +0:06:006
+9 - alonso: +0:06:007
+10 - stroll: +0:06:000
+11 - ocon: +0:07:007
+12 - gasly: +0:04:008
+13 - hulkenberg: +0:07:007
+14 - magnussen: +0:06:000
+15 - albon: +0:08:004
+16 - sargeant: +0:05:001
+17 - tsunoda: +0:03:002
+18 - ricciardo: +0:07:005
+19 - bottas: +0:05:001
+20 - colapinto: +0:07:005
+
+vuelta 19
+
+
+Clasificación Vuelta 19:
+
+Adelantamientos vuelta: 19
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:02:007
+3 - piastri: +0:04:000
+4 - leclerc: +0:09:008
+5 - sainz: +0:03:005
+6 - hamilton: +0:09:000
+7 - russell: +0:05:003
+8 - perez: +0:07:008
+9 - alonso: +0:05:008
+10 - stroll: +0:08:000
+11 - ocon: +0:07:003
+12 - gasly: +0:05:005
+13 - hulkenberg: +0:08:001
+14 - magnussen: +0:06:002
+15 - albon: +0:08:002
+16 - sargeant: +0:04:009
+17 - tsunoda: +0:04:006
+18 - ricciardo: +0:07:003
+19 - bottas: +0:05:004
+20 - colapinto: +0:08:008
+
+vuelta 20
+
+
+Clasificación Vuelta 20:
+
+Adelantamientos vuelta: 20
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:03:001
+3 - piastri: +0:03:009
+4 - leclerc: +0:10:003
+5 - sainz: +0:03:009
+6 - hamilton: +0:09:002
+7 - russell: +0:05:004
+8 - perez: +0:08:007
+9 - alonso: +0:07:001
+10 - stroll: +0:07:009
+11 - ocon: +0:08:001
+12 - gasly: +0:05:003
+13 - hulkenberg: +0:07:009
+14 - magnussen: +0:07:000
+15 - albon: +0:07:005
+16 - sargeant: +0:05:008
+17 - tsunoda: +0:05:002
+18 - ricciardo: +0:07:009
+19 - bottas: +0:05:009
+20 - colapinto: +0:08:008
+
+vuelta 21
+
+
+Clasificación Vuelta 21:
+
+Adelantamientos vuelta: 21
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:03:002
+3 - piastri: +0:04:007
+4 - leclerc: +0:11:005
+5 - sainz: +0:04:000
+6 - hamilton: +0:08:004
+7 - russell: +0:05:006
+8 - perez: +0:09:008
+9 - alonso: +0:07:007
+10 - stroll: +0:07:007
+11 - ocon: +0:09:003
+12 - gasly: +0:05:006
+13 - hulkenberg: +0:08:001
+14 - magnussen: +0:06:005
+15 - albon: +0:07:008
+16 - sargeant: +0:05:008
+17 - tsunoda: +0:06:000
+18 - ricciardo: +0:08:007
+19 - bottas: +0:06:009
+20 - colapinto: +0:07:008
+
+vuelta 22
+
+
+Clasificación Vuelta 22:
+
+Adelantamientos vuelta: 22
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:02:005
+3 - piastri: +0:05:000
+4 - leclerc: +0:12:007
+5 - sainz: +0:04:000
+6 - hamilton: +0:08:003
+7 - russell: +0:06:007
+8 - perez: +0:09:000
+9 - alonso: +0:09:003
+10 - stroll: +0:08:001
+11 - ocon: +0:08:004
+12 - gasly: +0:06:005
+13 - hulkenberg: +0:08:000
+14 - magnussen: +0:08:003
+15 - albon: +0:07:004
+16 - sargeant: +0:05:003
+17 - tsunoda: +0:06:007
+18 - ricciardo: +0:10:001
+19 - bottas: +0:06:005
+20 - colapinto: +0:08:008
+
+vuelta 23
+
+
+Clasificación Vuelta 23:
+
+Adelantamientos vuelta: 23
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:01:005
+3 - piastri: +0:05:006
+4 - leclerc: +0:13:007
+5 - sainz: +0:04:003
+6 - hamilton: +0:08:001
+7 - russell: +0:07:002
+8 - perez: +0:09:000
+9 - alonso: +0:10:003
+10 - stroll: +0:07:009
+11 - ocon: +0:09:004
+12 - gasly: +0:06:006
+13 - hulkenberg: +0:07:008
+14 - magnussen: +0:08:002
+15 - albon: +0:07:007
+16 - sargeant: +0:06:004
+17 - tsunoda: +0:07:003
+18 - ricciardo: +0:10:000
+19 - bottas: +0:07:001
+20 - colapinto: +0:08:005
+
+vuelta 24
+
+
+Clasificación Vuelta 24:
+
+Adelantamientos vuelta: 24
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:008
+3 - piastri: +0:06:006
+4 - leclerc: +0:14:001
+5 - sainz: +0:05:000
+6 - hamilton: +0:07:008
+7 - russell: +0:07:007
+8 - perez: +0:10:001
+9 - alonso: +0:10:007
+10 - stroll: +0:07:001
+11 - ocon: +0:10:004
+12 - gasly: +0:07:002
+13 - hulkenberg: +0:08:000
+14 - magnussen: +0:08:002
+15 - albon: +0:08:004
+16 - sargeant: +0:07:006
+17 - tsunoda: +0:07:001
+18 - ricciardo: +0:10:005
+19 - bottas: +0:07:007
+20 - colapinto: +0:08:007
+
+vuelta 25
+
+
+Clasificación Vuelta 25:
+
+Adelantamientos vuelta: 25
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:01:001
+3 - piastri: +0:07:003
+4 - leclerc: +0:15:002
+5 - sainz: +0:05:005
+6 - hamilton: +0:08:003
+7 - russell: +0:07:001
+8 - perez: +0:11:001
+9 - alonso: +0:10:006
+10 - stroll: +0:07:006
+11 - ocon: +0:10:000
+12 - gasly: +0:07:005
+13 - hulkenberg: +0:08:007
+14 - magnussen: +0:07:008
+15 - albon: +0:09:004
+16 - sargeant: +0:08:006
+17 - tsunoda: +0:06:009
+18 - ricciardo: +0:10:005
+19 - bottas: +0:08:006
+20 - colapinto: +0:08:004
+
+vuelta 26
+
+
+Clasificación Vuelta 26:
+
+Adelantamientos vuelta: 26
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:01:009
+3 - piastri: +0:07:006
+4 - leclerc: +0:15:009
+5 - sainz: +0:04:009
+6 - hamilton: +0:09:007
+7 - russell: +0:06:005
+8 - perez: +0:12:000
+9 - alonso: +0:10:002
+10 - stroll: +0:08:005
+11 - ocon: +0:10:001
+12 - gasly: +0:08:001
+13 - hulkenberg: +0:09:008
+14 - magnussen: +0:07:005
+15 - albon: +0:10:004
+16 - sargeant: +0:09:001
+17 - tsunoda: +0:06:002
+18 - ricciardo: +0:10:005
+19 - bottas: +0:08:009
+20 - colapinto: +0:09:007
+
+vuelta 27
+
+
+Clasificación Vuelta 27:
+
+Adelantamientos vuelta: 27
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:02:007
+3 - piastri: +0:07:006
+4 - leclerc: +0:16:005
+5 - sainz: +0:05:000
+6 - hamilton: +0:10:003
+7 - russell: +0:07:002
+8 - perez: +0:11:000
+9 - alonso: +0:10:003
+10 - stroll: +0:09:001
+11 - ocon: +0:10:004
+12 - gasly: +0:09:004
+13 - hulkenberg: +0:10:000
+14 - magnussen: +0:07:002
+15 - albon: +0:11:006
+16 - sargeant: +0:09:005
+17 - tsunoda: +0:05:005
+18 - ricciardo: +0:11:006
+19 - bottas: +0:09:005
+20 - colapinto: +0:08:009
+
+vuelta 28
+
+
+Clasificación Vuelta 28:
+
+Adelantamientos vuelta: 28
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:02:001
+3 - piastri: +0:07:000
+4 - leclerc: +0:16:007
+5 - sainz: +0:05:009
+6 - hamilton: +0:11:003
+7 - russell: +0:08:001
+8 - perez: +0:10:004
+9 - alonso: +0:11:002
+10 - stroll: +0:08:003
+11 - ocon: +0:11:009
+12 - gasly: +0:09:006
+13 - hulkenberg: +0:09:004
+14 - magnussen: +0:08:008
+15 - albon: +0:12:001
+16 - sargeant: +0:09:004
+17 - tsunoda: +0:05:000
+18 - ricciardo: +0:13:005
+19 - bottas: +0:09:005
+20 - colapinto: +0:08:005
+
+vuelta 29
+
+
+Clasificación Vuelta 29:
+
+Adelantamientos vuelta: 29
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:01:008
+3 - piastri: +0:07:009
+4 - leclerc: +0:16:007
+5 - sainz: +0:07:002
+6 - hamilton: +0:11:006
+7 - russell: +0:07:002
+8 - perez: +0:12:002
+9 - alonso: +0:11:000
+10 - stroll: +0:09:000
+11 - ocon: +0:12:000
+12 - gasly: +0:09:005
+13 - hulkenberg: +0:10:003
+14 - magnussen: +0:09:006
+15 - albon: +0:11:002
+16 - sargeant: +0:10:008
+17 - tsunoda: +0:04:008
+18 - ricciardo: +0:13:008
+19 - bottas: +0:09:007
+20 - colapinto: +0:09:003
+
+vuelta 30
+
+
+Clasificación Vuelta 30:
+
+Adelantamientos vuelta: 30
+No hubo adelantamientos en esta vuelta
+
+1 - norris: -:--:---
+2 - verstappen: +0:00:004
+3 - piastri: +0:09:006
+4 - leclerc: +0:15:007
+5 - sainz: +0:08:009
+6 - hamilton: +0:10:008
+7 - russell: +0:07:009
+8 - perez: +0:12:009
+9 - alonso: +0:10:009
+10 - stroll: +0:08:007
+11 - ocon: +0:13:008
+12 - gasly: +0:08:006
+13 - hulkenberg: +0:10:007
+14 - magnussen: +0:11:000
+15 - albon: +0:10:007
+16 - sargeant: +0:12:001
+17 - tsunoda: +0:04:009
+18 - ricciardo: +0:13:004
+19 - bottas: +0:09:006
+20 - colapinto: +0:11:004
+
+vuelta 31
+
+
+Clasificación Vuelta 31:
+
+Adelantamientos vuelta: 31
+verstappen adelantó a norris
+
+1 - verstappen: -:--:---
+2 - norris: +0:01:000
+3 - piastri: +0:10:000
+4 - leclerc: +0:15:009
+5 - sainz: +0:09:002
+6 - hamilton: +0:11:007
+7 - russell: +0:08:000
+8 - perez: +0:13:008
+9 - alonso: +0:10:000
+10 - stroll: +0:09:003
+11 - ocon: +0:15:000
+12 - gasly: +0:08:003
+13 - hulkenberg: +0:11:005
+14 - magnussen: +0:11:001
+15 - albon: +0:11:002
+16 - sargeant: +0:12:002
+17 - tsunoda: +0:05:008
+18 - ricciardo: +0:13:000
+19 - bottas: +0:10:006
+20 - colapinto: +0:10:009
+
+vuelta 32
+
+
+Clasificación Vuelta 32:
+
+Adelantamientos vuelta: 32
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:01:001
+3 - piastri: +0:10:005
+4 - leclerc: +0:15:005
+5 - sainz: +0:10:003
+6 - hamilton: +0:13:001
+7 - russell: +0:07:003
+8 - perez: +0:14:002
+9 - alonso: +0:10:008
+10 - stroll: +0:10:001
+11 - ocon: +0:15:008
+12 - gasly: +0:07:008
+13 - hulkenberg: +0:11:004
+14 - magnussen: +0:11:001
+15 - albon: +0:11:007
+16 - sargeant: +0:12:006
+17 - tsunoda: +0:06:001
+18 - ricciardo: +0:13:000
+19 - bottas: +0:11:009
+20 - colapinto: +0:10:008
+
+vuelta 33
+
+
+Clasificación Vuelta 33:
+
+Adelantamientos vuelta: 33
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:007
+3 - piastri: +0:11:001
+4 - leclerc: +0:14:002
+5 - sainz: +0:11:009
+6 - hamilton: +0:13:004
+7 - russell: +0:08:003
+8 - perez: +0:14:000
+9 - alonso: +0:11:000
+10 - stroll: +0:10:004
+11 - ocon: +0:15:007
+12 - gasly: +0:07:009
+13 - hulkenberg: +0:13:004
+14 - magnussen: +0:10:006
+15 - albon: +0:12:006
+16 - sargeant: +0:12:002
+17 - tsunoda: +0:05:008
+18 - ricciardo: +0:14:004
+19 - bottas: +0:11:002
+20 - colapinto: +0:11:004
+
+vuelta 34
+
+
+Clasificación Vuelta 34:
+
+Adelantamientos vuelta: 34
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:006
+3 - piastri: +0:12:007
+4 - leclerc: +0:12:003
+5 - sainz: +0:13:004
+6 - hamilton: +0:14:001
+7 - russell: +0:09:000
+8 - perez: +0:13:003
+9 - alonso: +0:11:009
+10 - stroll: +0:10:006
+11 - ocon: +0:16:000
+12 - gasly: +0:09:000
+13 - hulkenberg: +0:14:000
+14 - magnussen: +0:09:008
+15 - albon: +0:13:006
+16 - sargeant: +0:12:006
+17 - tsunoda: +0:06:004
+18 - ricciardo: +0:15:001
+19 - bottas: +0:10:002
+20 - colapinto: +0:11:007
+
+vuelta 35
+
+
+Clasificación Vuelta 35:
+
+Adelantamientos vuelta: 35
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:000
+3 - piastri: +0:13:001
+4 - leclerc: +0:11:009
+5 - sainz: +0:13:007
+6 - hamilton: +0:15:009
+7 - russell: +0:09:006
+8 - perez: +0:13:001
+9 - alonso: +0:12:001
+10 - stroll: +0:11:008
+11 - ocon: +0:16:004
+12 - gasly: +0:08:009
+13 - hulkenberg: +0:14:008
+14 - magnussen: +0:10:005
+15 - albon: +0:13:007
+16 - sargeant: +0:12:006
+17 - tsunoda: +0:06:008
+18 - ricciardo: +0:16:000
+19 - bottas: +0:09:007
+20 - colapinto: +0:12:003
+
+vuelta 36
+
+
+Clasificación Vuelta 36:
+
+Adelantamientos vuelta: 36
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:00:008
+3 - piastri: +0:13:003
+4 - leclerc: +0:10:002
+5 - sainz: +0:14:002
+6 - hamilton: +0:17:001
+7 - russell: +0:10:008
+8 - perez: +0:13:001
+9 - alonso: +0:12:000
+10 - stroll: +0:11:009
+11 - ocon: +0:17:007
+12 - gasly: +0:09:003
+13 - hulkenberg: +0:15:005
+14 - magnussen: +0:10:001
+15 - albon: +0:14:000
+16 - sargeant: +0:12:002
+17 - tsunoda: +0:07:001
+18 - ricciardo: +0:17:000
+19 - bottas: +0:09:008
+20 - colapinto: +0:12:005
+
+vuelta 37
+
+
+Clasificación Vuelta 37:
+
+Adelantamientos vuelta: 37
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:02:007
+3 - piastri: +0:13:004
+4 - leclerc: +0:09:005
+5 - sainz: +0:15:002
+6 - hamilton: +0:18:002
+7 - russell: +0:10:005
+8 - perez: +0:12:008
+9 - alonso: +0:11:009
+10 - stroll: +0:13:005
+11 - ocon: +0:17:006
+12 - gasly: +0:10:000
+13 - hulkenberg: +0:16:004
+14 - magnussen: +0:09:001
+15 - albon: +0:15:001
+16 - sargeant: +0:12:007
+17 - tsunoda: +0:07:002
+18 - ricciardo: +0:16:006
+19 - bottas: +0:10:006
+20 - colapinto: +0:12:008
+
+vuelta 38
+
+
+Clasificación Vuelta 38:
+
+Adelantamientos vuelta: 38
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:004
+3 - piastri: +0:12:008
+4 - leclerc: +0:09:008
+5 - sainz: +0:14:008
+6 - hamilton: +0:20:004
+7 - russell: +0:10:006
+8 - perez: +0:12:006
+9 - alonso: +0:12:001
+10 - stroll: +0:13:006
+11 - ocon: +0:17:009
+12 - gasly: +0:11:005
+13 - hulkenberg: +0:15:007
+14 - magnussen: +0:09:007
+15 - albon: +0:16:003
+16 - sargeant: +0:12:004
+17 - tsunoda: +0:07:003
+18 - ricciardo: +0:16:008
+19 - bottas: +0:10:006
+20 - colapinto: +0:13:005
+
+vuelta 39
+
+
+Clasificación Vuelta 39:
+
+Adelantamientos vuelta: 39
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:005
+3 - piastri: +0:13:004
+4 - leclerc: +0:08:006
+5 - sainz: +0:15:008
+6 - hamilton: +0:22:001
+7 - russell: +0:10:001
+8 - perez: +0:13:005
+9 - alonso: +0:11:004
+10 - stroll: +0:15:005
+11 - ocon: +0:17:006
+12 - gasly: +0:11:002
+13 - hulkenberg: +0:15:009
+14 - magnussen: +0:10:007
+15 - albon: +0:16:006
+16 - sargeant: +0:11:009
+17 - tsunoda: +0:09:003
+18 - ricciardo: +0:17:000
+19 - bottas: +0:10:001
+20 - colapinto: +0:13:002
+
+vuelta 40
+
+
+Clasificación Vuelta 40:
+
+Adelantamientos vuelta: 40
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:003
+3 - piastri: +0:14:001
+4 - leclerc: +0:08:005
+5 - sainz: +0:15:007
+6 - hamilton: +0:23:004
+7 - russell: +0:10:007
+8 - perez: +0:12:005
+9 - alonso: +0:12:003
+10 - stroll: +0:15:006
+11 - ocon: +0:19:000
+12 - gasly: +0:10:008
+13 - hulkenberg: +0:16:009
+14 - magnussen: +0:11:001
+15 - albon: +0:15:009
+16 - sargeant: +0:13:002
+17 - tsunoda: +0:09:000
+18 - ricciardo: +0:18:002
+19 - bottas: +0:09:007
+20 - colapinto: +0:14:001
+
+vuelta 41
+
+
+Clasificación Vuelta 41:
+
+Adelantamientos vuelta: 41
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:007
+3 - piastri: +0:15:000
+4 - leclerc: +0:09:006
+5 - sainz: +0:15:001
+6 - hamilton: +0:23:002
+7 - russell: +0:11:008
+8 - perez: +0:12:005
+9 - alonso: +0:13:000
+10 - stroll: +0:15:009
+11 - ocon: +0:19:002
+12 - gasly: +0:10:009
+13 - hulkenberg: +0:17:000
+14 - magnussen: +0:12:003
+15 - albon: +0:16:001
+16 - sargeant: +0:13:000
+17 - tsunoda: +0:10:003
+18 - ricciardo: +0:17:003
+19 - bottas: +0:11:003
+20 - colapinto: +0:14:004
+
+vuelta 42
+
+
+Clasificación Vuelta 42:
+
+Adelantamientos vuelta: 42
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:003
+3 - piastri: +0:15:008
+4 - leclerc: +0:10:003
+5 - sainz: +0:15:008
+6 - hamilton: +0:22:006
+7 - russell: +0:11:003
+8 - perez: +0:13:007
+9 - alonso: +0:13:005
+10 - stroll: +0:16:007
+11 - ocon: +0:19:005
+12 - gasly: +0:10:005
+13 - hulkenberg: +0:17:005
+14 - magnussen: +0:12:005
+15 - albon: +0:16:009
+16 - sargeant: +0:12:008
+17 - tsunoda: +0:11:001
+18 - ricciardo: +0:16:007
+19 - bottas: +0:12:002
+20 - colapinto: +0:15:007
+
+vuelta 43
+
+
+Clasificación Vuelta 43:
+
+Adelantamientos vuelta: 43
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:002
+3 - piastri: +0:16:001
+4 - leclerc: +0:11:000
+5 - sainz: +0:16:001
+6 - hamilton: +0:23:000
+7 - russell: +0:10:008
+8 - perez: +0:13:009
+9 - alonso: +0:14:006
+10 - stroll: +0:17:002
+11 - ocon: +0:20:001
+12 - gasly: +0:09:003
+13 - hulkenberg: +0:17:009
+14 - magnussen: +0:13:009
+15 - albon: +0:17:008
+16 - sargeant: +0:13:002
+17 - tsunoda: +0:11:000
+18 - ricciardo: +0:16:005
+19 - bottas: +0:12:000
+20 - colapinto: +0:17:000
+
+vuelta 44
+
+
+Clasificación Vuelta 44:
+
+Adelantamientos vuelta: 44
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:008
+3 - piastri: +0:16:009
+4 - leclerc: +0:11:007
+5 - sainz: +0:14:009
+6 - hamilton: +0:24:007
+7 - russell: +0:10:002
+8 - perez: +0:14:004
+9 - alonso: +0:14:005
+10 - stroll: +0:18:002
+11 - ocon: +0:20:005
+12 - gasly: +0:10:001
+13 - hulkenberg: +0:17:002
+14 - magnussen: +0:14:001
+15 - albon: +0:19:005
+16 - sargeant: +0:13:001
+17 - tsunoda: +0:10:007
+18 - ricciardo: +0:18:001
+19 - bottas: +0:10:009
+20 - colapinto: +0:17:009
+
+vuelta 45
+
+
+Clasificación Vuelta 45:
+
+Adelantamientos vuelta: 45
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:002
+3 - piastri: +0:16:008
+4 - leclerc: +0:13:005
+5 - sainz: +0:15:005
+6 - hamilton: +0:24:007
+7 - russell: +0:09:006
+8 - perez: +0:15:003
+9 - alonso: +0:14:007
+10 - stroll: +0:19:000
+11 - ocon: +0:20:009
+12 - gasly: +0:10:000
+13 - hulkenberg: +0:17:002
+14 - magnussen: +0:15:005
+15 - albon: +0:18:007
+16 - sargeant: +0:13:008
+17 - tsunoda: +0:11:002
+18 - ricciardo: +0:18:000
+19 - bottas: +0:11:009
+20 - colapinto: +0:18:002
+
+vuelta 46
+
+
+Clasificación Vuelta 46:
+
+Adelantamientos vuelta: 46
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:003
+3 - piastri: +0:18:004
+4 - leclerc: +0:13:003
+5 - sainz: +0:15:001
+6 - hamilton: +0:25:005
+7 - russell: +0:10:002
+8 - perez: +0:15:007
+9 - alonso: +0:13:008
+10 - stroll: +0:20:003
+11 - ocon: +0:21:001
+12 - gasly: +0:11:001
+13 - hulkenberg: +0:16:004
+14 - magnussen: +0:16:008
+15 - albon: +0:18:007
+16 - sargeant: +0:13:007
+17 - tsunoda: +0:12:000
+18 - ricciardo: +0:18:003
+19 - bottas: +0:12:003
+20 - colapinto: +0:18:007
+
+vuelta 47
+
+
+Clasificación Vuelta 47:
+
+Adelantamientos vuelta: 47
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:009
+3 - piastri: +0:18:004
+4 - leclerc: +0:14:001
+5 - sainz: +0:15:000
+6 - hamilton: +0:25:003
+7 - russell: +0:10:008
+8 - perez: +0:16:003
+9 - alonso: +0:14:004
+10 - stroll: +0:19:005
+11 - ocon: +0:21:008
+12 - gasly: +0:12:003
+13 - hulkenberg: +0:15:008
+14 - magnussen: +0:17:001
+15 - albon: +0:19:008
+16 - sargeant: +0:14:008
+17 - tsunoda: +0:11:006
+18 - ricciardo: +0:19:003
+19 - bottas: +0:12:005
+20 - colapinto: +0:18:000
+
+vuelta 48
+
+
+Clasificación Vuelta 48:
+
+Adelantamientos vuelta: 48
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:007
+3 - piastri: +0:19:003
+4 - leclerc: +0:14:003
+5 - sainz: +0:14:006
+6 - hamilton: +0:25:002
+7 - russell: +0:12:007
+8 - perez: +0:15:002
+9 - alonso: +0:16:003
+10 - stroll: +0:19:007
+11 - ocon: +0:21:009
+12 - gasly: +0:13:001
+13 - hulkenberg: +0:16:001
+14 - magnussen: +0:17:001
+15 - albon: +0:19:004
+16 - sargeant: +0:16:000
+17 - tsunoda: +0:10:006
+18 - ricciardo: +0:20:006
+19 - bottas: +0:12:007
+20 - colapinto: +0:18:007
+
+vuelta 49
+
+
+Clasificación Vuelta 49:
+
+Adelantamientos vuelta: 49
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:009
+3 - piastri: +0:20:001
+4 - leclerc: +0:14:009
+5 - sainz: +0:13:005
+6 - hamilton: +0:25:008
+7 - russell: +0:12:006
+8 - perez: +0:17:001
+9 - alonso: +0:16:000
+10 - stroll: +0:20:007
+11 - ocon: +0:21:000
+12 - gasly: +0:13:002
+13 - hulkenberg: +0:17:008
+14 - magnussen: +0:17:006
+15 - albon: +0:18:006
+16 - sargeant: +0:16:005
+17 - tsunoda: +0:10:004
+18 - ricciardo: +0:22:004
+19 - bottas: +0:11:009
+20 - colapinto: +0:19:004
+
+vuelta 50
+
+
+Clasificación Vuelta 50:
+
+Adelantamientos vuelta: 50
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:05:006
+3 - piastri: +0:19:001
+4 - leclerc: +0:15:008
+5 - sainz: +0:14:002
+6 - hamilton: +0:26:003
+7 - russell: +0:13:004
+8 - perez: +0:16:005
+9 - alonso: +0:17:000
+10 - stroll: +0:20:000
+11 - ocon: +0:21:008
+12 - gasly: +0:12:009
+13 - hulkenberg: +0:18:009
+14 - magnussen: +0:17:008
+15 - albon: +0:20:000
+16 - sargeant: +0:15:002
+17 - tsunoda: +0:11:004
+18 - ricciardo: +0:22:009
+19 - bottas: +0:13:002
+20 - colapinto: +0:19:006
+
+vuelta 51
+
+
+Clasificación Vuelta 51:
+
+Adelantamientos vuelta: 51
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:07:000
+3 - piastri: +0:19:002
+4 - leclerc: +0:17:000
+5 - sainz: +0:13:004
+6 - hamilton: +0:26:007
+7 - russell: +0:13:003
+8 - perez: +0:16:007
+9 - alonso: +0:18:006
+10 - stroll: +0:19:006
+11 - ocon: +0:22:005
+12 - gasly: +0:13:003
+13 - hulkenberg: +0:19:001
+14 - magnussen: +0:17:001
+15 - albon: +0:21:007
+16 - sargeant: +0:14:006
+17 - tsunoda: +0:11:005
+18 - ricciardo: +0:24:001
+19 - bottas: +0:12:006
+20 - colapinto: +0:21:002
+
+vuelta 52
+
+
+Clasificación Vuelta 52:
+
+Adelantamientos vuelta: 52
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:05:002
+3 - piastri: +0:22:009
+4 - leclerc: +0:16:003
+5 - sainz: +0:13:005
+6 - hamilton: +0:28:004
+7 - russell: +0:12:001
+8 - perez: +0:18:006
+9 - alonso: +0:17:007
+10 - stroll: +0:19:009
+11 - ocon: +0:23:001
+12 - gasly: +0:13:005
+13 - hulkenberg: +0:20:004
+14 - magnussen: +0:16:003
+15 - albon: +0:22:000
+16 - sargeant: +0:16:003
+17 - tsunoda: +0:10:009
+18 - ricciardo: +0:24:006
+19 - bottas: +0:12:007
+20 - colapinto: +0:21:003
+
+vuelta 53
+
+
+Clasificación Vuelta 53:
+
+Adelantamientos vuelta: 53
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:05:002
+3 - piastri: +0:23:007
+4 - leclerc: +0:16:002
+5 - sainz: +0:14:004
+6 - hamilton: +0:28:003
+7 - russell: +0:11:007
+8 - perez: +0:19:007
+9 - alonso: +0:18:008
+10 - stroll: +0:18:007
+11 - ocon: +0:24:008
+12 - gasly: +0:14:000
+13 - hulkenberg: +0:20:001
+14 - magnussen: +0:16:006
+15 - albon: +0:23:003
+16 - sargeant: +0:15:000
+17 - tsunoda: +0:12:000
+18 - ricciardo: +0:24:008
+19 - bottas: +0:13:006
+20 - colapinto: +0:21:003
+
+vuelta 54
+
+
+Clasificación Vuelta 54:
+
+Adelantamientos vuelta: 54
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:000
+3 - piastri: +0:24:000
+4 - leclerc: +0:17:005
+5 - sainz: +0:13:007
+6 - hamilton: +0:29:000
+7 - russell: +0:12:007
+8 - perez: +0:19:009
+9 - alonso: +0:18:008
+10 - stroll: +0:20:002
+11 - ocon: +0:24:003
+12 - gasly: +0:14:002
+13 - hulkenberg: +0:20:007
+14 - magnussen: +0:16:000
+15 - albon: +0:24:007
+16 - sargeant: +0:15:007
+17 - tsunoda: +0:12:000
+18 - ricciardo: +0:25:003
+19 - bottas: +0:13:009
+20 - colapinto: +0:20:008
+
+vuelta 55
+
+
+Clasificación Vuelta 55:
+
+Adelantamientos vuelta: 55
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:009
+3 - piastri: +0:24:006
+4 - leclerc: +0:18:001
+5 - sainz: +0:14:000
+6 - hamilton: +0:28:008
+7 - russell: +0:13:006
+8 - perez: +0:20:006
+9 - alonso: +0:18:006
+10 - stroll: +0:20:002
+11 - ocon: +0:26:000
+12 - gasly: +0:13:000
+13 - hulkenberg: +0:22:004
+14 - magnussen: +0:15:000
+15 - albon: +0:25:001
+16 - sargeant: +0:17:002
+17 - tsunoda: +0:12:004
+18 - ricciardo: +0:25:002
+19 - bottas: +0:14:003
+20 - colapinto: +0:21:001
+
+vuelta 56
+
+
+Clasificación Vuelta 56:
+
+Adelantamientos vuelta: 56
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:009
+3 - piastri: +0:25:003
+4 - leclerc: +0:19:000
+5 - sainz: +0:14:005
+6 - hamilton: +0:29:003
+7 - russell: +0:13:007
+8 - perez: +0:21:004
+9 - alonso: +0:18:003
+10 - stroll: +0:20:001
+11 - ocon: +0:26:008
+12 - gasly: +0:12:007
+13 - hulkenberg: +0:23:006
+14 - magnussen: +0:14:006
+15 - albon: +0:25:002
+16 - sargeant: +0:18:008
+17 - tsunoda: +0:11:009
+18 - ricciardo: +0:26:003
+19 - bottas: +0:14:003
+20 - colapinto: +0:21:008
+
+vuelta 57
+
+
+Clasificación Vuelta 57:
+
+Adelantamientos vuelta: 57
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:005
+3 - piastri: +0:25:004
+4 - leclerc: +0:19:000
+5 - sainz: +0:14:009
+6 - hamilton: +0:28:006
+7 - russell: +0:15:007
+8 - perez: +0:21:006
+9 - alonso: +0:17:006
+10 - stroll: +0:20:003
+11 - ocon: +0:28:001
+12 - gasly: +0:12:003
+13 - hulkenberg: +0:24:000
+14 - magnussen: +0:14:004
+15 - albon: +0:27:001
+16 - sargeant: +0:18:006
+17 - tsunoda: +0:12:000
+18 - ricciardo: +0:26:002
+19 - bottas: +0:15:005
+20 - colapinto: +0:21:001
+
+vuelta 58
+
+
+Clasificación Vuelta 58:
+
+Adelantamientos vuelta: 58
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:009
+3 - piastri: +0:26:001
+4 - leclerc: +0:19:002
+5 - sainz: +0:15:003
+6 - hamilton: +0:29:006
+7 - russell: +0:16:001
+8 - perez: +0:21:006
+9 - alonso: +0:17:001
+10 - stroll: +0:20:006
+11 - ocon: +0:28:006
+12 - gasly: +0:13:005
+13 - hulkenberg: +0:24:004
+14 - magnussen: +0:14:000
+15 - albon: +0:28:002
+16 - sargeant: +0:18:007
+17 - tsunoda: +0:12:003
+18 - ricciardo: +0:26:002
+19 - bottas: +0:16:007
+20 - colapinto: +0:20:003
+
+vuelta 59
+
+
+Clasificación Vuelta 59:
+
+Adelantamientos vuelta: 59
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:000
+3 - piastri: +0:27:002
+4 - leclerc: +0:19:002
+5 - sainz: +0:16:000
+6 - hamilton: +0:28:008
+7 - russell: +0:17:001
+8 - perez: +0:22:003
+9 - alonso: +0:16:004
+10 - stroll: +0:21:004
+11 - ocon: +0:28:008
+12 - gasly: +0:13:007
+13 - hulkenberg: +0:25:000
+14 - magnussen: +0:14:005
+15 - albon: +0:27:009
+16 - sargeant: +0:20:004
+17 - tsunoda: +0:11:006
+18 - ricciardo: +0:26:009
+19 - bottas: +0:17:007
+20 - colapinto: +0:20:003
+
+vuelta 60
+
+
+Clasificación Vuelta 60:
+
+Adelantamientos vuelta: 60
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:003
+3 - piastri: +0:26:002
+4 - leclerc: +0:20:009
+5 - sainz: +0:14:009
+6 - hamilton: +0:29:001
+7 - russell: +0:19:001
+8 - perez: +0:22:005
+9 - alonso: +0:16:002
+10 - stroll: +0:21:008
+11 - ocon: +0:29:004
+12 - gasly: +0:13:005
+13 - hulkenberg: +0:24:008
+14 - magnussen: +0:14:006
+15 - albon: +0:28:008
+16 - sargeant: +0:21:006
+17 - tsunoda: +0:11:006
+18 - ricciardo: +0:27:007
+19 - bottas: +0:18:002
+20 - colapinto: +0:19:001
+
+vuelta 61
+
+
+Clasificación Vuelta 61:
+
+Adelantamientos vuelta: 61
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:03:006
+3 - piastri: +0:27:002
+4 - leclerc: +0:21:002
+5 - sainz: +0:15:000
+6 - hamilton: +0:29:003
+7 - russell: +0:19:005
+8 - perez: +0:22:009
+9 - alonso: +0:16:003
+10 - stroll: +0:22:008
+11 - ocon: +0:29:000
+12 - gasly: +0:14:006
+13 - hulkenberg: +0:25:009
+14 - magnussen: +0:14:000
+15 - albon: +0:29:009
+16 - sargeant: +0:22:001
+17 - tsunoda: +0:11:009
+18 - ricciardo: +0:27:000
+19 - bottas: +0:18:004
+20 - colapinto: +0:19:006
+
+vuelta 62
+
+
+Clasificación Vuelta 62:
+
+Adelantamientos vuelta: 62
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:04:002
+3 - piastri: +0:27:004
+4 - leclerc: +0:20:007
+5 - sainz: +0:16:004
+6 - hamilton: +0:29:001
+7 - russell: +0:20:003
+8 - perez: +0:23:002
+9 - alonso: +0:16:001
+10 - stroll: +0:24:000
+11 - ocon: +0:28:007
+12 - gasly: +0:15:001
+13 - hulkenberg: +0:26:002
+14 - magnussen: +0:14:008
+15 - albon: +0:29:008
+16 - sargeant: +0:21:006
+17 - tsunoda: +0:12:001
+18 - ricciardo: +0:28:000
+19 - bottas: +0:18:005
+20 - colapinto: +0:19:009
+
+vuelta 63
+
+
+Clasificación Vuelta 63:
+
+Adelantamientos vuelta: 63
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:05:003
+3 - piastri: +0:27:004
+4 - leclerc: +0:21:003
+5 - sainz: +0:16:001
+6 - hamilton: +0:30:009
+7 - russell: +0:19:003
+8 - perez: +0:25:000
+9 - alonso: +0:16:004
+10 - stroll: +0:23:009
+11 - ocon: +0:28:009
+12 - gasly: +0:15:004
+13 - hulkenberg: +0:26:007
+14 - magnussen: +0:15:006
+15 - albon: +0:30:003
+16 - sargeant: +0:21:001
+17 - tsunoda: +0:13:001
+18 - ricciardo: +0:28:001
+19 - bottas: +0:18:002
+20 - colapinto: +0:20:005
+
+vuelta 64
+
+
+Clasificación Vuelta 64:
+
+Adelantamientos vuelta: 64
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:05:005
+3 - piastri: +0:27:008
+4 - leclerc: +0:23:000
+5 - sainz: +0:15:004
+6 - hamilton: +0:31:009
+7 - russell: +0:19:003
+8 - perez: +0:24:008
+9 - alonso: +0:16:009
+10 - stroll: +0:24:006
+11 - ocon: +0:29:003
+12 - gasly: +0:15:009
+13 - hulkenberg: +0:26:004
+14 - magnussen: +0:16:003
+15 - albon: +0:30:005
+16 - sargeant: +0:21:007
+17 - tsunoda: +0:13:004
+18 - ricciardo: +0:28:009
+19 - bottas: +0:18:009
+20 - colapinto: +0:20:006
+
+vuelta 65
+
+
+Clasificación Vuelta 65:
+
+Adelantamientos vuelta: 65
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:05:009
+3 - piastri: +0:29:002
+4 - leclerc: +0:22:007
+5 - sainz: +0:16:006
+6 - hamilton: +0:32:001
+7 - russell: +0:20:001
+8 - perez: +0:25:001
+9 - alonso: +0:16:003
+10 - stroll: +0:25:004
+11 - ocon: +0:28:008
+12 - gasly: +0:16:006
+13 - hulkenberg: +0:27:009
+14 - magnussen: +0:16:002
+15 - albon: +0:30:003
+16 - sargeant: +0:22:004
+17 - tsunoda: +0:14:003
+18 - ricciardo: +0:28:001
+19 - bottas: +0:19:004
+20 - colapinto: +0:21:007
+
+vuelta 66
+
+
+Clasificación Vuelta 66:
+
+Adelantamientos vuelta: 66
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:06:000
+3 - piastri: +0:29:008
+4 - leclerc: +0:22:009
+5 - sainz: +0:16:008
+6 - hamilton: +0:32:002
+7 - russell: +0:20:006
+8 - perez: +0:25:000
+9 - alonso: +0:16:005
+10 - stroll: +0:25:007
+11 - ocon: +0:28:008
+12 - gasly: +0:17:000
+13 - hulkenberg: +0:29:005
+14 - magnussen: +0:15:007
+15 - albon: +0:30:002
+16 - sargeant: +0:22:006
+17 - tsunoda: +0:14:006
+18 - ricciardo: +0:29:008
+19 - bottas: +0:18:004
+20 - colapinto: +0:23:003
+
+vuelta 67
+
+
+Clasificación Vuelta 67:
+
+Adelantamientos vuelta: 67
+No hubo adelantamientos en esta vuelta
+
+1 - verstappen: -:--:---
+2 - norris: +0:06:005
+3 - piastri: +0:28:006
+4 - leclerc: +0:23:008
+5 - sainz: +0:17:009
+6 - hamilton: +0:31:004
+7 - russell: +0:21:004
+8 - perez: +0:25:000
+9 - alonso: +0:18:001
+10 - stroll: +0:26:000
+11 - ocon: +0:29:003
+12 - gasly: +0:16:002
+13 - hulkenberg: +0:30:004
+14 - magnussen: +0:16:000
+15 - albon: +0:31:000
+16 - sargeant: +0:22:002
+17 - tsunoda: +0:15:003
+18 - ricciardo: +0:29:009
+19 - bottas: +0:19:006
+20 - colapinto: +0:23:001
+
+
+Clasificación Final:
+
+1 - verstappen: -:--:---
+2 - norris: +0:06:005
+3 - piastri: +0:28:006
+4 - leclerc: +0:23:008
+5 - sainz: +0:17:009
+6 - hamilton: +0:31:004
+7 - russell: +0:21:004
+8 - perez: +0:25:000
+9 - alonso: +0:18:001
+10 - stroll: +0:26:000
+11 - ocon: +0:29:003
+12 - gasly: +0:16:002
+13 - hulkenberg: +0:30:004
+14 - magnussen: +0:16:000
+15 - albon: +0:31:000
+16 - sargeant: +0:22:002
+17 - tsunoda: +0:15:003
+18 - ricciardo: +0:29:009
+19 - bottas: +0:19:006
+20 - colapinto: +0:23:001
+
+La vuelta rapida fue para norris, con un tiempo de 1:27:006 en la vuelta 52

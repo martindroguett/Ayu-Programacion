@@ -1,0 +1,179 @@
+
+Fecha 1
+
+Alemania 6 - 5 Estados Unidos
+Arabia Saudita 3 - 6 España
+Argelia 7 - 10 Escocia
+Argentina 3 - 2 Egipto
+Australia 8 - 10 Ecuador
+Austria 8 - 4 Curazao
+Bélgica 8 - 3 Croacia
+Bosnia y Herzegovina 5 - 7 Costa de Marfil
+Brasil 6 - 4 Corea del Sur
+Cabo Verde 13 - 7 Colombia
+Canadá 8 - 4 Catar
+
+Fecha 2
+
+Alemania 3 - 6 España
+Estados Unidos 6 - 9 Escocia
+Arabia Saudita 3 - 13 Egipto
+Argelia 8 - 5 Ecuador
+Argentina 5 - 8 Curazao
+Australia 4 - 6 Croacia
+Austria 3 - 8 Costa de Marfil
+Bélgica 5 - 7 Corea del Sur
+Bosnia y Herzegovina 8 - 11 Colombia
+Brasil 2 - 8 Catar
+Cabo Verde 10 - 5 Canadá
+
+Fecha 3
+
+Alemania 8 - 7 Escocia
+España 7 - 4 Egipto
+Estados Unidos 4 - 4 Ecuador
+Arabia Saudita 7 - 9 Curazao
+Argelia 9 - 5 Croacia
+Argentina 5 - 8 Costa de Marfil
+Australia 4 - 4 Corea del Sur
+Austria 6 - 4 Colombia
+Bélgica 8 - 4 Catar
+Bosnia y Herzegovina 2 - 12 Canadá
+Brasil 4 - 7 Cabo Verde
+
+Fecha 4
+
+Alemania 7 - 3 Egipto
+Escocia 5 - 3 Ecuador
+España 12 - 8 Curazao
+Estados Unidos 6 - 4 Croacia
+Arabia Saudita 8 - 8 Costa de Marfil
+Argelia 10 - 12 Corea del Sur
+Argentina 3 - 14 Colombia
+Australia 9 - 4 Catar
+Austria 6 - 4 Canadá
+Bélgica 10 - 5 Cabo Verde
+Bosnia y Herzegovina 7 - 9 Brasil
+
+Fecha 5
+
+Alemania 5 - 7 Ecuador
+Egipto 5 - 5 Curazao
+Escocia 6 - 7 Croacia
+España 1 - 6 Costa de Marfil
+Estados Unidos 5 - 10 Corea del Sur
+Arabia Saudita 3 - 10 Colombia
+Argelia 4 - 10 Catar
+Argentina 7 - 7 Canadá
+Australia 9 - 13 Cabo Verde
+Austria 9 - 5 Brasil
+Bélgica 6 - 8 Bosnia y Herzegovina
+
+Fecha 6
+
+Alemania 6 - 6 Curazao
+Ecuador 6 - 2 Croacia
+Egipto 5 - 4 Costa de Marfil
+Escocia 3 - 2 Corea del Sur
+España 6 - 8 Colombia
+Estados Unidos 5 - 3 Catar
+Arabia Saudita 2 - 7 Canadá
+Argelia 6 - 11 Cabo Verde
+Argentina 6 - 9 Brasil
+Australia 7 - 4 Bosnia y Herzegovina
+Austria 7 - 9 Bélgica
+
+Fecha 7
+
+Alemania 2 - 2 Croacia
+Curazao 4 - 3 Costa de Marfil
+Ecuador 4 - 3 Corea del Sur
+Egipto 2 - 6 Colombia
+Escocia 3 - 3 Catar
+España 2 - 3 Canadá
+Estados Unidos 2 - 4 Cabo Verde
+Arabia Saudita 4 - 4 Brasil
+Argelia 4 - 8 Bosnia y Herzegovina
+Argentina 12 - 9 Bélgica
+Australia 6 - 3 Austria
+
+Fecha 8
+
+Alemania 4 - 5 Costa de Marfil
+Croacia 5 - 7 Corea del Sur
+Curazao 5 - 8 Colombia
+Ecuador 3 - 8 Catar
+Egipto 4 - 5 Canadá
+Escocia 6 - 13 Cabo Verde
+España 7 - 4 Brasil
+Estados Unidos 5 - 5 Bosnia y Herzegovina
+Arabia Saudita 5 - 3 Bélgica
+Argelia 4 - 5 Austria
+Argentina 8 - 4 Australia
+
+Fecha 9
+
+Alemania 3 - 3 Corea del Sur
+Costa de Marfil 6 - 6 Colombia
+Croacia 9 - 8 Catar
+Curazao 9 - 10 Canadá
+Ecuador 6 - 12 Cabo Verde
+Egipto 5 - 7 Brasil
+Escocia 6 - 7 Bosnia y Herzegovina
+España 7 - 7 Bélgica
+Estados Unidos 2 - 4 Austria
+Arabia Saudita 4 - 2 Australia
+Argelia 10 - 8 Argentina
+
+Fecha 10
+
+Alemania 5 - 5 Colombia
+Corea del Sur 10 - 4 Catar
+Costa de Marfil 3 - 7 Canadá
+Croacia 5 - 9 Cabo Verde
+Curazao 6 - 4 Brasil
+Ecuador 4 - 1 Bosnia y Herzegovina
+Egipto 3 - 1 Bélgica
+Escocia 6 - 4 Austria
+España 5 - 8 Australia
+Estados Unidos 4 - 3 Argentina
+Arabia Saudita 11 - 7 Argelia
+
+Fecha 11
+
+Alemania 4 - 11 Catar
+Colombia 4 - 5 Canadá
+Corea del Sur 7 - 11 Cabo Verde
+Costa de Marfil 2 - 7 Brasil
+Croacia 7 - 6 Bosnia y Herzegovina
+Curazao 11 - 7 Bélgica
+Ecuador 11 - 7 Austria
+Egipto 3 - 5 Australia
+Escocia 2 - 5 Argentina
+España 4 - 5 Argelia
+Estados Unidos 9 - 9 Arabia Saudita
+
+Fecha 12
+
+Alemania 6 - 5 Canadá
+Catar 6 - 7 Cabo Verde
+Colombia 7 - 13 Brasil
+Corea del Sur 2 - 2 Bosnia y Herzegovina
+Costa de Marfil 11 - 4 Bélgica
+Croacia 8 - 11 Austria
+Curazao 6 - 4 Australia
+Ecuador 8 - 5 Argentina
+Egipto 7 - 5 Argelia
+Escocia 4 - 6 Arabia Saudita
+España 4 - 5 Estados Unidos
+
+PODIO
+1° lugar: Cabo Verde - 33 puntos
+2° lugar: Canadá - 25 puntos
+3° lugar: Ecuador - 22 puntos
+
+Equipo con más toques:
+Catar - 249 toques
+
+Equipo que recibió más goles:
+Argelia - 96 goles recibidos

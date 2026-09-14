@@ -1,0 +1,81 @@
+SEP:;?V=3
+234;DFGDFG;2342;A;23423;DFSDF;<.LLLL
+SEP:,?V=4
+123:,DDDDDDD,AAAA,XXXXX,l,WWWW,A,W3E,A
+SEP:¿?V=0
+a¿22¿ERROR¿¡
+SEP:+?V=4
+m+A+ñ+A+n+A
+SEP:=?V=3
+_= =_= =----
+SEP:_?V=2
+Tu_Tu_Tu_HACE_EL_CAMION
+SEP:X?V=3
+QXuXEXrXY
+SEP:$?V=9
+ing$ENI$ERO$ing$ENI$ERO$ing$ENI$ERO$ing$ENI$ERO$ing$ENI$ERO
+SEP:=?V=3
+_= =_= =----
+SEP:+?V=4
+es+A+es+A+es+A
+SEP:=?V=3
+_= =_= =----
+SEP:=?V=1
+do=re=mi=fa=sol
+SEP:_?V=2
+cilindro_cubo_cono
+SEP:+?V=1
+si+ci+lia
+SEP:=?V=0
+do=re=mi=fa=sol
+SEP:=?V=3
+_= =_= =----
+SEP:=?V=12
+_= =_= =----=2=asd=xxx=s1=2112=no=ci=por=iiii=ooo
+SEP:=?V=3
+_= =_= =----
+SEP:_?V=3
+ser_o_no_ser_he_ahi_el_dilema
+SEP:=?V=3
+_= =_= =----
+SEP:*?V=10
+a*s*x*s*d*w*e*f*e*r*u*lvl*99999
+SEP:+?V=3
+tres+dos+u+no
+SEP:=?V=3
+_= =_= =----
+SEP:*?V=10
+a*s*x*s*d*w*e*f*e*r*de*lvl*99999
+SEP:=?V=3
+_= =_= =----
+SEP:=?V=4
+do=de=mi=fa=los
+SEP:=?V=3
+_= =_= =----
+SEP:_?V=1
+pio_pio_HACE_EL_POLLO
+SEP:;?V=1
+na;ne;ni;no;nu
+SEP:,?V=4
+car:,ni,c,e,ro,a,A,W3E,A
+SEP:=?V=3
+_= =_= =----
+SEP:¿?V=4
+a¿22¿ERROR¿¡¿en¿tre
+SEP:=?V=3
+_= =_= =----
+SEP:_?V=5
+tin_ki_win_ki_la_la_po
+SEP:¿?V=4
+a¿22¿ERROR¿¡¿s¿ss
+SEP:=?V=3
+_= =_= =----
+SEP:+?V=10
+no+vale+tratar+de+descifrar+a+mano+sin+considerar+las+ciencias de la computación.
+endwar
+
+
+
+--CODIGO EJEMPLO
+SEP:;?V=2
+A;B;código_descifrado;C

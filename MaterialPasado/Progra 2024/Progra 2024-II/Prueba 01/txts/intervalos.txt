@@ -1,0 +1,18 @@
+La Serena,17.5,23.0
+Coquimbo,17.0,22.5
+Ovalle,16.5,22.0
+Valparaíso,16.0,21.5
+Viña del Mar,15.5,21.0
+Quillota,16.0,22.0
+Concepción,13.5,19.5
+Talcahuano,14.0,20.0
+Chillán,13.0,18.5
+Los Ángeles,13.0,19.0
+Temuco,11.5,17.5
+Villarrica,11.0,17.0
+Pucón,10.5,16.5
+Puerto Montt,9.5,15.5
+Osorno,9.0,15.0
+Castro,8.5,14.5
+Punta Arenas,-3.5,5.0
+Puerto Natales,-4.0,4.0

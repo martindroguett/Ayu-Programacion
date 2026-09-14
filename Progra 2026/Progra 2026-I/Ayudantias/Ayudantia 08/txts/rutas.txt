@@ -1,0 +1,34 @@
+PK-21,Pasaje Los Aromos 99,15.4
+PK-05,Av. Alemania 450,4.2
+PK-33,Calle El Roble 78,8.9
+PK-02,Tu Dirección 123,0.1
+PK-14,Calle Los Alerces 567,11.3
+PK-29,Av. Francisco Bilbao 1020,3.5
+PK-08,Pasaje Las Azaleas 44,6.8
+PK-19,Calle Prat 890,2.1
+PK-11,Av. Balmaceda 12,14.7
+PK-25,Calle Los Carreras 345,9.2
+PK-01,Pasaje El Bosque 77,1.5
+PK-17,Calle San Martín 234,7.4
+PK-30,Av. Pajaritos 190,5.6
+PK-06,Calle Esmeralda 112,13.1
+PK-22,Pasaje Los Copihues 88,10.5
+PK-13,Av. Vicuña Mackenna 432,0.9
+PK-27,Calle Lincoyán 67,8.0
+PK-04,Pasaje Las Rosas 15,12.4
+PK-18,Av. Colón 889,4.9
+PK-32,Calle Maipú 555,16.2
+PK-09,Pasaje El Mirador 23,2.7
+PK-24,Calle O'Higgins 441,11.8
+PK-12,Av. Providencia 2040,6.1
+PK-07,Calle Chacabuco 99,3.8
+PK-26,Pasaje El Sol 12,14.1
+PK-15,Calle Condell 56,7.9
+PK-03,Av. Apoquindo 4500,18.5
+PK-20,Calle Diego Portales 123,5.2
+PK-31,Pasaje Luna 8,1.1
+PK-10,Calle Los Plátanos 76,9.9
+PK-23,Av. Las Condes 7800,13.6
+PK-16,Calle Rengo 89,2.4
+PK-34,Calle San Cristhian Rabi,103.3
+PK-28,Pasaje Los Olivos 33,10.0

@@ -1,0 +1,22 @@
+Región de Coquimbo;6
+La Serena,15.5,16.0
+Vicuña,25.0,34.5,30.5,12.0,15.0
+Ovalle,22.0,28.0,26.5
+Illapel,24.0
+Los Vilos,14.0,15.5
+Monte Patria,20.0,25.0,-2.1,-1.0,10.0
+Región de Valparaíso;5
+Valparaíso,14.5,15.8
+Viña del Mar,15.0,16.3,14.5
+Quillota,18.0
+San Antonio,13.8,15.0
+Los Andes,20.0
+Región Metropolitana;5
+Santiago,18.5,30.2,28.0
+Puente Alto,17.0,29.0
+Maipú,18.0,29.5
+Colina,19.0,31.0,29.5
+San Bernardo,28.8
+
+
+

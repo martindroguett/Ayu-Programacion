@@ -1,0 +1,41 @@
+﻿Costanera Norte,P0,Puente Padre Arteaga - Puente San Francisco,Oriente - Poniente,149.8,288.4
+Costanera Norte,P1,Puente San Francisco - Gran Vía,Oriente - Poniente,449.4,865.2
+Costanera Norte,P2.1,Gran Vía - Centenario,Oriente - Poniente,425.86,819.88
+Costanera Norte,P2.2,Centenario - Puente Lo Saldes,Oriente - Poniente,264.29,508.82
+Costanera Norte,P3,Puente Lo Saldes - Vivaceta,Oriente - Poniente,719.04,1384.32
+Costanera Norte,P5,Vivaceta - Carrascal,Oriente - Poniente,715.83,1378.14
+Costanera Norte,P7,Estoril - Las Tranqueras (Eje Kennedy),Oriente - Poniente,250.21,481.73
+Costanera Norte,P8.0,Las Tranqueras - Costanera Norte (Eje Kennedy),Oriente - Poniente,583.84,1124.03
+Autopista Central,PA1,La Capilla - Los Guindos,Norte - Sur,768.0,1536.0
+Autopista Central,PA3,La Capilla - Colón,Norte - Sur,565.64,1131.28
+Autopista Central,PA20,Américo Vespucio - Ruta 5 Sur,Norte - Sur,398.86,797.72
+Autopista Central,PA21,Américo Vespucio - Carlos Valdovinos,Norte - Sur,495.31,990.62
+Autopista Central,PA2,Los Guindos - Vespucio Sur,Sur - Norte,610.5,1221.0
+Autopista Central,PA4,Colón - Mapocho,Sur - Norte,520.3,1040.6
+Autopista Central,PA15,Mapocho - 14 de la Fama,Ambos Sentidos,430.15,860.3
+Autopista Central,PA18,14 de la Fama - Vespucio Norte,Ambos Sentidos,380.0,760.0
+Autopista Nororiente,P63,Troncal Poniente (Ruta 5 Norte - Enlace Av. del Valle),Poniente - Oriente,823.0,1235.0
+Autopista Nororiente,P65,Troncal Oriente (Enlace Av. del Valle - Nudo Centenario),Poniente - Oriente,1235.0,1852.0
+Autopista Nororiente,P62,Troncal Poniente (Enlace Av. del Valle - Ruta 5 Norte),Oriente - Poniente,823.0,1235.0
+Autopista Nororiente,P64,Troncal Oriente (Nudo Centenario - Enlace Av. del Valle),Oriente - Poniente,1235.0,1852.0
+Vespucio Sur,P1_VS,Grecia - Las Torres,Ambos Sentidos,450.0,900.0
+Vespucio Sur,P2_VS,Las Torres - Vicuña Mackenna,Ambos Sentidos,400.0,800.0
+Vespucio Sur,P3_VS,Vicuña Mackenna - Santa Rosa,Ambos Sentidos,480.0,960.0
+Vespucio Sur,P4_VS,Santa Rosa - Gran Avenida,Ambos Sentidos,350.0,700.0
+Vespucio Sur,P5_VS,Gran Avenida - Autopista Central,Ambos Sentidos,420.0,840.0
+Vespucio Sur,P6_VS,Autopista Central - Cerrillos,Ambos Sentidos,380.0,760.0
+Vespucio Sur,P7_VS,Cerrillos - Autopista del Sol,Ambos Sentidos,410.0,820.0
+Vespucio Norte,P1_VN,El Salto - Recoleta,Ambos Sentidos,350.0,700.0
+Vespucio Norte,P2_VN,Recoleta - Independencia,Ambos Sentidos,400.0,800.0
+Vespucio Norte,P3_VN,Independencia - Ruta 5 Norte,Ambos Sentidos,380.0,760.0
+Vespucio Norte,P4_VN,Ruta 5 Norte - San Martín,Ambos Sentidos,420.0,840.0
+Vespucio Norte,P5_VN,San Martín - Eje General Velásquez,Ambos Sentidos,460.0,920.0
+Vespucio Norte,P6_VN,Eje General Velásquez - Costanera Norte,Ambos Sentidos,500.0,1000.0
+Vespucio Norte,P7_VN,Costanera Norte - Ruta 68,Ambos Sentidos,390.0,780.0
+AVO 1,P1_AVO,El Salto - Ciudad Empresarial,Norte - Sur,500.0,1000.0
+AVO 1,P2_AVO,Ciudad Empresarial - Vitacura,Norte - Sur,600.0,1200.0
+AVO 1,P3_AVO,Vitacura - Apoquindo,Norte - Sur,550.0,1100.0
+AVO 1,P4_AVO,Apoquindo - Príncipe de Gales,Norte - Sur,450.0,900.0
+Acceso Sur,P1_AS,Vespucio Sur - Gabriela,Ambos Sentidos,280.0,560.0
+Acceso Sur,P2_AS,Gabriela - Tocornal,Ambos Sentidos,310.0,620.0
+Acceso Sur,P3_AS,Tocornal - Río Maipo,Ambos Sentidos,340.0,680.0

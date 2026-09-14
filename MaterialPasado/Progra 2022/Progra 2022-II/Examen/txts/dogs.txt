@@ -1,0 +1,54 @@
+Champion;Calcio;0
+Dog Chow;Proteína Cruda;21
+Cachupín;Proteína Cruda;20
+Brit Care;Proteína Cruda;30
+Champion;Grasa;8
+Best Balance;Proteína Cruda;28
+Taste of the wild;Proteína Cruda;27
+Acana;Proteína Cruda;29
+Orijen;Proteína Cruda;38
+Cachupín;Grasa;25
+Dog Chow;Grasa;10
+Eukanuba;Grasa;12
+Eukanuba;Fibra;3.8
+Best Balance;Grasa;11
+Taste of the wild;Grasa;15
+Acana;Grasa;17
+Orijen;Grasa;18
+Cachupín;Fibra;4.5
+Dog Chow;Fibra;4
+Champion;Granos;1
+Champion;Fibra;3.5
+Brit Care;Fibra;2.5
+Best Balance;Fibra;3.5
+Orijen;Granos;0
+Dog Chow;Calcio;1.8
+Taste of the wild;Fibra;5
+Acana;Fibra;5
+Cachupín;Humedad;10
+Dog Chow;Humedad;12
+Champion;Humedad;12
+Champion;Proteína Cruda;20
+Eukanuba;Humedad;10
+Brit Care;Grasa;18
+Brit Care;Humedad;10
+Taste of the wild;Humedad;10
+Eukanuba;Proteína Cruda;27
+Best Balance;Humedad;12
+Orijen;Humedad;12
+Cachupín;Calcio;0.5
+Acana;Humedad;12
+Eukanuba;Calcio;1
+Brit Care;Calcio;1.3
+Orijen;Fibra;5
+Best Balance;Calcio;1
+Taste of the wild;Calcio;1
+Acana;Calcio;1.3
+Orijen;Calcio;1.4
+Cachupín;Granos;1
+Dog Chow;Granos;1
+Eukanuba;Granos;1
+Brit Care;Granos;0
+Best Balance;Granos;1
+Taste of the wild;Granos;0
+Acana;Granos;0

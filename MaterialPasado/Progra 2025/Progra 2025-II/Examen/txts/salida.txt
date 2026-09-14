@@ -1,0 +1,85 @@
+Partida 1: jugador1, jugador2, jugador3
+Tablero: 5x5 (25 casillas).
+
+vuelta 1
+jugador1 lanza 3. Posición: 3. (Inicio: 0)
+jugador2 lanza 6. Posición: 6. (Inicio: 0)
+jugador3 lanza 1. Posición: 1. (Inicio: 0)
+
+Clasificación Vuelta 1:
+No hubo movimientos significativos.
+
+1 - jugador2: (Posición 6)
+2 - jugador1: (Posición 3)
+3 - jugador3: (Posición 1)
+
+vuelta 2
+jugador1 lanza 2. Posición: 5. (Inicio: 3)
+jugador2 lanza 1. Posición: 7. (Inicio: 6)
+jugador3 lanza 5. Posición: 6. (Inicio: 1)
+
+Clasificación Vuelta 2:
+No hubo movimientos significativos.
+
+1 - jugador2: (Posición 7)
+2 - jugador3: (Posición 6)
+3 - jugador1: (Posición 5)
+
+vuelta 3
+jugador1 lanza 4. Posición: 9. (Inicio: 5)
+jugador2 lanza 2. Posición: 9. (Inicio: 7)
+jugador3 lanza 6. Posición: 12. (Inicio: 6)
+
+Clasificación Vuelta 3:
+No hubo movimientos significativos.
+
+1 - jugador3: (Posición 12)
+2 - jugador1: (Posición 9)
+3 - jugador2: (Posición 9)
+
+vuelta 4
+jugador1 lanza 6. Posición: 15. (Inicio: 9)
+jugador2 lanza 4. Posición: 13. (Inicio: 9)
+jugador3 lanza 3. Posición: 15. (Inicio: 12)
+
+Clasificación Vuelta 4:
+No hubo movimientos significativos.
+
+1 - jugador1: (Posición 15)
+2 - jugador3: (Posición 15)
+3 - jugador2: (Posición 13)
+
+vuelta 5
+jugador1 lanza 1. Posición: 16. (Inicio: 15)
+jugador2 lanza 5. Posición: 9. (Inicio: 13) -> ¡Atajo a 9! (S1->s1: 18->9)
+jugador3 lanza 2. Posición: 17. (Inicio: 15)
+
+Clasificación Vuelta 5:
+jugador2 retrocedió debido a serpiente (S1 -> s1)
+
+1 - jugador3: (Posición 17)
+2 - jugador1: (Posición 16)
+3 - jugador2: (Posición 9)
+
+============================================
+Ganador de la Partida: Jugador3, en la vuelta 5 (Partida finalizada por límite de vueltas).
+Clasificación Final:
+1 - jugador3: (Posición 17)
+2 - jugador1: (Posición 16)
+3 - jugador2: (Posición 9)
+============================================
+
+--- 4. Análisis Global del Torneo ---
+
+A. Ranking Histórico de Jugadores
+Ranking Global de Ganadores:
+1 - jugador3: 1 Victorias (Suma Vueltas: 5)
+2 - jugador1: 0 Victorias (Suma Vueltas: N/A)
+3 - jugador2: 0 Victorias (Suma Vueltas: N/A)
+
+Jugadores Nunca Ganadores: jugador1, jugador2
+
+B. Análisis del Rendimiento y Eficiencia
+Uso de Atajos:
+Mayor Ganancia Neta por Escaleras: jugador1 (Ganancia Total: 12 casillas)
+Mayor Pérdida Neta por Serpientes: jugador2 (Pérdida Total: 9 casillas)

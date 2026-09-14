@@ -1,0 +1,170 @@
+Presiona ENTER para generar galletas o elige una opción del menú. Escribe 'FIN' para terminar.
+
+
+Galletas: 0 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> 1
+¿Cuántas galletas quieres vender? 100
+No puedes vender más galletas de las que tienes.
+
+Galletas: 0 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> 2
+No tienes artefactos comprados aún.
+
+Galletas: 0 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> 3
+
+=== Comprar Artefacto ===
+
+1. Horno eléctrico | Precio: 40 | Galletas/Pulsación: 50 | Coste: 1
+2. Horno a gas | Precio: 100 | Galletas/Pulsación: 100 | Coste: 3
+3. Horno industrial | Precio: 250 | Galletas/Pulsación: 150 | Coste: 10
+4. Gato amasador | Precio: 500 | Galletas/Pulsación: 200 | Coste: 5
+5. Fábrica pequeña | Precio: 10000 | Galletas/Pulsación: 1000 | Coste: 150
+6. Fábrica grande | Precio: 100000 | Galletas/Pulsación: 5000 | Coste: 400
+7. Horno del Tío Cochino | Precio: 100000000000 | Galletas/Pulsación: 1000000 | Coste: 100
+
+Monedas disponibles: 0
+Espacio disponible: 4 artefactos
+¿Cuál deseas comprar? (número) 1
+No tienes suficientes monedas.
+
+Galletas: 0 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> 4
+No tienes artefactos.
+
+Galletas: 0 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+Galletas: 1 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+Galletas: 2 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+#Pulsa ENTER...
+
+Galletas: 40 | Monedas: 0 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> 1
+¿Cuántas galletas quieres vender? 40
+Vendiste 40 galletas por 200 monedas.
+
+Galletas: 0 | Monedas: 200 | Galletas por pulsación: 1 | Coste total: 0
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> 3
+
+=== Comprar Artefacto ===
+
+1. Horno eléctrico | Precio: 40 | Galletas/Pulsación: 50 | Coste: 1
+2. Horno a gas | Precio: 100 | Galletas/Pulsación: 100 | Coste: 3
+3. Horno industrial | Precio: 250 | Galletas/Pulsación: 150 | Coste: 10
+4. Gato amasador | Precio: 500 | Galletas/Pulsación: 200 | Coste: 5
+5. Fábrica pequeña | Precio: 10000 | Galletas/Pulsación: 1000 | Coste: 150
+6. Fábrica grande | Precio: 100000 | Galletas/Pulsación: 5000 | Coste: 400
+7. Horno del Tío Cochino | Precio: 100000000000 | Galletas/Pulsación: 1000000 | Coste: 100
+
+Monedas disponibles: 200
+Espacio disponible: 4 artefactos
+¿Cuál deseas comprar? (número) 2
+Compraste Horno a gas.
+
+Galletas: 0 | Monedas: 100 | Galletas por pulsación: 101 | Coste total: 3
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+Galletas: 101 | Monedas: 97 | Galletas por pulsación: 101 | Coste total: 3
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+Galletas: 202 | Monedas: 94 | Galletas por pulsación: 101 | Coste total: 3
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+#Pulsa ENTER...
+
+Galletas: 3232 | Monedas: 4 | Galletas por pulsación: 101 | Coste total: 3
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+
+Galletas: 3333 | Monedas: 1 | Galletas por pulsación: 101 | Coste total: 3
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>>
+No tienes suficientes monedas para operar la fábrica.
+
+Galletas: 3333 | Monedas: 1 | Galletas por pulsación: 101 | Coste total: 3
+1. Vender Galletas
+2. Ver Artefactos
+3. Comprar Artefactos
+4. Vender Artefactos
+ENTER para producir | 'FIN' para salir
+>>> FIN
+
+=== REPORTE FINAL ===
+Máx. galletas por pulsación: 101
+Galletas totales generadas: 3373
+Monedas totales gastadas: 100
+Artefactos ordenados por coste por galleta:
+Horno a gas | Coste por galleta: 0.03

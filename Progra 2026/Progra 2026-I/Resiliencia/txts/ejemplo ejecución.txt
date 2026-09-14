@@ -1,0 +1,323 @@
+Artista: Taylor Swift
+País: USA
+Álbum: Midnights
+Canciones: 13
+Puntaje: 9.2
+Duración en segundos: 2640
+Álbum: 1989
+Canciones: 16
+Puntaje: 9.5
+Duración en segundos: 3120
+Álbum: Red
+Canciones: 14
+Puntaje: 8.9
+Duración en segundos: 3560
+Álbum: Folklore
+Canciones: 17
+Puntaje: 9.4
+Duración en segundos: 3780
+Promedio: 9.25
+------------------------
+Artista: Coldplay
+País: UK
+Álbum: Parachutes
+Canciones: 10
+Puntaje: 8.7
+Duración en segundos: 2480
+Álbum: Ghost Stories
+Canciones: 9
+Puntaje: 8.0
+Duración en segundos: 2340
+Álbum: A Rush of Blood to the Head
+Canciones: 11
+Puntaje: 9.1
+Duración en segundos: 3270
+Álbum: Mylo Xyloto
+Canciones: 14
+Puntaje: 8.5
+Duración en segundos: 3420
+Promedio: 8.57
+------------------------
+Artista: Karol G
+País: Colombia
+Álbum: Mañana Será Bonito
+Canciones: 17
+Puntaje: 9.1
+Duración en segundos: 3960
+Álbum: KG0516
+Canciones: 16
+Puntaje: 8.4
+Duración en segundos: 3720
+Álbum: Ocean
+Canciones: 13
+Puntaje: 8.8
+Duración en segundos: 2980
+Promedio: 8.77
+------------------------
+Artista: The Weeknd
+País: Canada
+Álbum: After Hours
+Canciones: 14
+Puntaje: 9.4
+Duración en segundos: 3360
+Álbum: Dawn FM
+Canciones: 16
+Puntaje: 8.8
+Duración en segundos: 3840
+Álbum: Starboy
+Canciones: 18
+Puntaje: 9.0
+Duración en segundos: 4320
+Promedio: 9.07
+------------------------
+Artista: Imagine Dragons
+País: USA
+Álbum: Evolve
+Canciones: 12
+Puntaje: 8.3
+Duración en segundos: 2760
+Álbum: Night Visions
+Canciones: 13
+Puntaje: 9.0
+Duración en segundos: 3180
+Álbum: Mercury Act 1
+Canciones: 15
+Puntaje: 8.2
+Duración en segundos: 3570
+Promedio: 8.5
+------------------------
+Artista: Shakira
+País: Colombia
+Álbum: El Dorado
+Canciones: 13
+Puntaje: 8.5
+Duración en segundos: 3050
+Álbum: Laundry Service
+Canciones: 15
+Puntaje: 9.2
+Duración en segundos: 3900
+Álbum: Sale el Sol
+Canciones: 11
+Puntaje: 8.4
+Duración en segundos: 2750
+Promedio: 8.7
+------------------------
+Artista: Ed Sheeran
+País: UK
+Álbum: Divide
+Canciones: 16
+Puntaje: 9.0
+Duración en segundos: 3880
+Álbum: Multiply
+Canciones: 12
+Puntaje: 8.7
+Duración en segundos: 2890
+Álbum: Equals
+Canciones: 14
+Puntaje: 8.5
+Duración en segundos: 3350
+Promedio: 8.73
+------------------------
+Artista: Dua Lipa
+País: UK
+Álbum: Future Nostalgia
+Canciones: 11
+Puntaje: 9.3
+Duración en segundos: 2620
+Álbum: Dua Lipa
+Canciones: 12
+Puntaje: 8.6
+Duración en segundos: 2940
+Álbum: Radical Optimism
+Canciones: 13
+Puntaje: 8.8
+Duración en segundos: 3210
+Promedio: 8.9
+------------------------
+Artista: Bad Bunny
+País: Puerto Rico
+Álbum: Un Verano Sin Ti
+Canciones: 23
+Puntaje: 9.5
+Duración en segundos: 5520
+Álbum: YHLQMDLG
+Canciones: 20
+Puntaje: 8.8
+Duración en segundos: 4800
+Álbum: Nadie Sabe Lo Que Va a Pasar Mañana
+Canciones: 22
+Puntaje: 8.4
+Duración en segundos: 5170
+Promedio: 8.9
+------------------------
+Artista: Arctic Monkeys
+País: UK
+Álbum: AM
+Canciones: 12
+Puntaje: 9.4
+Duración en segundos: 2920
+Álbum: Favourite Worst Nightmare
+Canciones: 11
+Puntaje: 8.9
+Duración en segundos: 2680
+Álbum: Humbug
+Canciones: 10
+Puntaje: 8.3
+Duración en segundos: 2510
+Promedio: 8.87
+------------------------
+Artista: Adele
+País: UK
+Álbum: 21
+Canciones: 11
+Puntaje: 9.6
+Duración en segundos: 2850
+Álbum: 25
+Canciones: 11
+Puntaje: 9.1
+Duración en segundos: 2980
+Álbum: 30
+Canciones: 12
+Puntaje: 8.9
+Duración en segundos: 3120
+Promedio: 9.2
+------------------------
+Artista: Bruno Mars
+País: USA
+Álbum: Doo-Wops and Hooligans
+Canciones: 10
+Puntaje: 9.0
+Duración en segundos: 2470
+Álbum: Unorthodox Jukebox
+Canciones: 11
+Puntaje: 8.8
+Duración en segundos: 2780
+Álbum: 24K Magic
+Canciones: 9
+Puntaje: 9.2
+Duración en segundos: 2210
+Promedio: 9.0
+------------------------
+Artista: Linkin Park
+País: USA
+Álbum: Hybrid Theory
+Canciones: 12
+Puntaje: 9.7
+Duración en segundos: 3010
+Álbum: Meteora
+Canciones: 13
+Puntaje: 9.5
+Duración en segundos: 3180
+Álbum: Minutes to Midnight
+Canciones: 12
+Puntaje: 8.6
+Duración en segundos: 2960
+Promedio: 9.27
+------------------------
+Artista: Rosalia
+País: España
+Álbum: El Mal Querer
+Canciones: 11
+Puntaje: 9.1
+Duración en segundos: 2630
+Álbum: Motomami
+Canciones: 16
+Puntaje: 8.7
+Duración en segundos: 3870
+Promedio: 8.9
+------------------------
+Artista: Drake
+País: Canada
+Álbum: Scorpion
+Canciones: 25
+Puntaje: 8.5
+Duración en segundos: 6155
+Álbum: Views
+Canciones: 20
+Puntaje: 8.8
+Duración en segundos: 4890
+Álbum: For All the Dogs
+Canciones: 23
+Puntaje: 8.0
+Duración en segundos: 5710
+Promedio: 8.43
+------------------------
+Artista: Billie Eilish
+País: USA
+Álbum: When We All Fall Asleep
+Canciones: 14
+Puntaje: 9.3
+Duración en segundos: 3320
+Álbum: Happier Than Ever
+Canciones: 16
+Puntaje: 8.9
+Duración en segundos: 3810
+Promedio: 9.1
+------------------------
+Artista: Muse
+País: UK
+Álbum: Absolution
+Canciones: 14
+Puntaje: 9.4
+Duración en segundos: 3440
+Álbum: Origin of Symmetry
+Canciones: 11
+Puntaje: 9.5
+Duración en segundos: 2810
+Promedio: 9.45
+------------------------
+Artista: Metallica
+País: USA
+Álbum: Master of Puppets
+Canciones: 8
+Puntaje: 9.8
+Duración en segundos: 3280
+Álbum: Black Album
+Canciones: 12
+Puntaje: 9.3
+Duración en segundos: 3720
+Álbum: Hardwired
+Canciones: 12
+Puntaje: 8.1
+Duración en segundos: 3550
+Promedio: 9.07
+------------------------
+Artista: Feid
+País: Colombia
+Álbum: Feliz Cumpleaños Ferxxo
+Canciones: 15
+Puntaje: 8.9
+Duración en segundos: 3620
+Álbum: Inter Shibuya
+Canciones: 14
+Puntaje: 8.4
+Duración en segundos: 3310
+Promedio: 8.65
+------------------------
+Artista: Oasis
+País: UK
+Álbum: Definitely Maybe
+Canciones: 11
+Puntaje: 9.4
+Duración en segundos: 2740
+Álbum: Whats the Story Morning Glory
+Canciones: 12
+Puntaje: 9.6
+Duración en segundos: 2970
+Álbum: Be Here Now
+Canciones: 12
+Puntaje: 7.9
+Duración en segundos: 4310
+Promedio: 8.97
+------------------------
+
+Álbum con mayor puntaje: Master of Puppets 9.8
+Álbum con menor puntaje: Be Here Now 7.9
+Cantidad de álbumes con más de 12 canciones: 31
+Promedio general de todos los álbumes: 8.91
+Álbum más eficiente: Master of Puppets
+Factor de eficiencia: 122.5
+Cantidad de álbumes sobresalientes: 27
+Porcentaje de álbumes sobresalientes: 46.55 %
+Álbum con mayor duración: Scorpion
+Duración: 1 horas 42 minutos 35 segundos

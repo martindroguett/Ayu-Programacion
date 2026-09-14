@@ -1,0 +1,4931 @@
+Fecha 1
+Alemania,Estados Unidos,9,17
+Alemania,-7,-2
+Alemania,8,4
+Estados Unidos,-5,2
+Estados Unidos,-6,1
+Estados Unidos,-3,-3
+Alemania,1,5
+Alemania,-4,-1
+Estados Unidos,-2,2
+Estados Unidos,-4,3
+Alemania,6,-5
+Alemania,3,-4
+Estados Unidos,-4,0
+Estados Unidos,-3,2
+Alemania,5,3
+Alemania,5,3
+Estados Unidos,3,2
+Alemania,2,5
+Estados Unidos,6,-3
+Estados Unidos,3,5
+Estados Unidos,6,3
+Estados Unidos,-2,4
+Estados Unidos,-5,-4
+Estados Unidos,-1,-4
+Alemania,5,2
+Estados Unidos,-5,3
+Estados Unidos,-3,5
+Estados Unidos,2,0
+Alemania,3,-3
+Estados Unidos,-200,0
+Estados Unidos,-1,-1
+Estados Unidos,-8,3
+Estados Unidos,9,3
+Alemania,8,0
+Estados Unidos,7,-5
+Alemania,4,-5
+Estados Unidos,4,0
+Estados Unidos,-6,-1
+Arabia Saudita,España,13,27
+Arabia Saudita,-3,0
+Arabia Saudita,-12,-5
+España,-5,-2
+España,-14,-1
+Arabia Saudita,-1,1
+España,-13,0
+España,-2,6
+España,-11,-6
+Arabia Saudita,14,-3
+España,6,0
+Arabia Saudita,-1,0
+España,-11,4
+Arabia Saudita,-10,-3
+España,-2,4
+España,3,-6
+España,2,6
+España,12,-2
+España,-4,1
+Arabia Saudita,-2,1
+España,-6,3
+Arabia Saudita,-11,5
+Arabia Saudita,-6,6
+España,13,-7
+Arabia Saudita,-13,7
+España,200,0
+Argelia,Escocia,9,25
+Argelia,-12,-4
+Escocia,-10,-1
+Escocia,13,1
+Argelia,-12,4
+Escocia,-12,5
+Argelia,12,-1
+Escocia,1,-3
+Argelia,-3,-4
+Argelia,-11,-1
+Argelia,-200,0
+Escocia,11,2
+Argelia,7,3
+Argelia,-8,4
+Argelia,-8,-3
+Argelia,-200,0
+Escocia,9,2
+Argelia,-3,-4
+Argelia,10,0
+Escocia,13,2
+Escocia,200,0
+Escocia,1,2
+Escocia,-9,-2
+Argelia,-5,-4
+Argelia,-4,3
+Escocia,9,-4
+Escocia,9,5
+Escocia,-6,4
+Escocia,-7,-1
+Escocia,-3,-4
+Argelia,-4,-3
+Escocia,-1,-1
+Escocia,3,0
+Argelia,-10,-5
+Escocia,-8,5
+Argelia,-11,1
+Argelia,11,2
+Argelia,-12,-3
+Escocia,-4,1
+Argelia,0,-2
+Escocia,200,0
+Escocia,-6,2
+Escocia,8,-4
+Argelia,-10,-4
+Argentina,Egipto,11,33
+Egipto,-12,4
+Egipto,-3,6
+Argentina,13,4
+Argentina,9,5
+Egipto,5,-5
+Egipto,-5,-3
+Argentina,-8,4
+Argentina,12,4
+Egipto,6,0
+Argentina,-12,2
+Egipto,0,6
+Egipto,-200,0
+Egipto,-17,4
+Egipto,-4,-4
+Egipto,-4,2
+Argentina,2,3
+Egipto,200,0
+Argentina,0,-3
+Egipto,11,-5
+Argentina,4,6
+Argentina,-12,-6
+Argentina,17,0
+Australia,Ecuador,9,15
+Ecuador,1,-3
+Australia,0,0
+Ecuador,3,-2
+Australia,8,-1
+Australia,-5,4
+Ecuador,4,2
+Ecuador,6,0
+Australia,-5,1
+Australia,1,-3
+Ecuador,3,-1
+Ecuador,8,-4
+Australia,4,-3
+Ecuador,-200,0
+Ecuador,-200,0
+Ecuador,2,-4
+Australia,5,5
+Ecuador,3,4
+Ecuador,6,-4
+Australia,-4,1
+Ecuador,-7,-2
+Ecuador,3,-2
+Ecuador,6,-1
+Australia,-6,5
+Ecuador,-8,3
+Ecuador,4,-4
+Ecuador,200,0
+Australia,-1,3
+Australia,3,4
+Australia,3,-3
+Australia,3,2
+Ecuador,-3,-5
+Australia,-6,0
+Australia,5,-5
+Australia,-8,5
+Australia,-5,-4
+Australia,3,-4
+Ecuador,4,0
+Ecuador,-7,-5
+Ecuador,-200,0
+Ecuador,-4,0
+Australia,2,5
+Ecuador,4,-4
+Australia,-6,1
+Ecuador,5,5
+Australia,-7,-1
+Ecuador,2,3
+Ecuador,-200,0
+Ecuador,-200,0
+Ecuador,3,5
+Austria,Curazao,11,35
+Curazao,200,0
+Austria,-10,6
+Curazao,8,-4
+Austria,-15,4
+Curazao,-17,-1
+Curazao,-4,-6
+Austria,11,-1
+Austria,-17,-1
+Austria,-15,6
+Austria,-16,6
+Curazao,1,4
+Austria,3,-5
+Austria,14,4
+Austria,16,0
+Curazao,-16,2
+Austria,-10,4
+Curazao,17,-1
+Austria,13,4
+Austria,-16,-1
+Austria,-6,5
+Curazao,12,6
+Austria,-2,-1
+Austria,11,0
+Curazao,13,4
+Curazao,10,-6
+Curazao,11,0
+Curazao,12,5
+Austria,7,0
+Austria,-5,0
+Austria,7,5
+Curazao,7,1
+Curazao,17,-6
+Curazao,10,6
+Austria,16,3
+Curazao,-14,0
+Curazao,5,4
+Austria,9,-4
+Curazao,11,3
+Curazao,4,-2
+Curazao,-5,5
+Bélgica,Croacia,13,25
+Bélgica,6,-3
+Bélgica,6,-4
+Bélgica,11,2
+Croacia,-11,7
+Bélgica,1,5
+Croacia,11,-1
+Croacia,200,0
+Bélgica,-5,7
+Croacia,-8,3
+Croacia,-7,1
+Bélgica,-2,-5
+Croacia,-2,-7
+Croacia,-200,0
+Croacia,0,4
+Bélgica,-1,-4
+Bélgica,-6,-2
+Croacia,-6,-4
+Bélgica,13,6
+Bélgica,9,-2
+Bélgica,9,-7
+Croacia,2,-1
+Bélgica,10,-1
+Bélgica,200,0
+Bélgica,7,-2
+Bélgica,3,-2
+Bélgica,11,3
+Croacia,-4,6
+Bélgica,9,-2
+Bosnia y Herzegovina,Costa de Marfil,5,19
+Bosnia y Herzegovina,200,0
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,9,0
+Costa de Marfil,-5,-2
+Costa de Marfil,6,2
+Bosnia y Herzegovina,3,0
+Costa de Marfil,-4,-2
+Bosnia y Herzegovina,-6,-2
+Bosnia y Herzegovina,1,-2
+Costa de Marfil,5,1
+Costa de Marfil,-2,2
+Bosnia y Herzegovina,1,2
+Costa de Marfil,7,3
+Costa de Marfil,-4,3
+Bosnia y Herzegovina,3,-1
+Bosnia y Herzegovina,200,0
+Bosnia y Herzegovina,-6,0
+Costa de Marfil,3,-3
+Bosnia y Herzegovina,0,0
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,-6,0
+Costa de Marfil,-4,1
+Costa de Marfil,3,2
+Bosnia y Herzegovina,3,0
+Bosnia y Herzegovina,-10,-3
+Bosnia y Herzegovina,9,-2
+Bosnia y Herzegovina,9,3
+Bosnia y Herzegovina,-10,3
+Costa de Marfil,-9,1
+Bosnia y Herzegovina,7,2
+Bosnia y Herzegovina,-3,-1
+Costa de Marfil,-5,2
+Costa de Marfil,3,-3
+Costa de Marfil,200,0
+Costa de Marfil,4,-1
+Bosnia y Herzegovina,-200,0
+Costa de Marfil,-200,0
+Brasil,Corea del Sur,7,15
+Brasil,8,2
+Brasil,0,3
+Corea del Sur,0,3
+Brasil,6,0
+Corea del Sur,8,4
+Corea del Sur,-200,0
+Corea del Sur,-4,-4
+Brasil,-200,0
+Corea del Sur,1,0
+Brasil,-3,-2
+Corea del Sur,-7,-2
+Brasil,5,1
+Corea del Sur,-3,-3
+Corea del Sur,7,1
+Corea del Sur,5,-1
+Corea del Sur,7,-3
+Brasil,-7,4
+Corea del Sur,4,0
+Corea del Sur,4,-3
+Brasil,2,2
+Corea del Sur,5,4
+Cabo Verde,Colombia,11,31
+Cabo Verde,200,0
+Cabo Verde,200,0
+Cabo Verde,200,0
+Cabo Verde,200,0
+Colombia,13,3
+Colombia,3,1
+Colombia,4,-6
+Cabo Verde,-12,-2
+Cabo Verde,-200,0
+Colombia,9,-6
+Colombia,15,-1
+Colombia,-16,6
+Colombia,-16,-4
+Colombia,-12,3
+Cabo Verde,-1,0
+Cabo Verde,-2,-3
+Cabo Verde,200,0
+Cabo Verde,-13,-3
+Cabo Verde,-3,-4
+Cabo Verde,-11,-5
+Cabo Verde,-4,6
+Colombia,-4,4
+Colombia,7,1
+Cabo Verde,-11,-4
+Cabo Verde,-6,-4
+Cabo Verde,16,2
+Colombia,-5,-5
+Cabo Verde,10,-2
+Colombia,10,4
+Cabo Verde,-4,5
+Cabo Verde,13,3
+Cabo Verde,12,-3
+Cabo Verde,9,-2
+Colombia,1,0
+Colombia,-12,-6
+Cabo Verde,-200,0
+Colombia,2,3
+Colombia,13,5
+Cabo Verde,200,0
+Colombia,-6,1
+Cabo Verde,-7,0
+Colombia,3,5
+Colombia,15,-3
+Cabo Verde,1,-1
+Cabo Verde,10,1
+Colombia,15,-3
+Canadá,Catar,5,29
+Canadá,-3,-3
+Catar,200,0
+Canadá,-9,3
+Canadá,7,-3
+Canadá,-2,0
+Canadá,6,0
+Catar,11,-3
+Canadá,13,2
+Canadá,1,-3
+Canadá,2,2
+Canadá,-2,1
+Canadá,10,3
+Canadá,0,1
+Catar,0,-1
+Catar,11,0
+Catar,-2,-1
+Catar,12,-3
+Canadá,11,1
+Catar,-14,3
+Canadá,10,2
+Canadá,5,-3
+Canadá,-4,2
+Canadá,15,-1
+Canadá,-7,-1
+Catar,-8,-3
+Catar,-200,0
+Catar,-12,-3
+Catar,-11,1
+Catar,200,0
+Canadá,200,0
+Catar,-13,1
+Catar,-15,3
+Catar,8,2
+Catar,-5,-2
+Canadá,-12,-1
+Catar,2,1
+Canadá,1,2
+Canadá,8,1
+Catar,14,3
+Canadá,5,-1
+Fecha 2
+Alemania,España,7,33
+España,5,1
+España,-16,-1
+España,-9,1
+España,-3,-1
+España,-10,2
+Alemania,16,0
+Alemania,13,-1
+España,200,0
+España,4,-4
+Alemania,-10,2
+España,1,1
+Alemania,4,2
+Alemania,-15,0
+Alemania,2,1
+Alemania,-12,-1
+España,0,3
+Alemania,-12,-3
+España,-15,1
+España,11,1
+Alemania,-7,2
+España,-12,0
+Alemania,14,3
+Alemania,17,3
+España,-15,3
+España,-6,-4
+España,-200,0
+Alemania,14,-4
+España,-7,2
+Alemania,-15,-3
+Estados Unidos,Escocia,7,19
+Escocia,-2,-2
+Escocia,200,0
+Escocia,-3,-3
+Escocia,6,-1
+Estados Unidos,-7,-4
+Escocia,-2,-4
+Escocia,-5,4
+Escocia,4,1
+Escocia,-10,-1
+Estados Unidos,6,-1
+Escocia,5,1
+Escocia,-5,-3
+Estados Unidos,-3,1
+Escocia,-5,4
+Estados Unidos,-8,0
+Escocia,-2,-3
+Estados Unidos,-4,-3
+Estados Unidos,2,3
+Escocia,200,0
+Escocia,-10,-2
+Estados Unidos,0,-3
+Escocia,-8,2
+Escocia,-9,-1
+Escocia,-7,4
+Escocia,-10,4
+Estados Unidos,0,-4
+Escocia,-5,-2
+Estados Unidos,5,0
+Escocia,5,2
+Estados Unidos,9,-3
+Estados Unidos,-3,-3
+Escocia,-9,-3
+Escocia,-10,0
+Estados Unidos,1,2
+Escocia,2,1
+Escocia,0,3
+Escocia,-9,2
+Escocia,-9,-4
+Estados Unidos,6,2
+Escocia,1,0
+Escocia,2,4
+Estados Unidos,8,-2
+Estados Unidos,2,-4
+Estados Unidos,7,-1
+Estados Unidos,6,1
+Estados Unidos,-5,1
+Estados Unidos,0,-2
+Estados Unidos,-7,-2
+Estados Unidos,8,0
+Arabia Saudita,Egipto,5,15
+Arabia Saudita,-200,0
+Egipto,200,0
+Egipto,3,-1
+Arabia Saudita,-1,3
+Arabia Saudita,5,-3
+Arabia Saudita,6,1
+Arabia Saudita,7,3
+Arabia Saudita,-2,0
+Egipto,-7,-3
+Arabia Saudita,2,3
+Arabia Saudita,-5,-3
+Arabia Saudita,-6,-1
+Arabia Saudita,-7,2
+Arabia Saudita,-1,-2
+Arabia Saudita,-200,0
+Egipto,-200,0
+Egipto,-7,0
+Arabia Saudita,-3,-1
+Arabia Saudita,-3,-2
+Egipto,-4,-2
+Arabia Saudita,-200,0
+Arabia Saudita,-2,0
+Arabia Saudita,-200,0
+Arabia Saudita,0,-1
+Egipto,-200,0
+Egipto,-3,-1
+Arabia Saudita,-2,3
+Arabia Saudita,-2,0
+Egipto,-7,-2
+Arabia Saudita,6,-2
+Arabia Saudita,-6,-1
+Argelia,Ecuador,7,27
+Argelia,10,0
+Argelia,-9,3
+Argelia,6,1
+Argelia,12,-3
+Ecuador,4,3
+Argelia,0,-1
+Argelia,4,4
+Argelia,-3,4
+Argelia,0,-4
+Ecuador,8,4
+Argelia,3,2
+Ecuador,-8,-4
+Argelia,-7,2
+Ecuador,-1,0
+Ecuador,-3,2
+Ecuador,-13,4
+Ecuador,2,1
+Ecuador,-200,0
+Argelia,-10,0
+Argelia,-200,0
+Ecuador,11,2
+Argelia,-2,-1
+Argelia,5,-4
+Ecuador,11,-3
+Ecuador,3,2
+Ecuador,14,4
+Argelia,4,-4
+Argelia,2,3
+Argelia,-200,0
+Ecuador,-4,-1
+Ecuador,7,-2
+Argelia,200,0
+Argelia,200,0
+Argelia,9,2
+Ecuador,-5,4
+Argelia,-11,-4
+Argelia,7,1
+Argelia,-8,4
+Ecuador,11,1
+Argelia,-5,-4
+Argelia,-5,4
+Ecuador,1,2
+Ecuador,4,-4
+Argelia,0,4
+Ecuador,1,0
+Ecuador,-3,4
+Ecuador,14,-3
+Argelia,-2,1
+Ecuador,7,0
+Argentina,Curazao,9,31
+Curazao,-10,-5
+Curazao,-6,-1
+Curazao,-10,-1
+Curazao,-5,-3
+Argentina,15,4
+Curazao,9,5
+Curazao,4,-5
+Argentina,-200,0
+Argentina,14,0
+Argentina,2,-3
+Argentina,10,1
+Argentina,-200,0
+Argentina,-2,-2
+Curazao,10,0
+Argentina,-2,-3
+Curazao,12,-4
+Argentina,-16,4
+Argentina,-6,0
+Curazao,-10,-5
+Curazao,-9,1
+Curazao,1,-3
+Curazao,-9,-1
+Argentina,16,4
+Argentina,7,0
+Argentina,-9,3
+Curazao,11,-1
+Curazao,-200,0
+Curazao,-11,1
+Argentina,6,-2
+Argentina,14,1
+Argentina,2,2
+Argentina,-5,-5
+Argentina,7,1
+Curazao,-7,-1
+Curazao,4,2
+Argentina,-16,-1
+Curazao,14,-4
+Curazao,10,1
+Australia,Croacia,11,29
+Australia,-12,-1
+Australia,2,6
+Australia,7,6
+Australia,9,-6
+Croacia,-13,-4
+Australia,-5,-4
+Australia,9,1
+Croacia,7,5
+Croacia,200,0
+Croacia,3,6
+Australia,-13,2
+Croacia,-15,-2
+Croacia,-12,1
+Australia,-1,-1
+Australia,-13,6
+Croacia,3,-2
+Australia,13,5
+Croacia,7,-5
+Croacia,-8,0
+Australia,-200,0
+Croacia,-1,-2
+Australia,4,-5
+Australia,8,-5
+Croacia,12,0
+Croacia,-3,2
+Croacia,-14,5
+Croacia,0,-2
+Australia,-6,4
+Australia,3,-6
+Croacia,3,-6
+Croacia,-7,0
+Australia,-1,6
+Croacia,-15,2
+Australia,15,3
+Australia,0,1
+Australia,-5,1
+Croacia,-11,-1
+Australia,7,-3
+Croacia,5,5
+Australia,-11,-4
+Croacia,-1,-5
+Australia,7,-1
+Australia,-13,-3
+Australia,-3,-4
+Austria,Costa de Marfil,9,27
+Austria,0,-2
+Austria,-10,4
+Austria,12,-3
+Austria,-12,1
+Costa de Marfil,2,-5
+Austria,-4,-4
+Costa de Marfil,5,-5
+Costa de Marfil,4,-2
+Austria,-12,-2
+Austria,-7,3
+Costa de Marfil,10,-2
+Austria,4,-4
+Costa de Marfil,8,5
+Austria,-10,4
+Costa de Marfil,-14,-4
+Costa de Marfil,-11,3
+Costa de Marfil,-8,-2
+Costa de Marfil,1,3
+Austria,-14,4
+Austria,-12,-5
+Austria,3,4
+Costa de Marfil,5,0
+Costa de Marfil,-3,-2
+Austria,-2,5
+Austria,12,2
+Austria,9,2
+Austria,12,3
+Costa de Marfil,-11,-2
+Austria,9,4
+Costa de Marfil,-200,0
+Austria,12,0
+Austria,3,-1
+Austria,-7,1
+Austria,-200,0
+Costa de Marfil,-11,-4
+Austria,5,-2
+Austria,-10,0
+Austria,-13,-4
+Austria,8,3
+Costa de Marfil,-2,-1
+Bélgica,Corea del Sur,15,31
+Bélgica,4,5
+Bélgica,-200,0
+Bélgica,-2,-3
+Bélgica,0,-4
+Corea del Sur,-14,-7
+Bélgica,-12,-4
+Corea del Sur,-1,-2
+Corea del Sur,-200,0
+Bélgica,-10,-3
+Corea del Sur,0,7
+Corea del Sur,-11,6
+Bélgica,-9,-5
+Corea del Sur,200,0
+Corea del Sur,-13,4
+Bélgica,15,5
+Corea del Sur,-13,6
+Bélgica,-16,1
+Bélgica,-1,6
+Corea del Sur,14,-1
+Corea del Sur,-16,0
+Corea del Sur,0,-5
+Corea del Sur,10,1
+Bélgica,8,1
+Bélgica,-200,0
+Corea del Sur,10,-6
+Corea del Sur,9,6
+Corea del Sur,0,-3
+Bélgica,-11,-5
+Corea del Sur,10,0
+Corea del Sur,200,0
+Bélgica,1,-1
+Corea del Sur,-1,3
+Corea del Sur,13,-8
+Bélgica,5,-8
+Bélgica,-14,2
+Bélgica,-7,-4
+Bosnia y Herzegovina,Colombia,11,23
+Colombia,1,-1
+Colombia,-200,0
+Bosnia y Herzegovina,12,-3
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,9,6
+Colombia,200,0
+Colombia,-12,-6
+Colombia,6,4
+Bosnia y Herzegovina,-200,0
+Colombia,4,6
+Colombia,-5,2
+Bosnia y Herzegovina,-5,-3
+Bosnia y Herzegovina,11,5
+Bosnia y Herzegovina,-9,-3
+Bosnia y Herzegovina,11,2
+Colombia,1,1
+Bosnia y Herzegovina,1,2
+Bosnia y Herzegovina,3,3
+Bosnia y Herzegovina,-2,6
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,-11,5
+Colombia,-10,-6
+Colombia,10,-5
+Colombia,-9,-3
+Bosnia y Herzegovina,-3,2
+Colombia,-3,-5
+Bosnia y Herzegovina,-5,-5
+Colombia,1,5
+Bosnia y Herzegovina,5,-1
+Colombia,-9,5
+Colombia,-11,-2
+Colombia,10,6
+Colombia,10,4
+Colombia,12,-2
+Colombia,-10,5
+Colombia,4,-4
+Colombia,-10,-6
+Bosnia y Herzegovina,6,-1
+Colombia,2,-4
+Colombia,-200,0
+Bosnia y Herzegovina,12,-1
+Colombia,-6,-1
+Colombia,8,2
+Colombia,11,6
+Bosnia y Herzegovina,1,-4
+Bosnia y Herzegovina,11,-2
+Brasil,Catar,7,17
+Brasil,-1,-4
+Catar,4,-1
+Catar,-9,3
+Brasil,-4,4
+Catar,7,4
+Brasil,-1,2
+Catar,0,1
+Catar,-8,4
+Catar,-4,-4
+Catar,-8,3
+Brasil,0,-2
+Brasil,-4,4
+Catar,-9,-3
+Catar,0,0
+Brasil,-3,-1
+Catar,-4,2
+Catar,-9,2
+Brasil,8,-4
+Brasil,6,-3
+Brasil,-7,4
+Catar,-4,3
+Catar,-4,0
+Brasil,-2,-1
+Brasil,-4,2
+Brasil,-7,-1
+Catar,1,1
+Brasil,-7,2
+Catar,2,3
+Brasil,-2,-2
+Brasil,-8,0
+Catar,200,0
+Catar,-4,0
+Brasil,-4,-4
+Cabo Verde,Canadá,13,17
+Cabo Verde,200,0
+Cabo Verde,200,0
+Cabo Verde,200,0
+Cabo Verde,200,0
+Canadá,-3,0
+Canadá,-7,4
+Cabo Verde,4,-6
+Cabo Verde,-2,-7
+Cabo Verde,-9,2
+Canadá,5,-5
+Canadá,-8,-2
+Cabo Verde,2,-5
+Cabo Verde,-4,0
+Canadá,-9,5
+Canadá,-4,-1
+Canadá,7,-6
+Canadá,-7,7
+Cabo Verde,-200,0
+Canadá,9,6
+Canadá,-5,-1
+Canadá,-8,4
+Cabo Verde,-1,6
+Canadá,-6,-6
+Canadá,6,-3
+Canadá,8,6
+Canadá,4,-7
+Cabo Verde,3,7
+Cabo Verde,9,-4
+Cabo Verde,0,-7
+Canadá,3,-1
+Cabo Verde,8,7
+Canadá,5,-4
+Cabo Verde,0,0
+Canadá,-7,7
+Cabo Verde,7,-6
+Cabo Verde,9,-2
+Cabo Verde,7,-6
+Canadá,7,7
+Fecha 3
+Alemania,Escocia,9,33
+Escocia,-200,0
+Alemania,-14,-3
+Alemania,15,4
+Alemania,-11,-2
+Alemania,15,1
+Escocia,-12,2
+Alemania,12,-4
+Escocia,-1,2
+Escocia,13,-2
+Escocia,8,0
+Escocia,12,0
+Escocia,14,-5
+Alemania,11,-4
+Escocia,-17,2
+Alemania,16,3
+Alemania,-10,0
+Alemania,200,0
+Escocia,-8,0
+Escocia,-12,-4
+Escocia,6,-3
+Escocia,3,-4
+Alemania,-14,-4
+Alemania,-200,0
+Escocia,-8,-4
+Escocia,-200,0
+Escocia,200,0
+Alemania,2,-3
+Alemania,9,2
+Alemania,200,0
+Escocia,7,0
+Escocia,-14,5
+Alemania,-2,4
+Escocia,16,-4
+Alemania,-9,-4
+Alemania,-10,3
+Escocia,-13,-2
+Escocia,0,1
+Escocia,3,1
+Escocia,-200,0
+Escocia,200,0
+Escocia,-14,-5
+España,Egipto,7,17
+España,4,2
+Egipto,8,-2
+España,200,0
+Egipto,-9,-3
+Egipto,-1,1
+España,9,0
+Egipto,7,-4
+Egipto,-2,2
+España,-5,-4
+Egipto,-6,1
+España,0,3
+Egipto,9,4
+Egipto,6,-1
+Egipto,-2,-1
+Egipto,-3,-2
+Egipto,-9,-2
+España,1,-3
+España,-3,4
+Egipto,-9,1
+España,2,1
+Egipto,-200,0
+España,7,-4
+Egipto,-7,-2
+España,6,-1
+España,4,-3
+España,-5,3
+España,9,-1
+Egipto,200,0
+España,7,0
+Egipto,2,0
+España,6,-4
+Egipto,-4,-3
+España,-2,-4
+Egipto,-5,0
+Egipto,-1,-4
+Estados Unidos,Ecuador,13,33
+Ecuador,9,-5
+Ecuador,200,0
+Estados Unidos,3,-4
+Estados Unidos,14,-2
+Ecuador,-200,0
+Estados Unidos,0,3
+Estados Unidos,-10,5
+Ecuador,6,-4
+Estados Unidos,-16,-5
+Ecuador,-7,-3
+Ecuador,-8,-2
+Ecuador,5,6
+Estados Unidos,-14,7
+Estados Unidos,4,-7
+Ecuador,12,2
+Estados Unidos,-17,6
+Estados Unidos,14,6
+Ecuador,-6,0
+Estados Unidos,1,0
+Estados Unidos,-6,-7
+Ecuador,200,0
+Estados Unidos,-14,-6
+Ecuador,2,-1
+Estados Unidos,9,-6
+Arabia Saudita,Curazao,9,21
+Curazao,11,3
+Arabia Saudita,-200,0
+Arabia Saudita,7,-3
+Curazao,2,-2
+Curazao,1,2
+Arabia Saudita,-3,-1
+Arabia Saudita,-7,3
+Arabia Saudita,-7,-5
+Arabia Saudita,-3,1
+Arabia Saudita,0,-4
+Curazao,5,0
+Curazao,-7,-2
+Arabia Saudita,2,-3
+Arabia Saudita,-3,-4
+Arabia Saudita,200,0
+Curazao,2,5
+Curazao,-10,-4
+Arabia Saudita,-200,0
+Arabia Saudita,7,1
+Arabia Saudita,4,2
+Curazao,11,3
+Curazao,6,-4
+Arabia Saudita,0,2
+Curazao,-5,-4
+Arabia Saudita,-3,5
+Curazao,-2,3
+Arabia Saudita,-6,5
+Arabia Saudita,4,-1
+Arabia Saudita,-10,-1
+Curazao,-7,0
+Arabia Saudita,-200,0
+Arabia Saudita,-200,0
+Arabia Saudita,4,-4
+Curazao,-200,0
+Arabia Saudita,200,0
+Arabia Saudita,11,2
+Curazao,-4,-3
+Arabia Saudita,10,-2
+Curazao,-8,4
+Arabia Saudita,7,-5
+Argelia,Croacia,11,25
+Argelia,13,-2
+Argelia,-200,0
+Argelia,-8,-6
+Croacia,12,-5
+Croacia,2,1
+Croacia,-4,-6
+Argelia,-6,2
+Argelia,-13,-2
+Argelia,-4,6
+Croacia,-2,-1
+Croacia,-2,2
+Argelia,8,6
+Argelia,0,-4
+Argelia,-6,-2
+Argelia,200,0
+Argelia,8,-2
+Croacia,13,6
+Argelia,-2,-4
+Croacia,-7,6
+Argelia,-1,1
+Croacia,13,4
+Argelia,-9,3
+Argelia,2,2
+Croacia,-10,3
+Croacia,200,0
+Argelia,11,-2
+Argelia,5,4
+Croacia,5,3
+Argelia,13,2
+Argelia,3,6
+Croacia,4,6
+Croacia,8,-5
+Croacia,-9,1
+Argelia,-12,3
+Croacia,0,6
+Croacia,-8,-3
+Argelia,-9,6
+Croacia,9,1
+Croacia,9,0
+Croacia,11,1
+Argelia,1,-2
+Argentina,Costa de Marfil,11,13
+Costa de Marfil,-6,4
+Costa de Marfil,6,-6
+Costa de Marfil,0,6
+Costa de Marfil,6,4
+Costa de Marfil,-200,0
+Costa de Marfil,-5,-3
+Costa de Marfil,-1,0
+Argentina,5,0
+Costa de Marfil,-1,2
+Costa de Marfil,-1,-3
+Argentina,2,-3
+Costa de Marfil,-2,1
+Argentina,-1,-2
+Argentina,-200,0
+Costa de Marfil,6,6
+Costa de Marfil,-2,6
+Costa de Marfil,1,1
+Argentina,200,0
+Costa de Marfil,-5,1
+Costa de Marfil,7,5
+Argentina,0,-2
+Costa de Marfil,-4,-6
+Costa de Marfil,-5,5
+Argentina,-3,-4
+Argentina,-3,-6
+Argentina,6,6
+Argentina,-6,-3
+Costa de Marfil,1,5
+Argentina,-200,0
+Argentina,-1,4
+Argentina,1,5
+Argentina,1,-5
+Australia,Corea del Sur,9,33
+Australia,2,4
+Corea del Sur,-5,2
+Australia,17,4
+Australia,-3,2
+Australia,-4,-3
+Australia,12,5
+Australia,-9,0
+Corea del Sur,9,-3
+Corea del Sur,-14,3
+Australia,4,4
+Corea del Sur,5,-2
+Australia,-15,0
+Australia,-16,3
+Corea del Sur,6,1
+Corea del Sur,8,3
+Corea del Sur,-8,-2
+Corea del Sur,12,3
+Corea del Sur,0,-4
+Corea del Sur,-10,5
+Corea del Sur,-16,2
+Australia,-200,0
+Corea del Sur,12,4
+Australia,-13,0
+Australia,16,-3
+Australia,11,-2
+Australia,0,1
+Corea del Sur,8,3
+Corea del Sur,200,0
+Austria,Colombia,7,31
+Austria,3,-1
+Colombia,12,4
+Colombia,-8,0
+Austria,6,0
+Colombia,-1,-4
+Austria,4,2
+Austria,4,-3
+Colombia,-6,-1
+Colombia,1,2
+Colombia,-200,0
+Colombia,3,4
+Austria,-1,0
+Austria,-3,-3
+Austria,-12,-1
+Colombia,16,4
+Austria,-9,-3
+Colombia,-14,-2
+Colombia,9,0
+Colombia,1,1
+Colombia,-11,1
+Colombia,6,-4
+Colombia,9,-2
+Austria,11,1
+Colombia,9,2
+Colombia,-15,3
+Austria,6,4
+Austria,15,1
+Colombia,-16,2
+Colombia,-8,-3
+Colombia,13,4
+Colombia,16,0
+Colombia,-10,0
+Austria,13,-3
+Austria,15,-1
+Colombia,-200,0
+Austria,2,-1
+Austria,-6,-4
+Austria,0,1
+Austria,10,3
+Austria,-9,1
+Colombia,-9,-2
+Austria,6,-4
+Colombia,16,1
+Austria,-1,-4
+Colombia,-14,-1
+Colombia,14,2
+Austria,10,1
+Bélgica,Catar,15,35
+Catar,8,5
+Catar,-5,4
+Catar,-11,8
+Catar,-9,2
+Bélgica,0,-4
+Catar,200,0
+Catar,17,-6
+Catar,9,2
+Catar,200,0
+Catar,-10,-5
+Catar,-200,0
+Catar,13,0
+Bélgica,4,1
+Bélgica,-10,5
+Catar,-15,-8
+Catar,-2,3
+Catar,6,0
+Catar,12,6
+Catar,7,2
+Bélgica,6,-2
+Bélgica,11,0
+Bélgica,-9,5
+Catar,-15,8
+Bélgica,4,-5
+Catar,-14,8
+Catar,10,7
+Catar,8,-5
+Catar,-2,8
+Catar,13,-6
+Catar,9,1
+Catar,12,5
+Bélgica,14,-2
+Bosnia y Herzegovina,Canadá,7,17
+Canadá,-6,1
+Bosnia y Herzegovina,-200,0
+Canadá,2,1
+Canadá,-8,0
+Canadá,2,1
+Bosnia y Herzegovina,-3,1
+Bosnia y Herzegovina,-3,0
+Bosnia y Herzegovina,1,0
+Bosnia y Herzegovina,1,4
+Canadá,-9,1
+Canadá,0,-3
+Bosnia y Herzegovina,-5,2
+Canadá,5,-4
+Canadá,-1,-4
+Canadá,-200,0
+Bosnia y Herzegovina,-5,-4
+Bosnia y Herzegovina,-9,-3
+Canadá,-2,4
+Bosnia y Herzegovina,-6,2
+Canadá,-9,-1
+Canadá,1,-4
+Canadá,-200,0
+Canadá,-8,4
+Canadá,-4,-3
+Canadá,-3,-2
+Bosnia y Herzegovina,3,-1
+Bosnia y Herzegovina,6,2
+Bosnia y Herzegovina,-1,-4
+Canadá,-6,-1
+Canadá,-5,3
+Canadá,-5,1
+Canadá,-3,-4
+Bosnia y Herzegovina,9,2
+Bosnia y Herzegovina,-7,1
+Canadá,-4,-4
+Bosnia y Herzegovina,8,3
+Brasil,Cabo Verde,15,25
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Brasil,13,-6
+Brasil,5,-1
+Brasil,-10,-5
+Cabo Verde,4,1
+Brasil,5,-2
+Cabo Verde,7,-8
+Cabo Verde,-13,5
+Cabo Verde,-7,0
+Brasil,1,6
+Brasil,-4,-2
+Brasil,11,2
+Brasil,-6,-5
+Cabo Verde,-10,-2
+Brasil,3,0
+Cabo Verde,9,7
+Brasil,5,2
+Brasil,-4,-2
+Cabo Verde,10,-1
+Brasil,-6,0
+Brasil,-3,-1
+Cabo Verde,9,0
+Brasil,-2,8
+Cabo Verde,-5,-2
+Brasil,0,-3
+Cabo Verde,-1,6
+Cabo Verde,-11,5
+Brasil,-6,-1
+Brasil,200,0
+Brasil,3,4
+Cabo Verde,0,-8
+Brasil,-200,0
+Brasil,5,2
+Cabo Verde,0,0
+Cabo Verde,9,-3
+Cabo Verde,-2,0
+Fecha 4
+Alemania,Egipto,5,35
+Alemania,-1,-2
+Alemania,-11,0
+Alemania,3,3
+Egipto,200,0
+Egipto,-4,1
+Alemania,-5,-1
+Alemania,1,2
+Egipto,2,-1
+Alemania,14,2
+Alemania,-17,2
+Alemania,16,3
+Alemania,4,-2
+Egipto,3,0
+Alemania,-10,-1
+Alemania,6,3
+Alemania,-13,0
+Alemania,10,3
+Egipto,200,0
+Egipto,-13,0
+Egipto,15,1
+Egipto,5,1
+Egipto,18,0
+Egipto,-6,1
+Egipto,1,-3
+Alemania,-15,-1
+Egipto,-10,1
+Alemania,-10,-1
+Alemania,-8,-1
+Egipto,1,3
+Alemania,17,0
+Alemania,-12,-3
+Alemania,-18,2
+Egipto,17,0
+Egipto,200,0
+Egipto,11,-3
+Egipto,18,0
+Alemania,200,0
+Egipto,8,-2
+Egipto,-4,0
+Egipto,9,-2
+Escocia,Ecuador,13,21
+Ecuador,-7,-5
+Ecuador,-9,5
+Escocia,200,0
+Escocia,-9,0
+Ecuador,9,0
+Escocia,-9,-2
+Ecuador,2,-4
+Ecuador,200,0
+Ecuador,5,4
+Ecuador,7,-7
+Ecuador,-4,3
+Ecuador,-2,-7
+Ecuador,-7,1
+Escocia,-8,-6
+Escocia,8,6
+Escocia,9,7
+Ecuador,2,0
+Ecuador,5,2
+Ecuador,2,0
+Ecuador,-10,3
+Ecuador,-4,-5
+Ecuador,6,2
+Escocia,-5,-6
+Escocia,0,7
+Ecuador,200,0
+Ecuador,-200,0
+Ecuador,9,1
+Escocia,-2,-7
+Ecuador,-5,7
+Escocia,-10,-6
+España,Curazao,9,15
+España,0,-2
+España,1,-1
+España,3,-3
+España,2,1
+Curazao,-200,0
+España,2,4
+España,-5,4
+Curazao,-2,-3
+Curazao,-6,2
+Curazao,2,-1
+Curazao,6,-2
+Curazao,5,-4
+España,8,3
+Curazao,6,-5
+Curazao,8,2
+España,-4,-3
+Curazao,8,-1
+España,8,0
+España,-4,-1
+Curazao,200,0
+Curazao,-8,0
+España,4,0
+Curazao,-2,3
+España,-7,4
+Curazao,200,0
+Curazao,-3,-2
+España,-1,-3
+Curazao,8,-5
+Curazao,-1,-5
+Curazao,8,5
+España,8,4
+España,-3,3
+Curazao,8,3
+Curazao,6,-3
+Curazao,2,1
+España,2,-3
+Curazao,6,-5
+Curazao,200,0
+España,200,0
+España,-2,3
+España,-5,-2
+España,5,-5
+España,-200,0
+España,-6,3
+Curazao,-3,2
+Curazao,-8,-3
+España,-6,-5
+Curazao,-6,5
+Estados Unidos,Croacia,15,31
+Croacia,7,0
+Estados Unidos,16,1
+Estados Unidos,8,-2
+Croacia,-3,-3
+Croacia,200,0
+Croacia,-7,-6
+Croacia,8,0
+Croacia,11,-4
+Croacia,15,8
+Croacia,-200,0
+Croacia,-16,4
+Croacia,-6,1
+Estados Unidos,-11,-3
+Estados Unidos,14,4
+Croacia,-13,2
+Estados Unidos,12,0
+Estados Unidos,6,-5
+Croacia,-3,7
+Estados Unidos,16,-8
+Estados Unidos,10,-2
+Croacia,12,0
+Estados Unidos,4,8
+Estados Unidos,-4,5
+Croacia,-11,-8
+Arabia Saudita,Costa de Marfil,13,15
+Arabia Saudita,-6,-6
+Costa de Marfil,200,0
+Arabia Saudita,-7,0
+Costa de Marfil,2,6
+Arabia Saudita,-2,4
+Arabia Saudita,5,-1
+Costa de Marfil,8,7
+Costa de Marfil,-8,-4
+Arabia Saudita,8,2
+Costa de Marfil,200,0
+Costa de Marfil,-200,0
+Costa de Marfil,4,1
+Costa de Marfil,4,-2
+Costa de Marfil,5,-2
+Costa de Marfil,-6,6
+Arabia Saudita,3,6
+Arabia Saudita,-7,0
+Arabia Saudita,-5,5
+Arabia Saudita,4,-2
+Arabia Saudita,-2,5
+Costa de Marfil,0,-3
+Costa de Marfil,0,-4
+Arabia Saudita,0,-6
+Costa de Marfil,3,5
+Costa de Marfil,7,0
+Arabia Saudita,7,-4
+Costa de Marfil,0,6
+Arabia Saudita,-5,1
+Arabia Saudita,2,5
+Arabia Saudita,-5,-6
+Costa de Marfil,-5,4
+Costa de Marfil,-2,-5
+Costa de Marfil,6,3
+Costa de Marfil,-6,7
+Arabia Saudita,-3,-6
+Arabia Saudita,5,-2
+Costa de Marfil,-7,2
+Costa de Marfil,5,-2
+Costa de Marfil,-8,7
+Arabia Saudita,-1,-3
+Costa de Marfil,-6,-1
+Arabia Saudita,3,0
+Costa de Marfil,8,-6
+Argelia,Corea del Sur,7,11
+Corea del Sur,6,-4
+Corea del Sur,-5,0
+Corea del Sur,-3,-2
+Argelia,-2,1
+Argelia,1,-3
+Argelia,-4,-3
+Corea del Sur,-200,0
+Argelia,0,-4
+Argelia,5,1
+Corea del Sur,0,-3
+Corea del Sur,-3,-3
+Argelia,200,0
+Argelia,1,-2
+Argelia,0,1
+Corea del Sur,3,1
+Argelia,-200,0
+Corea del Sur,0,4
+Corea del Sur,6,0
+Argelia,1,2
+Argelia,3,0
+Argelia,200,0
+Argelia,-200,0
+Corea del Sur,2,2
+Argelia,-200,0
+Argelia,-6,-3
+Argelia,-1,3
+Corea del Sur,1,2
+Argelia,-1,-3
+Corea del Sur,1,-1
+Corea del Sur,200,0
+Argelia,-3,-2
+Argelia,-6,-3
+Corea del Sur,1,0
+Argelia,6,-1
+Argelia,2,0
+Argelia,-200,0
+Argelia,6,-4
+Corea del Sur,-1,0
+Argelia,-6,4
+Corea del Sur,200,0
+Argelia,2,1
+Corea del Sur,2,-3
+Corea del Sur,1,4
+Corea del Sur,-5,4
+Corea del Sur,-200,0
+Argelia,-2,0
+Argelia,1,3
+Argentina,Colombia,7,29
+Colombia,-11,2
+Colombia,-5,1
+Argentina,7,-4
+Argentina,7,-3
+Colombia,9,1
+Colombia,-200,0
+Colombia,-11,4
+Colombia,-8,-4
+Argentina,200,0
+Colombia,-11,-1
+Argentina,-6,2
+Argentina,-12,3
+Argentina,-6,3
+Argentina,-6,-3
+Argentina,-9,2
+Argentina,-9,-1
+Argentina,-10,3
+Argentina,4,-4
+Colombia,-2,3
+Colombia,-10,-1
+Colombia,-5,0
+Argentina,12,-4
+Colombia,-13,1
+Colombia,-200,0
+Colombia,0,-3
+Colombia,-5,4
+Argentina,-2,-3
+Argentina,-8,1
+Argentina,-3,3
+Argentina,-11,3
+Argentina,-12,0
+Argentina,-6,1
+Colombia,200,0
+Argentina,-13,3
+Colombia,-1,4
+Argentina,-4,1
+Colombia,-6,-1
+Argentina,-4,0
+Argentina,-7,4
+Australia,Catar,15,19
+Catar,4,-1
+Catar,8,1
+Australia,5,3
+Australia,2,-4
+Catar,0,6
+Catar,4,1
+Catar,-2,-2
+Catar,7,4
+Australia,-9,-3
+Catar,-2,-3
+Catar,3,-7
+Catar,-3,4
+Catar,-200,0
+Australia,2,0
+Catar,7,-4
+Catar,2,0
+Catar,10,8
+Australia,-200,0
+Australia,-7,-6
+Australia,-1,2
+Australia,-4,8
+Australia,7,8
+Australia,6,-6
+Australia,3,4
+Catar,7,0
+Australia,200,0
+Catar,5,-1
+Australia,-4,5
+Catar,7,-5
+Australia,-7,-5
+Catar,-200,0
+Catar,10,1
+Australia,5,-2
+Australia,-1,-7
+Catar,2,3
+Catar,-4,-2
+Australia,0,7
+Catar,10,-4
+Catar,-1,0
+Catar,-4,2
+Austria,Canadá,15,35
+Austria,-7,-7
+Austria,-200,0
+Canadá,-4,3
+Canadá,8,-4
+Canadá,0,1
+Austria,5,7
+Austria,-12,6
+Austria,11,-3
+Austria,18,-1
+Canadá,-200,0
+Austria,2,-5
+Austria,200,0
+Austria,-15,-5
+Austria,18,3
+Austria,17,4
+Canadá,4,-2
+Canadá,-4,0
+Austria,-4,-8
+Austria,16,5
+Canadá,5,6
+Canadá,8,-6
+Austria,17,1
+Canadá,-15,-2
+Austria,15,-4
+Austria,-13,2
+Austria,-16,2
+Austria,200,0
+Austria,-1,5
+Austria,1,-3
+Canadá,-9,-5
+Canadá,16,0
+Austria,-5,-2
+Austria,-16,-5
+Austria,-3,5
+Bélgica,Cabo Verde,13,35
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Bélgica,16,6
+Bélgica,10,5
+Bélgica,6,-6
+Cabo Verde,3,-3
+Bélgica,-12,-1
+Bélgica,16,-3
+Cabo Verde,10,-3
+Cabo Verde,15,4
+Cabo Verde,17,-4
+Bélgica,5,7
+Bélgica,-200,0
+Cabo Verde,8,4
+Cabo Verde,200,0
+Cabo Verde,4,2
+Bélgica,-4,7
+Bélgica,15,-4
+Cabo Verde,6,0
+Bélgica,-6,3
+Cabo Verde,-5,6
+Bélgica,17,-6
+Cabo Verde,14,5
+Bélgica,10,4
+Bélgica,15,-7
+Bélgica,-1,4
+Cabo Verde,16,-5
+Bélgica,15,5
+Cabo Verde,4,-3
+Bélgica,2,5
+Cabo Verde,3,-4
+Bélgica,3,-2
+Bélgica,-11,7
+Cabo Verde,11,5
+Bélgica,17,6
+Bélgica,-8,-5
+Cabo Verde,200,0
+Bélgica,-14,-5
+Bélgica,11,-6
+Bélgica,5,-1
+Cabo Verde,-12,1
+Cabo Verde,7,5
+Cabo Verde,1,2
+Bosnia y Herzegovina,Brasil,15,21
+Brasil,-8,0
+Brasil,0,-5
+Bosnia y Herzegovina,-2,4
+Brasil,8,-5
+Brasil,4,-6
+Brasil,200,0
+Brasil,2,5
+Brasil,-11,5
+Brasil,-10,-4
+Bosnia y Herzegovina,1,-7
+Brasil,3,-7
+Brasil,-4,8
+Bosnia y Herzegovina,-1,-1
+Bosnia y Herzegovina,8,1
+Brasil,-4,4
+Bosnia y Herzegovina,-1,-2
+Brasil,5,-1
+Bosnia y Herzegovina,8,-4
+Brasil,1,-3
+Bosnia y Herzegovina,-6,-6
+Bosnia y Herzegovina,-1,-8
+Brasil,4,8
+Brasil,-3,8
+Brasil,10,-7
+Brasil,11,6
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,6,6
+Bosnia y Herzegovina,3,4
+Bosnia y Herzegovina,9,0
+Brasil,-7,6
+Bosnia y Herzegovina,-200,0
+Brasil,-10,-8
+Brasil,-200,0
+Brasil,3,-3
+Brasil,6,0
+Brasil,-3,-3
+Brasil,3,-3
+Brasil,11,5
+Bosnia y Herzegovina,5,7
+Brasil,200,0
+Bosnia y Herzegovina,-6,1
+Bosnia y Herzegovina,-11,-1
+Brasil,-10,7
+Bosnia y Herzegovina,-11,-1
+Brasil,4,-2
+Bosnia y Herzegovina,2,3
+Fecha 5
+Alemania,Ecuador,7,35
+Alemania,1,2
+Ecuador,-7,-2
+Alemania,-1,0
+Alemania,-8,4
+Alemania,-13,4
+Ecuador,2,-1
+Alemania,-15,1
+Alemania,-18,1
+Ecuador,18,-4
+Ecuador,-1,1
+Alemania,7,4
+Ecuador,7,2
+Ecuador,-3,2
+Ecuador,12,3
+Ecuador,-14,3
+Alemania,-13,-3
+Alemania,11,1
+Ecuador,-7,4
+Ecuador,6,0
+Alemania,13,4
+Alemania,-11,-2
+Ecuador,-5,-3
+Alemania,11,4
+Ecuador,7,-3
+Alemania,-10,-2
+Ecuador,3,-1
+Alemania,-7,4
+Ecuador,-7,0
+Ecuador,-9,2
+Alemania,9,-3
+Alemania,5,3
+Ecuador,-17,2
+Ecuador,10,3
+Ecuador,-15,0
+Ecuador,-18,0
+Ecuador,17,-3
+Alemania,3,3
+Alemania,5,1
+Ecuador,-16,1
+Ecuador,-200,0
+Ecuador,5,2
+Ecuador,200,0
+Ecuador,-4,-1
+Alemania,-10,-3
+Egipto,Curazao,5,23
+Egipto,-6,0
+Egipto,6,-3
+Egipto,-10,-2
+Curazao,200,0
+Curazao,8,3
+Egipto,1,-1
+Curazao,-9,-3
+Curazao,8,0
+Curazao,1,-1
+Egipto,-2,-3
+Egipto,-4,-1
+Curazao,-10,0
+Egipto,-11,-1
+Curazao,10,-3
+Curazao,2,-1
+Curazao,200,0
+Egipto,1,3
+Curazao,0,-2
+Curazao,-9,1
+Curazao,4,0
+Curazao,-2,2
+Curazao,-5,2
+Curazao,-10,0
+Curazao,11,-1
+Egipto,-6,2
+Curazao,10,-2
+Egipto,0,1
+Curazao,-5,3
+Curazao,7,-1
+Curazao,-5,3
+Egipto,200,0
+Egipto,-12,0
+Egipto,10,-1
+Curazao,9,0
+Egipto,-12,2
+Curazao,-6,-3
+Curazao,2,2
+Curazao,-10,1
+Curazao,10,-1
+Escocia,Croacia,13,31
+Escocia,16,-3
+Escocia,10,2
+Croacia,-11,-1
+Escocia,14,5
+Escocia,6,4
+Escocia,-200,0
+Croacia,-9,-5
+Croacia,6,4
+Escocia,3,0
+Escocia,-12,2
+Escocia,-16,7
+Escocia,8,4
+Croacia,200,0
+Escocia,-8,-2
+Escocia,200,0
+Escocia,-5,2
+Escocia,7,1
+Escocia,-15,7
+Escocia,-13,2
+Croacia,200,0
+Croacia,10,-1
+Escocia,11,0
+Croacia,-5,6
+Croacia,-200,0
+Escocia,-10,-2
+Escocia,-6,6
+Escocia,-3,-3
+Croacia,-13,-5
+Croacia,-12,-1
+Escocia,-6,6
+Croacia,3,6
+Escocia,-15,3
+Escocia,16,-3
+España,Costa de Marfil,15,19
+España,-200,0
+España,1,-3
+España,-10,7
+Costa de Marfil,-10,0
+Costa de Marfil,1,-1
+España,4,-7
+España,-200,0
+España,2,2
+España,-5,-8
+España,1,3
+España,-1,-8
+España,4,-7
+España,-1,-6
+Costa de Marfil,-10,-3
+Costa de Marfil,8,0
+España,-5,3
+España,-7,-2
+España,9,-2
+España,200,0
+Costa de Marfil,-7,7
+Costa de Marfil,6,5
+España,-10,0
+Costa de Marfil,-3,-1
+Estados Unidos,Corea del Sur,9,13
+Corea del Sur,-4,-1
+Estados Unidos,-200,0
+Estados Unidos,-3,-4
+Estados Unidos,6,-2
+Corea del Sur,-4,-2
+Estados Unidos,3,-2
+Corea del Sur,5,0
+Corea del Sur,-200,0
+Corea del Sur,-2,0
+Corea del Sur,4,-5
+Corea del Sur,200,0
+Estados Unidos,200,0
+Corea del Sur,-3,4
+Corea del Sur,2,-1
+Estados Unidos,1,2
+Corea del Sur,2,1
+Estados Unidos,-1,-3
+Estados Unidos,-5,5
+Estados Unidos,-2,0
+Estados Unidos,1,-5
+Estados Unidos,200,0
+Corea del Sur,5,-5
+Estados Unidos,5,-2
+Corea del Sur,-1,-4
+Corea del Sur,-5,-1
+Estados Unidos,-200,0
+Estados Unidos,-6,3
+Estados Unidos,0,-5
+Corea del Sur,1,-4
+Corea del Sur,3,-2
+Corea del Sur,-3,3
+Estados Unidos,1,-3
+Estados Unidos,-1,5
+Estados Unidos,-5,4
+Estados Unidos,5,0
+Estados Unidos,-6,2
+Corea del Sur,-5,-2
+Corea del Sur,-200,0
+Corea del Sur,-3,2
+Corea del Sur,2,3
+Corea del Sur,-200,0
+Corea del Sur,-2,-1
+Corea del Sur,3,-3
+Estados Unidos,-3,0
+Estados Unidos,-7,-3
+Arabia Saudita,Colombia,15,35
+Colombia,-13,8
+Arabia Saudita,3,7
+Arabia Saudita,-5,4
+Colombia,-14,2
+Arabia Saudita,1,-1
+Colombia,13,3
+Arabia Saudita,-7,-5
+Arabia Saudita,5,-1
+Colombia,200,0
+Arabia Saudita,11,-6
+Colombia,-10,-4
+Colombia,6,3
+Colombia,-4,-7
+Colombia,-5,1
+Arabia Saudita,-15,-4
+Arabia Saudita,15,0
+Colombia,-11,1
+Arabia Saudita,-200,0
+Colombia,-6,-5
+Arabia Saudita,-3,5
+Arabia Saudita,12,1
+Colombia,200,0
+Arabia Saudita,-200,0
+Colombia,0,5
+Arabia Saudita,-8,-7
+Arabia Saudita,-16,-6
+Arabia Saudita,-11,6
+Arabia Saudita,0,-1
+Arabia Saudita,-18,5
+Colombia,-200,0
+Colombia,-200,0
+Arabia Saudita,17,2
+Colombia,2,7
+Arabia Saudita,12,-5
+Arabia Saudita,-200,0
+Arabia Saudita,-11,6
+Colombia,6,7
+Arabia Saudita,-16,-1
+Argelia,Catar,11,13
+Argelia,-1,-3
+Argelia,-7,-4
+Argelia,-4,1
+Catar,-4,0
+Catar,3,-3
+Argelia,-200,0
+Catar,-4,-2
+Catar,-7,5
+Argelia,-1,-1
+Argelia,5,-3
+Catar,-5,3
+Catar,1,-6
+Catar,-2,4
+Argelia,-7,6
+Catar,-5,-4
+Catar,1,-2
+Catar,2,4
+Argelia,0,2
+Catar,-6,5
+Catar,-5,-2
+Catar,-7,-4
+Argelia,2,-6
+Catar,2,0
+Argelia,-6,-2
+Catar,6,5
+Catar,0,1
+Catar,-3,-3
+Argelia,7,-2
+Catar,6,6
+Catar,3,-1
+Argelia,-1,-6
+Catar,-5,-4
+Catar,-6,-6
+Argelia,-5,4
+Argelia,-4,-1
+Argelia,-5,2
+Argelia,1,-5
+Catar,3,-5
+Catar,6,4
+Catar,4,6
+Catar,-4,0
+Catar,6,-3
+Catar,7,4
+Catar,-6,0
+Argentina,Canadá,9,13
+Canadá,-6,-4
+Canadá,-4,5
+Canadá,6,2
+Canadá,-6,-5
+Argentina,6,-4
+Canadá,5,3
+Argentina,2,3
+Argentina,4,0
+Canadá,-6,3
+Canadá,-200,0
+Canadá,0,5
+Canadá,-6,-5
+Canadá,7,-4
+Argentina,4,-4
+Canadá,-3,-3
+Argentina,1,-3
+Canadá,200,0
+Argentina,200,0
+Argentina,-1,3
+Argentina,7,-3
+Argentina,-3,1
+Canadá,-1,-3
+Canadá,-200,0
+Canadá,-7,-5
+Canadá,5,0
+Argentina,-3,1
+Canadá,1,0
+Canadá,6,-3
+Canadá,-4,5
+Argentina,-200,0
+Canadá,0,-4
+Australia,Cabo Verde,9,11
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,1,5
+Australia,-5,4
+Australia,2,1
+Cabo Verde,0,5
+Australia,5,-2
+Australia,-4,4
+Cabo Verde,2,3
+Cabo Verde,-1,-1
+Australia,5,-1
+Australia,-6,-1
+Australia,6,5
+Cabo Verde,-2,-5
+Australia,2,-1
+Cabo Verde,1,5
+Cabo Verde,-6,5
+Australia,-3,-5
+Cabo Verde,4,0
+Australia,5,3
+Australia,-2,-5
+Australia,2,4
+Australia,5,-1
+Cabo Verde,5,1
+Cabo Verde,-5,-2
+Cabo Verde,0,-5
+Cabo Verde,-3,-1
+Cabo Verde,-200,0
+Cabo Verde,-1,-3
+Australia,-2,4
+Australia,1,1
+Australia,1,-1
+Australia,-3,2
+Cabo Verde,2,3
+Cabo Verde,-6,-4
+Cabo Verde,5,5
+Cabo Verde,-1,0
+Australia,4,1
+Cabo Verde,4,-3
+Cabo Verde,-6,0
+Australia,1,-5
+Australia,-6,5
+Cabo Verde,200,0
+Australia,-3,-5
+Australia,-5,4
+Australia,-6,1
+Australia,1,4
+Cabo Verde,-2,5
+Cabo Verde,3,-3
+Cabo Verde,200,0
+Austria,Brasil,13,31
+Brasil,9,5
+Brasil,5,4
+Brasil,4,-4
+Austria,2,2
+Austria,-10,-6
+Austria,4,6
+Austria,1,4
+Brasil,8,1
+Austria,10,4
+Brasil,8,2
+Austria,-2,5
+Brasil,14,1
+Austria,11,-7
+Brasil,2,-6
+Austria,9,-1
+Austria,9,0
+Brasil,15,-3
+Brasil,-10,-5
+Brasil,-11,1
+Brasil,-5,4
+Austria,-4,-5
+Brasil,-12,-4
+Brasil,-4,-2
+Austria,16,-4
+Brasil,10,-5
+Austria,15,-3
+Austria,2,-3
+Austria,-200,0
+Austria,-1,4
+Brasil,4,-7
+Brasil,1,-2
+Brasil,7,7
+Brasil,-13,-1
+Austria,-200,0
+Austria,200,0
+Brasil,-9,1
+Brasil,-12,4
+Austria,200,0
+Bélgica,Bosnia y Herzegovina,5,25
+Bosnia y Herzegovina,6,-1
+Bélgica,3,-3
+Bélgica,-1,-1
+Bélgica,-10,-1
+Bélgica,-12,2
+Bosnia y Herzegovina,-11,-3
+Bélgica,-4,-3
+Bosnia y Herzegovina,-9,-3
+Bosnia y Herzegovina,-2,-3
+Bosnia y Herzegovina,-8,2
+Bélgica,11,1
+Bélgica,11,1
+Bosnia y Herzegovina,4,1
+Bosnia y Herzegovina,11,1
+Bélgica,-11,0
+Bélgica,1,-2
+Bosnia y Herzegovina,-5,2
+Bélgica,5,2
+Bosnia y Herzegovina,-1,3
+Bosnia y Herzegovina,6,0
+Bélgica,-10,2
+Bosnia y Herzegovina,-13,1
+Bosnia y Herzegovina,-4,-3
+Bosnia y Herzegovina,8,2
+Bosnia y Herzegovina,7,1
+Bosnia y Herzegovina,12,3
+Bosnia y Herzegovina,8,0
+Bélgica,-5,3
+Bosnia y Herzegovina,-12,-2
+Bosnia y Herzegovina,-7,-2
+Bélgica,-8,1
+Bosnia y Herzegovina,12,0
+Bélgica,12,-2
+Bélgica,-6,2
+Bosnia y Herzegovina,12,3
+Bélgica,-1,-2
+Bélgica,10,-1
+Bosnia y Herzegovina,-6,3
+Bélgica,4,0
+Bélgica,-7,-2
+Bélgica,-200,0
+Bélgica,12,1
+Bosnia y Herzegovina,3,2
+Bélgica,-10,-2
+Bosnia y Herzegovina,-5,3
+Fecha 6
+Alemania,Curazao,13,23
+Alemania,-10,1
+Alemania,-10,4
+Curazao,9,-1
+Curazao,-10,4
+Alemania,4,4
+Alemania,-5,4
+Alemania,9,-5
+Curazao,-9,0
+Alemania,-3,1
+Alemania,-200,0
+Alemania,-8,-3
+Curazao,-200,0
+Curazao,11,-6
+Curazao,-4,7
+Curazao,-8,2
+Alemania,12,2
+Alemania,8,-3
+Curazao,-12,5
+Curazao,11,0
+Alemania,-9,6
+Alemania,5,1
+Curazao,10,-5
+Alemania,9,-2
+Alemania,-1,3
+Alemania,-5,7
+Alemania,9,-4
+Alemania,11,-7
+Curazao,10,-5
+Alemania,9,-7
+Curazao,-3,-7
+Curazao,-11,-3
+Curazao,-2,6
+Alemania,-12,-7
+Alemania,-5,-1
+Ecuador,Croacia,15,27
+Croacia,-12,4
+Croacia,9,2
+Croacia,-9,-6
+Ecuador,11,5
+Ecuador,200,0
+Ecuador,-9,7
+Ecuador,1,2
+Croacia,-3,3
+Croacia,-13,4
+Croacia,10,-7
+Ecuador,200,0
+Ecuador,-8,8
+Ecuador,-1,-6
+Ecuador,11,-1
+Croacia,6,5
+Ecuador,10,-5
+Ecuador,-1,-4
+Ecuador,9,-6
+Ecuador,-6,5
+Ecuador,200,0
+Ecuador,13,-7
+Ecuador,-5,-1
+Ecuador,-7,7
+Ecuador,-3,0
+Ecuador,14,3
+Ecuador,-8,-8
+Egipto,Costa de Marfil,7,35
+Egipto,-2,-4
+Egipto,4,-4
+Costa de Marfil,-200,0
+Egipto,-9,-4
+Egipto,0,1
+Costa de Marfil,14,-1
+Egipto,16,-1
+Costa de Marfil,16,0
+Costa de Marfil,-18,-1
+Egipto,-5,3
+Egipto,-11,3
+Egipto,-5,2
+Costa de Marfil,-16,-4
+Costa de Marfil,14,-4
+Costa de Marfil,-2,-4
+Costa de Marfil,200,0
+Costa de Marfil,-18,3
+Costa de Marfil,8,3
+Egipto,7,-4
+Egipto,18,3
+Egipto,4,4
+Costa de Marfil,-9,1
+Costa de Marfil,15,4
+Costa de Marfil,17,-2
+Egipto,7,1
+Costa de Marfil,1,1
+Costa de Marfil,-14,0
+Egipto,-1,0
+Costa de Marfil,15,-4
+Egipto,13,2
+Escocia,Corea del Sur,15,33
+Corea del Sur,-2,2
+Escocia,2,-1
+Corea del Sur,1,-5
+Escocia,-6,-2
+Corea del Sur,200,0
+Corea del Sur,-15,0
+Corea del Sur,17,-2
+Escocia,3,-6
+Escocia,-2,8
+Escocia,-5,-8
+Corea del Sur,2,0
+Corea del Sur,5,3
+Corea del Sur,-7,2
+Escocia,-10,-4
+Corea del Sur,11,-7
+Escocia,11,-3
+Corea del Sur,-9,8
+Escocia,12,5
+Escocia,10,6
+Escocia,2,-7
+Escocia,-1,5
+Corea del Sur,15,1
+Escocia,12,-3
+Corea del Sur,-15,3
+Corea del Sur,-9,5
+Corea del Sur,-12,2
+Corea del Sur,-200,0
+Escocia,-14,6
+Escocia,1,2
+España,Colombia,7,33
+España,4,3
+España,-1,0
+España,-200,0
+Colombia,200,0
+Colombia,10,-1
+Colombia,13,0
+Colombia,-4,-3
+España,10,1
+Colombia,11,-1
+Colombia,7,4
+España,-4,1
+Colombia,2,2
+España,10,0
+España,-5,3
+España,3,4
+España,-200,0
+Colombia,-200,0
+España,-1,-3
+España,-9,2
+España,1,-3
+Colombia,-8,0
+Colombia,5,0
+Colombia,-17,-3
+Colombia,-11,1
+España,-200,0
+Colombia,8,0
+España,17,4
+Colombia,5,-3
+Colombia,3,4
+España,-5,4
+España,-9,2
+España,13,1
+España,-200,0
+Colombia,-9,3
+España,16,4
+Colombia,-2,0
+España,-5,2
+Colombia,17,4
+España,10,0
+España,2,0
+Colombia,8,3
+Colombia,1,1
+España,-11,-3
+Colombia,1,-3
+España,9,2
+España,-200,0
+Estados Unidos,Catar,13,27
+Catar,-5,-7
+Catar,8,-7
+Catar,-9,1
+Estados Unidos,1,5
+Catar,-5,3
+Estados Unidos,-6,6
+Catar,8,4
+Estados Unidos,0,-1
+Catar,-9,4
+Estados Unidos,10,4
+Catar,4,5
+Estados Unidos,-10,-2
+Estados Unidos,4,4
+Catar,-3,-2
+Catar,-10,-1
+Estados Unidos,0,-1
+Catar,10,0
+Catar,-3,4
+Estados Unidos,-9,-5
+Estados Unidos,-8,-5
+Catar,-200,0
+Catar,6,5
+Catar,-13,2
+Catar,14,-2
+Catar,3,6
+Catar,200,0
+Estados Unidos,10,-1
+Estados Unidos,-10,6
+Catar,-4,6
+Estados Unidos,9,-4
+Estados Unidos,200,0
+Catar,0,3
+Catar,11,-1
+Estados Unidos,200,0
+Estados Unidos,13,4
+Arabia Saudita,Canadá,7,23
+Canadá,3,4
+Canadá,-3,-3
+Canadá,2,0
+Canadá,-8,-2
+Canadá,8,-3
+Arabia Saudita,-200,0
+Canadá,3,4
+Canadá,7,3
+Arabia Saudita,-200,0
+Canadá,6,4
+Canadá,-200,0
+Canadá,10,0
+Canadá,-12,-4
+Arabia Saudita,-11,3
+Arabia Saudita,-2,-2
+Canadá,5,0
+Arabia Saudita,12,-1
+Arabia Saudita,-9,-2
+Arabia Saudita,-7,3
+Arabia Saudita,-6,-1
+Arabia Saudita,-2,-4
+Arabia Saudita,-8,-1
+Arabia Saudita,-12,2
+Canadá,-3,3
+Arabia Saudita,9,-4
+Canadá,0,-4
+Canadá,-4,0
+Canadá,11,-1
+Canadá,4,1
+Canadá,3,-3
+Canadá,3,0
+Argelia,Cabo Verde,7,9
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,200,0
+Cabo Verde,-1,2
+Argelia,-2,-1
+Argelia,-4,0
+Argelia,0,4
+Cabo Verde,-3,2
+Cabo Verde,3,4
+Argelia,5,2
+Cabo Verde,-1,0
+Argelia,-4,1
+Argelia,-3,4
+Argelia,-1,-1
+Cabo Verde,-1,-4
+Argelia,-5,-2
+Argelia,0,-1
+Argelia,-2,3
+Argelia,3,0
+Argelia,-2,3
+Argelia,-200,0
+Cabo Verde,-2,-3
+Argelia,-1,-1
+Cabo Verde,200,0
+Argelia,-5,4
+Cabo Verde,2,1
+Cabo Verde,-5,-2
+Argelia,-200,0
+Argelia,5,-4
+Argelia,5,2
+Cabo Verde,4,4
+Argelia,-3,-2
+Argentina,Brasil,11,27
+Brasil,1,6
+Argentina,2,2
+Argentina,9,2
+Brasil,-8,3
+Argentina,-13,1
+Argentina,-6,-2
+Argentina,-6,0
+Argentina,-13,-5
+Brasil,13,0
+Argentina,-14,5
+Brasil,-14,4
+Brasil,200,0
+Argentina,2,-5
+Brasil,12,2
+Argentina,-10,-6
+Brasil,-8,5
+Brasil,3,5
+Argentina,-2,6
+Brasil,0,-4
+Brasil,200,0
+Argentina,8,2
+Argentina,14,-1
+Brasil,200,0
+Argentina,-6,-5
+Argentina,1,-2
+Brasil,-6,-5
+Brasil,-9,2
+Argentina,-8,-4
+Argentina,6,-2
+Argentina,-11,1
+Brasil,-200,0
+Argentina,-12,6
+Brasil,11,-1
+Brasil,7,6
+Argentina,-7,-4
+Argentina,-14,-1
+Australia,Bosnia y Herzegovina,7,35
+Australia,-200,0
+Australia,3,-4
+Bosnia y Herzegovina,8,4
+Bosnia y Herzegovina,4,2
+Australia,11,-4
+Bosnia y Herzegovina,3,4
+Bosnia y Herzegovina,-14,-1
+Bosnia y Herzegovina,-5,-2
+Australia,14,-1
+Australia,200,0
+Australia,200,0
+Australia,200,0
+Bosnia y Herzegovina,18,-3
+Australia,-13,1
+Australia,-13,1
+Bosnia y Herzegovina,-16,-4
+Bosnia y Herzegovina,18,-2
+Bosnia y Herzegovina,200,0
+Australia,-16,-3
+Bosnia y Herzegovina,8,-4
+Australia,-12,2
+Australia,11,-2
+Bosnia y Herzegovina,13,4
+Australia,11,0
+Australia,-10,3
+Australia,-4,0
+Australia,6,2
+Australia,2,2
+Bosnia y Herzegovina,4,2
+Bosnia y Herzegovina,-17,-3
+Australia,2,-1
+Bosnia y Herzegovina,17,-4
+Australia,-1,2
+Australia,-9,2
+Australia,-200,0
+Bosnia y Herzegovina,14,2
+Bosnia y Herzegovina,0,-1
+Australia,-13,-2
+Bosnia y Herzegovina,12,-4
+Bosnia y Herzegovina,3,1
+Australia,-9,-1
+Bosnia y Herzegovina,-7,-2
+Australia,0,2
+Australia,1,-3
+Australia,-16,3
+Bosnia y Herzegovina,10,2
+Austria,Bélgica,13,35
+Austria,-9,4
+Bélgica,11,3
+Austria,-11,-4
+Bélgica,2,-3
+Bélgica,-200,0
+Austria,200,0
+Bélgica,9,-1
+Bélgica,0,1
+Austria,-200,0
+Austria,-3,0
+Bélgica,14,-6
+Bélgica,-200,0
+Austria,8,-7
+Austria,12,-2
+Bélgica,200,0
+Austria,14,1
+Austria,4,1
+Bélgica,-12,4
+Austria,-15,-1
+Bélgica,14,-5
+Bélgica,-15,-3
+Austria,7,6
+Austria,-18,1
+Austria,-1,2
+Austria,2,-2
+Austria,-14,-4
+Bélgica,15,-4
+Austria,200,0
+Bélgica,-11,7
+Austria,1,1
+Bélgica,10,-2
+Bélgica,10,4
+Bélgica,200,0
+Austria,-11,7
+Austria,7,-6
+Austria,-4,7
+Austria,-6,2
+Bélgica,-2,7
+Bélgica,-6,-2
+Austria,200,0
+Bélgica,-4,2
+Austria,-2,-1
+Bélgica,-12,-4
+Bélgica,-7,5
+Austria,-1,1
+Austria,-200,0
+Bélgica,-18,-2
+Bélgica,0,7
+Fecha 7
+Alemania,Croacia,11,29
+Alemania,-3,0
+Alemania,12,-1
+Alemania,3,-6
+Croacia,-10,6
+Croacia,200,0
+Croacia,1,5
+Alemania,12,3
+Croacia,-13,-5
+Alemania,-200,0
+Alemania,-12,0
+Alemania,-11,6
+Alemania,2,5
+Alemania,4,5
+Croacia,-3,-6
+Alemania,3,-3
+Croacia,-1,-4
+Alemania,1,0
+Alemania,15,4
+Croacia,-5,-5
+Croacia,5,2
+Croacia,-3,2
+Alemania,-10,-5
+Alemania,8,6
+Alemania,8,-4
+Alemania,10,-3
+Curazao,Costa de Marfil,15,27
+Costa de Marfil,-7,6
+Curazao,200,0
+Costa de Marfil,-13,-5
+Curazao,-12,2
+Costa de Marfil,-12,7
+Curazao,-13,2
+Curazao,200,0
+Costa de Marfil,3,-3
+Curazao,-3,5
+Costa de Marfil,2,8
+Curazao,-1,7
+Costa de Marfil,1,7
+Costa de Marfil,12,6
+Curazao,10,8
+Costa de Marfil,-5,-1
+Curazao,-3,0
+Costa de Marfil,9,7
+Curazao,13,5
+Curazao,-4,-6
+Costa de Marfil,13,8
+Curazao,-14,8
+Curazao,2,-6
+Costa de Marfil,8,3
+Costa de Marfil,6,0
+Costa de Marfil,-6,-8
+Ecuador,Corea del Sur,9,23
+Corea del Sur,-10,-3
+Ecuador,12,-5
+Ecuador,-2,-4
+Corea del Sur,-6,-1
+Ecuador,6,-2
+Corea del Sur,4,-3
+Corea del Sur,-11,3
+Ecuador,-7,2
+Ecuador,-2,-2
+Corea del Sur,-3,-1
+Corea del Sur,2,3
+Corea del Sur,0,2
+Corea del Sur,10,-5
+Corea del Sur,-2,4
+Ecuador,-2,2
+Corea del Sur,2,4
+Ecuador,-4,-1
+Corea del Sur,-7,-1
+Ecuador,-8,-4
+Corea del Sur,-12,4
+Ecuador,200,0
+Corea del Sur,11,1
+Corea del Sur,-6,-1
+Ecuador,-1,3
+Ecuador,12,-5
+Corea del Sur,8,4
+Corea del Sur,12,3
+Egipto,Colombia,11,33
+Egipto,5,-2
+Colombia,-5,-3
+Colombia,-9,-6
+Colombia,200,0
+Colombia,-10,-6
+Egipto,-16,2
+Colombia,-9,0
+Egipto,-16,-1
+Egipto,-4,5
+Egipto,3,2
+Egipto,-8,-4
+Egipto,-7,-3
+Egipto,-7,-1
+Egipto,-13,-6
+Egipto,11,2
+Colombia,-12,-1
+Colombia,-12,2
+Egipto,-12,-3
+Colombia,200,0
+Colombia,10,2
+Egipto,-200,0
+Escocia,Catar,13,29
+Escocia,3,-6
+Catar,-15,-7
+Catar,-4,4
+Catar,15,-2
+Catar,6,5
+Escocia,-6,-5
+Escocia,9,-1
+Catar,-3,-2
+Catar,-15,-7
+Catar,1,0
+Catar,8,-4
+Catar,7,-3
+Escocia,14,7
+Catar,9,-3
+Escocia,4,7
+Catar,12,-5
+Escocia,5,3
+Catar,-3,4
+Catar,-14,4
+Escocia,-2,-2
+Catar,11,-2
+Catar,-15,7
+Catar,-6,7
+Catar,5,6
+Escocia,-12,-7
+Escocia,-5,2
+Escocia,-5,4
+España,Canadá,15,25
+España,8,-2
+Canadá,-7,-3
+España,-13,1
+España,4,-7
+España,12,3
+Canadá,-8,6
+España,10,3
+España,-9,2
+España,-1,-1
+España,5,-5
+Canadá,-1,4
+España,8,-2
+Canadá,7,-7
+Canadá,7,2
+España,3,-4
+Canadá,-9,-2
+Canadá,1,-6
+Canadá,-12,-3
+Canadá,3,-6
+Canadá,-4,3
+España,-9,0
+Canadá,-5,-6
+España,8,-4
+Estados Unidos,Cabo Verde,15,31
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Estados Unidos,-7,-8
+Estados Unidos,16,1
+Estados Unidos,10,-5
+Estados Unidos,-7,-4
+Estados Unidos,-3,-2
+Estados Unidos,11,-5
+Estados Unidos,0,5
+Cabo Verde,-11,4
+Cabo Verde,15,4
+Estados Unidos,-11,0
+Cabo Verde,0,-7
+Estados Unidos,3,7
+Estados Unidos,13,-6
+Estados Unidos,-2,0
+Cabo Verde,-1,6
+Cabo Verde,5,-7
+Cabo Verde,-15,-3
+Estados Unidos,-2,2
+Estados Unidos,-6,-7
+Cabo Verde,16,5
+Estados Unidos,14,-6
+Estados Unidos,14,1
+Cabo Verde,-12,3
+Estados Unidos,-14,8
+Arabia Saudita,Brasil,7,19
+Arabia Saudita,-8,2
+Brasil,-5,1
+Arabia Saudita,-200,0
+Brasil,200,0
+Brasil,-5,-3
+Brasil,8,0
+Arabia Saudita,200,0
+Arabia Saudita,-2,4
+Arabia Saudita,5,3
+Arabia Saudita,2,4
+Brasil,0,-4
+Arabia Saudita,3,-1
+Brasil,-5,-3
+Arabia Saudita,2,-2
+Brasil,-9,3
+Arabia Saudita,-2,-2
+Arabia Saudita,-8,-2
+Arabia Saudita,-6,4
+Brasil,-3,2
+Arabia Saudita,4,2
+Brasil,-10,1
+Arabia Saudita,0,-3
+Brasil,7,-2
+Arabia Saudita,9,-1
+Brasil,-5,2
+Brasil,3,2
+Brasil,-1,0
+Brasil,9,-2
+Brasil,2,3
+Brasil,-9,4
+Arabia Saudita,-6,3
+Brasil,5,1
+Brasil,0,3
+Brasil,10,-3
+Brasil,-5,3
+Arabia Saudita,1,3
+Brasil,200,0
+Argelia,Bosnia y Herzegovina,9,19
+Bosnia y Herzegovina,-4,-1
+Argelia,10,1
+Argelia,-8,2
+Bosnia y Herzegovina,-4,2
+Argelia,-7,4
+Argelia,5,4
+Bosnia y Herzegovina,-200,0
+Argelia,-5,-4
+Argelia,-5,-1
+Argelia,-200,0
+Argelia,-4,0
+Argelia,5,-5
+Argelia,-6,0
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,9,5
+Bosnia y Herzegovina,0,5
+Argelia,-9,5
+Argelia,4,-5
+Argelia,-4,-2
+Argelia,8,4
+Argelia,-200,0
+Bosnia y Herzegovina,9,4
+Bosnia y Herzegovina,-6,2
+Argelia,6,-2
+Bosnia y Herzegovina,6,-4
+Bosnia y Herzegovina,200,0
+Argelia,-3,4
+Argelia,200,0
+Bosnia y Herzegovina,3,2
+Bosnia y Herzegovina,-4,5
+Argelia,2,-2
+Bosnia y Herzegovina,-8,-5
+Bosnia y Herzegovina,3,-1
+Bosnia y Herzegovina,1,5
+Bosnia y Herzegovina,4,-1
+Bosnia y Herzegovina,-8,3
+Argelia,5,1
+Argelia,0,2
+Argelia,-7,-5
+Argentina,Bélgica,9,19
+Bélgica,-200,0
+Argentina,-10,4
+Argentina,5,5
+Argentina,8,5
+Argentina,-7,-4
+Bélgica,-9,3
+Argentina,200,0
+Bélgica,3,-2
+Bélgica,5,2
+Argentina,1,-5
+Argentina,2,-3
+Bélgica,10,-3
+Argentina,9,0
+Argentina,2,0
+Argentina,6,1
+Bélgica,8,-1
+Argentina,-2,5
+Bélgica,9,-2
+Bélgica,10,3
+Bélgica,-9,3
+Bélgica,-6,-1
+Argentina,-5,4
+Bélgica,3,3
+Argentina,-2,4
+Argentina,-9,-3
+Bélgica,1,-5
+Bélgica,0,5
+Argentina,-7,-5
+Argentina,9,5
+Argentina,10,0
+Bélgica,-10,4
+Bélgica,-3,1
+Bélgica,3,3
+Bélgica,-8,-3
+Bélgica,-200,0
+Bélgica,200,0
+Argentina,3,-5
+Argentina,4,0
+Argentina,9,-5
+Bélgica,2,-1
+Argentina,-6,-5
+Bélgica,7,1
+Argentina,9,-4
+Argentina,-10,0
+Australia,Austria,7,25
+Australia,3,4
+Australia,13,3
+Australia,8,4
+Australia,0,3
+Australia,10,-4
+Austria,6,2
+Australia,200,0
+Australia,-9,-1
+Austria,-10,-3
+Austria,-8,-1
+Austria,-11,-1
+Australia,11,4
+Australia,10,-1
+Austria,-12,-2
+Australia,1,-2
+Austria,2,-4
+Austria,-5,-2
+Austria,-8,-3
+Australia,12,-2
+Austria,0,2
+Australia,-1,-3
+Australia,9,1
+Australia,3,-1
+Australia,-5,2
+Australia,9,3
+Australia,-10,0
+Austria,2,2
+Austria,6,-3
+Australia,-1,3
+Austria,6,1
+Australia,-10,-1
+Austria,200,0
+Fecha 8
+Alemania,Costa de Marfil,9,33
+Alemania,0,5
+Alemania,0,3
+Costa de Marfil,5,4
+Alemania,5,-4
+Costa de Marfil,-11,5
+Costa de Marfil,200,0
+Costa de Marfil,10,-2
+Costa de Marfil,200,0
+Costa de Marfil,17,-4
+Costa de Marfil,-4,-4
+Alemania,-13,4
+Alemania,-16,1
+Alemania,-12,3
+Alemania,-13,-2
+Alemania,-13,2
+Alemania,-6,-5
+Alemania,11,-5
+Alemania,17,-4
+Costa de Marfil,-14,4
+Alemania,-13,4
+Alemania,10,3
+Croacia,Corea del Sur,11,23
+Corea del Sur,8,-3
+Corea del Sur,12,4
+Corea del Sur,-2,6
+Croacia,7,1
+Croacia,8,3
+Corea del Sur,-1,-5
+Corea del Sur,3,2
+Croacia,-9,2
+Corea del Sur,-8,5
+Corea del Sur,10,-2
+Corea del Sur,-3,4
+Corea del Sur,-200,0
+Corea del Sur,1,-4
+Croacia,2,2
+Croacia,10,-5
+Corea del Sur,-6,-5
+Croacia,200,0
+Croacia,-2,3
+Croacia,-4,-1
+Croacia,11,3
+Croacia,3,0
+Corea del Sur,1,4
+Corea del Sur,-5,-3
+Corea del Sur,-6,-1
+Corea del Sur,1,-5
+Croacia,3,-5
+Croacia,6,-5
+Croacia,200,0
+Corea del Sur,-12,1
+Croacia,-5,-1
+Croacia,-6,5
+Croacia,-200,0
+Corea del Sur,-200,0
+Corea del Sur,-2,3
+Croacia,-9,6
+Curazao,Colombia,5,23
+Curazao,-5,3
+Colombia,-2,1
+Colombia,7,-1
+Curazao,-200,0
+Curazao,1,3
+Colombia,-5,-3
+Colombia,-200,0
+Colombia,-5,-3
+Colombia,-5,-2
+Curazao,7,1
+Colombia,-7,-2
+Colombia,-2,3
+Curazao,8,0
+Curazao,6,0
+Curazao,9,-2
+Curazao,-200,0
+Curazao,-1,0
+Curazao,-1,3
+Curazao,12,2
+Curazao,5,3
+Colombia,8,1
+Curazao,2,0
+Curazao,0,2
+Curazao,-12,-3
+Colombia,-3,-3
+Colombia,-6,-3
+Colombia,8,-1
+Colombia,9,0
+Curazao,-200,0
+Colombia,0,2
+Colombia,-8,2
+Curazao,5,-3
+Colombia,200,0
+Curazao,-3,-1
+Colombia,-7,-2
+Curazao,0,1
+Curazao,-11,3
+Colombia,-7,2
+Colombia,-4,-1
+Curazao,2,3
+Colombia,2,3
+Colombia,-1,-2
+Colombia,7,-3
+Curazao,-1,-2
+Curazao,3,-1
+Curazao,8,-3
+Colombia,-1,2
+Colombia,-6,-2
+Colombia,2,0
+Ecuador,Catar,13,23
+Catar,-7,1
+Catar,-1,-5
+Ecuador,-2,1
+Catar,0,1
+Catar,3,-2
+Ecuador,-12,-1
+Ecuador,-6,-7
+Catar,7,0
+Catar,5,1
+Ecuador,-1,1
+Ecuador,-3,-7
+Catar,-9,4
+Ecuador,-3,2
+Ecuador,-11,4
+Catar,-10,5
+Ecuador,-3,-3
+Ecuador,6,1
+Ecuador,0,-5
+Catar,-2,3
+Catar,1,5
+Catar,-2,0
+Ecuador,11,-1
+Catar,-5,-5
+Catar,-7,-6
+Ecuador,-200,0
+Catar,-200,0
+Ecuador,-2,-3
+Ecuador,-1,-7
+Ecuador,-8,6
+Ecuador,7,5
+Ecuador,-7,4
+Ecuador,10,0
+Catar,9,4
+Catar,12,3
+Ecuador,3,1
+Ecuador,-200,0
+Catar,10,-3
+Egipto,Canadá,7,19
+Egipto,-5,-3
+Canadá,-2,4
+Canadá,-1,-3
+Egipto,-10,-1
+Egipto,6,4
+Egipto,-8,-3
+Canadá,8,-1
+Egipto,-1,-2
+Egipto,-5,-1
+Canadá,5,1
+Egipto,-7,3
+Egipto,6,4
+Canadá,-1,0
+Canadá,7,0
+Egipto,2,-4
+Egipto,6,0
+Egipto,6,4
+Canadá,-8,3
+Canadá,0,2
+Egipto,-6,3
+Egipto,-200,0
+Egipto,-5,-1
+Egipto,4,1
+Egipto,4,-2
+Canadá,-1,3
+Canadá,-10,-4
+Egipto,1,-2
+Egipto,-8,1
+Canadá,-3,1
+Canadá,7,-4
+Canadá,-10,-1
+Egipto,-4,-2
+Egipto,200,0
+Egipto,2,-4
+Egipto,-9,-1
+Egipto,10,-2
+Egipto,4,0
+Canadá,9,-1
+Canadá,2,-1
+Escocia,Cabo Verde,15,31
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,4,2
+Cabo Verde,-2,0
+Cabo Verde,5,-4
+Cabo Verde,9,-6
+Cabo Verde,-9,0
+Escocia,1,-3
+Escocia,1,-5
+Cabo Verde,-5,-4
+Cabo Verde,-9,7
+Escocia,12,-8
+Escocia,-12,5
+Escocia,-6,-1
+Cabo Verde,9,-5
+Cabo Verde,13,3
+Escocia,16,1
+Cabo Verde,-14,8
+Cabo Verde,-200,0
+Escocia,-10,6
+Escocia,14,-3
+Cabo Verde,2,-2
+Cabo Verde,0,5
+Cabo Verde,-9,-7
+Cabo Verde,-9,8
+Cabo Verde,-200,0
+Cabo Verde,4,3
+Cabo Verde,-200,0
+Cabo Verde,-14,0
+Escocia,-10,-6
+Escocia,13,5
+Cabo Verde,11,7
+Escocia,3,-4
+Cabo Verde,13,-4
+Escocia,1,-1
+Cabo Verde,-10,4
+Escocia,8,3
+Cabo Verde,-14,8
+Escocia,-16,-8
+Escocia,200,0
+Cabo Verde,-5,8
+Escocia,0,-5
+Cabo Verde,-16,0
+Escocia,1,3
+Escocia,-14,5
+Escocia,-13,-8
+Escocia,-8,-6
+Escocia,1,0
+Escocia,1,0
+Cabo Verde,3,5
+España,Brasil,7,15
+España,-3,-4
+España,7,2
+Brasil,-7,-3
+España,-7,-1
+Brasil,2,1
+Brasil,5,-1
+Brasil,200,0
+Brasil,-7,3
+Brasil,1,2
+Brasil,-2,3
+Brasil,1,-2
+España,3,3
+España,8,-1
+España,-200,0
+España,-2,3
+Brasil,4,0
+Brasil,200,0
+Brasil,-5,-2
+España,7,4
+Brasil,1,-3
+España,-4,0
+Brasil,3,-4
+Brasil,200,0
+Brasil,3,-3
+Brasil,8,1
+España,2,0
+Brasil,3,-1
+Brasil,-7,0
+Brasil,-4,3
+Brasil,2,2
+Brasil,2,1
+Brasil,-7,-3
+Brasil,8,2
+Estados Unidos,Bosnia y Herzegovina,9,29
+Estados Unidos,10,1
+Estados Unidos,8,4
+Bosnia y Herzegovina,-8,1
+Estados Unidos,-3,0
+Bosnia y Herzegovina,3,0
+Estados Unidos,11,2
+Bosnia y Herzegovina,-13,3
+Estados Unidos,-13,3
+Bosnia y Herzegovina,12,2
+Bosnia y Herzegovina,-6,-3
+Bosnia y Herzegovina,3,-2
+Bosnia y Herzegovina,-6,-5
+Bosnia y Herzegovina,3,5
+Estados Unidos,-6,-1
+Estados Unidos,0,3
+Bosnia y Herzegovina,-4,3
+Estados Unidos,6,0
+Estados Unidos,-10,-4
+Estados Unidos,-7,-5
+Bosnia y Herzegovina,-7,5
+Bosnia y Herzegovina,-15,2
+Estados Unidos,-11,-5
+Estados Unidos,-8,1
+Bosnia y Herzegovina,-10,3
+Estados Unidos,6,-4
+Bosnia y Herzegovina,4,-5
+Bosnia y Herzegovina,-5,0
+Estados Unidos,13,-4
+Estados Unidos,15,0
+Bosnia y Herzegovina,12,2
+Bosnia y Herzegovina,15,2
+Bosnia y Herzegovina,13,2
+Estados Unidos,200,0
+Estados Unidos,-12,-4
+Bosnia y Herzegovina,-200,0
+Estados Unidos,6,-1
+Bosnia y Herzegovina,9,1
+Bosnia y Herzegovina,12,5
+Arabia Saudita,Bélgica,9,27
+Bélgica,-14,-1
+Bélgica,8,-3
+Arabia Saudita,5,0
+Arabia Saudita,200,0
+Bélgica,-13,-2
+Bélgica,12,5
+Bélgica,9,2
+Arabia Saudita,6,4
+Bélgica,7,-4
+Bélgica,-200,0
+Arabia Saudita,11,-1
+Arabia Saudita,-11,0
+Bélgica,6,-3
+Bélgica,200,0
+Arabia Saudita,11,1
+Bélgica,-8,-2
+Bélgica,-2,0
+Arabia Saudita,-4,5
+Bélgica,1,2
+Arabia Saudita,3,-2
+Arabia Saudita,7,-4
+Argelia,Austria,9,19
+Austria,-3,-4
+Austria,200,0
+Austria,-5,-3
+Austria,-5,3
+Argelia,9,-3
+Argelia,10,-1
+Austria,-6,-3
+Austria,200,0
+Argelia,-9,-2
+Argelia,1,-2
+Austria,-9,-1
+Austria,5,-5
+Austria,-9,-5
+Austria,0,3
+Austria,-5,5
+Austria,-8,-3
+Argelia,-7,-2
+Argelia,0,-5
+Argelia,-10,-3
+Argelia,-5,-5
+Argelia,-1,1
+Austria,8,0
+Argelia,1,-4
+Austria,-4,0
+Argentina,Australia,15,29
+Australia,7,8
+Australia,-200,0
+Argentina,2,-3
+Australia,9,-4
+Argentina,2,-8
+Australia,14,-6
+Australia,-1,5
+Australia,10,-3
+Australia,-3,1
+Argentina,4,-1
+Australia,-7,2
+Argentina,3,-8
+Australia,-200,0
+Argentina,-14,3
+Argentina,-4,1
+Argentina,5,7
+Australia,15,-3
+Australia,-6,7
+Argentina,9,8
+Argentina,9,-7
+Argentina,-14,0
+Australia,-10,-8
+Australia,12,-5
+Argentina,200,0
+Australia,2,-2
+Argentina,-9,8
+Argentina,1,4
+Australia,9,-1
+Australia,3,-2
+Argentina,11,6
+Argentina,1,5
+Australia,15,0
+Australia,-10,2
+Australia,15,-4
+Argentina,8,-8
+Australia,2,-3
+Australia,-8,-4
+Australia,12,1
+Australia,10,-5
+Argentina,13,-8
+Australia,1,4
+Argentina,-10,1
+Argentina,-15,2
+Australia,-1,4
+Fecha 9
+Alemania,Corea del Sur,11,35
+Corea del Sur,-6,4
+Corea del Sur,-2,2
+Alemania,18,3
+Corea del Sur,12,1
+Alemania,10,5
+Alemania,12,-4
+Alemania,8,4
+Corea del Sur,-13,-2
+Alemania,-6,-2
+Alemania,17,-4
+Corea del Sur,200,0
+Corea del Sur,-12,4
+Corea del Sur,3,3
+Corea del Sur,-3,1
+Alemania,-5,3
+Corea del Sur,-12,-3
+Alemania,4,4
+Alemania,-200,0
+Corea del Sur,-5,-1
+Alemania,0,5
+Alemania,-18,1
+Alemania,11,4
+Alemania,-2,0
+Costa de Marfil,Colombia,13,33
+Costa de Marfil,-8,-6
+Colombia,0,0
+Costa de Marfil,0,2
+Colombia,9,-6
+Colombia,-8,5
+Costa de Marfil,-3,1
+Costa de Marfil,8,-1
+Colombia,5,2
+Colombia,17,-4
+Colombia,0,5
+Colombia,200,0
+Costa de Marfil,-17,-5
+Costa de Marfil,-6,0
+Colombia,-2,2
+Costa de Marfil,6,4
+Costa de Marfil,17,0
+Colombia,13,6
+Costa de Marfil,-14,-5
+Costa de Marfil,11,-4
+Colombia,5,4
+Costa de Marfil,14,1
+Costa de Marfil,14,1
+Costa de Marfil,-1,-7
+Colombia,-200,0
+Costa de Marfil,-200,0
+Colombia,7,-2
+Costa de Marfil,-200,0
+Colombia,-5,-6
+Costa de Marfil,6,0
+Colombia,10,0
+Costa de Marfil,-7,2
+Costa de Marfil,15,3
+Colombia,0,6
+Costa de Marfil,9,7
+Costa de Marfil,-2,7
+Colombia,14,-6
+Costa de Marfil,15,4
+Colombia,-13,2
+Colombia,6,2
+Costa de Marfil,-15,5
+Colombia,14,-4
+Costa de Marfil,-200,0
+Costa de Marfil,-16,7
+Croacia,Catar,13,21
+Croacia,-6,-2
+Catar,3,-6
+Catar,-3,-6
+Croacia,-5,-7
+Catar,4,3
+Croacia,-200,0
+Croacia,200,0
+Croacia,-5,3
+Catar,7,7
+Catar,-8,-2
+Catar,-4,-7
+Croacia,9,3
+Croacia,-10,-2
+Croacia,11,-3
+Croacia,11,0
+Catar,4,2
+Croacia,2,3
+Catar,9,-3
+Croacia,-1,1
+Croacia,0,-6
+Croacia,-8,3
+Croacia,-2,2
+Croacia,-200,0
+Croacia,8,3
+Catar,-11,6
+Catar,5,-5
+Croacia,-200,0
+Croacia,6,1
+Croacia,200,0
+Catar,-4,-2
+Croacia,8,5
+Catar,9,4
+Catar,-3,-3
+Catar,-9,-4
+Croacia,5,-2
+Croacia,-7,-4
+Croacia,-10,-1
+Catar,10,5
+Croacia,11,-6
+Catar,-7,6
+Croacia,5,-5
+Catar,10,1
+Croacia,-7,-1
+Croacia,-1,-5
+Catar,9,6
+Catar,3,7
+Curazao,Canadá,15,27
+Curazao,9,-2
+Curazao,14,-5
+Canadá,-1,-1
+Canadá,3,6
+Canadá,-13,2
+Curazao,-10,-3
+Canadá,-14,7
+Canadá,14,7
+Canadá,4,-3
+Canadá,-8,8
+Curazao,-200,0
+Curazao,10,8
+Curazao,-14,-3
+Curazao,-13,-8
+Canadá,8,-2
+Canadá,9,6
+Curazao,14,-2
+Curazao,-12,6
+Curazao,-1,7
+Curazao,-8,3
+Curazao,2,-7
+Canadá,4,1
+Curazao,8,-2
+Curazao,-13,6
+Curazao,5,-4
+Canadá,-8,6
+Canadá,2,6
+Canadá,-2,-3
+Canadá,-200,0
+Curazao,6,2
+Canadá,-4,-4
+Canadá,14,4
+Canadá,14,4
+Canadá,-5,3
+Canadá,-2,0
+Canadá,-200,0
+Canadá,-5,4
+Curazao,-8,-4
+Canadá,-1,6
+Canadá,200,0
+Canadá,-11,5
+Curazao,-6,6
+Curazao,-7,-3
+Canadá,10,8
+Canadá,11,-2
+Canadá,-13,1
+Canadá,13,2
+Ecuador,Cabo Verde,9,27
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Ecuador,11,-3
+Ecuador,-4,4
+Cabo Verde,5,0
+Ecuador,-14,-2
+Ecuador,-13,-3
+Ecuador,8,5
+Ecuador,9,-4
+Cabo Verde,-1,-2
+Ecuador,-200,0
+Cabo Verde,-4,-1
+Cabo Verde,4,-3
+Cabo Verde,11,-5
+Ecuador,8,3
+Ecuador,-200,0
+Ecuador,200,0
+Ecuador,-13,3
+Cabo Verde,-9,0
+Ecuador,-13,-1
+Ecuador,-1,5
+Cabo Verde,-1,0
+Cabo Verde,-7,-4
+Ecuador,14,-3
+Ecuador,3,-5
+Ecuador,-9,-4
+Cabo Verde,14,0
+Ecuador,2,-2
+Ecuador,11,0
+Cabo Verde,-9,5
+Cabo Verde,14,3
+Cabo Verde,8,3
+Cabo Verde,-12,-5
+Ecuador,-3,1
+Ecuador,-13,2
+Cabo Verde,-10,-5
+Ecuador,-2,4
+Cabo Verde,-14,-4
+Ecuador,10,5
+Egipto,Brasil,9,25
+Brasil,10,-5
+Brasil,-5,-1
+Brasil,-4,-4
+Egipto,7,5
+Egipto,5,2
+Brasil,-12,2
+Brasil,200,0
+Brasil,7,-5
+Egipto,-4,3
+Egipto,-200,0
+Egipto,-13,4
+Egipto,0,2
+Brasil,10,4
+Egipto,-13,2
+Brasil,-11,-1
+Brasil,-10,-2
+Brasil,-200,0
+Brasil,11,5
+Egipto,11,4
+Egipto,12,-5
+Brasil,200,0
+Egipto,-11,0
+Egipto,-6,0
+Brasil,4,-1
+Egipto,3,0
+Brasil,-9,-3
+Egipto,-10,0
+Brasil,4,-5
+Escocia,Bosnia y Herzegovina,13,27
+Bosnia y Herzegovina,200,0
+Escocia,13,-1
+Bosnia y Herzegovina,-3,-6
+Escocia,-6,-1
+Escocia,3,-4
+Escocia,-1,-4
+Escocia,7,4
+Escocia,9,4
+Escocia,200,0
+Bosnia y Herzegovina,-4,-5
+Bosnia y Herzegovina,10,-2
+Escocia,-13,-3
+Bosnia y Herzegovina,-10,2
+Bosnia y Herzegovina,-14,3
+Escocia,-7,3
+Escocia,10,4
+Bosnia y Herzegovina,-14,4
+Escocia,-6,0
+Escocia,-2,-1
+Bosnia y Herzegovina,-8,4
+Bosnia y Herzegovina,-200,0
+Escocia,13,3
+Escocia,-9,-3
+Bosnia y Herzegovina,-3,6
+Bosnia y Herzegovina,200,0
+Escocia,-9,-7
+Escocia,200,0
+Escocia,-200,0
+Bosnia y Herzegovina,5,-7
+Escocia,-7,6
+Bosnia y Herzegovina,14,4
+Escocia,-13,-7
+Escocia,-7,-7
+Escocia,-9,6
+Bosnia y Herzegovina,9,-6
+Escocia,-8,-7
+Bosnia y Herzegovina,0,-7
+Escocia,-4,5
+Escocia,-5,6
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,-9,0
+Escocia,13,-4
+España,Bélgica,11,25
+España,4,3
+España,11,4
+Bélgica,-4,1
+España,10,-5
+España,-5,6
+España,2,1
+Bélgica,4,-2
+España,-12,-1
+España,-200,0
+Bélgica,-9,2
+Bélgica,2,-3
+Bélgica,-5,2
+Bélgica,-11,-1
+España,-13,5
+Bélgica,12,-1
+Bélgica,-200,0
+España,-8,4
+España,-6,4
+Bélgica,-5,1
+Bélgica,-10,-2
+España,13,-2
+Bélgica,-9,2
+Bélgica,6,-6
+Bélgica,12,1
+España,-5,-4
+Bélgica,-11,6
+Bélgica,10,0
+España,-11,-6
+España,-8,0
+Bélgica,11,-5
+Bélgica,-2,6
+Bélgica,-10,4
+España,3,5
+España,200,0
+Bélgica,-3,3
+España,5,3
+España,10,-5
+España,13,-2
+España,9,5
+Bélgica,6,2
+Estados Unidos,Austria,15,17
+Estados Unidos,-8,4
+Estados Unidos,5,8
+Estados Unidos,1,-8
+Austria,-2,-2
+Estados Unidos,-7,7
+Austria,6,-2
+Austria,3,-6
+Estados Unidos,-9,-5
+Estados Unidos,-8,-3
+Austria,-200,0
+Austria,5,0
+Estados Unidos,-7,-1
+Austria,-200,0
+Estados Unidos,1,-4
+Austria,-5,1
+Austria,6,6
+Austria,-2,-3
+Estados Unidos,9,2
+Estados Unidos,-6,-6
+Austria,1,-8
+Austria,4,-6
+Estados Unidos,-2,-5
+Austria,200,0
+Austria,-5,6
+Arabia Saudita,Australia,15,23
+Australia,-9,-8
+Arabia Saudita,200,0
+Australia,8,0
+Arabia Saudita,-12,-5
+Australia,11,-4
+Arabia Saudita,9,4
+Australia,-2,-8
+Arabia Saudita,200,0
+Australia,-4,3
+Arabia Saudita,0,-7
+Australia,-5,-5
+Australia,11,-2
+Australia,-10,0
+Arabia Saudita,8,-6
+Australia,3,6
+Australia,-11,-5
+Arabia Saudita,4,6
+Australia,10,-2
+Australia,5,8
+Australia,-12,-7
+Australia,-2,6
+Australia,7,2
+Arabia Saudita,-200,0
+Arabia Saudita,5,3
+Argelia,Argentina,13,25
+Argelia,-10,2
+Argentina,-6,3
+Argentina,8,6
+Argelia,-200,0
+Argentina,4,-3
+Argentina,5,6
+Argentina,-10,2
+Argentina,200,0
+Argentina,2,7
+Argentina,-6,-2
+Argelia,-7,7
+Argentina,-11,-5
+Argelia,-5,5
+Argelia,-12,-7
+Argentina,-8,-1
+Argentina,-200,0
+Argelia,9,4
+Argentina,4,-1
+Argentina,-7,1
+Argentina,-200,0
+Argentina,7,3
+Argentina,-8,-7
+Argentina,-12,2
+Argentina,10,0
+Argelia,7,1
+Argelia,2,-1
+Argelia,11,-3
+Argelia,200,0
+Argentina,8,-4
+Argentina,-12,4
+Argentina,200,0
+Argelia,0,1
+Argentina,200,0
+Argentina,7,6
+Argelia,-6,-4
+Argentina,-7,1
+Argelia,-11,3
+Argelia,-9,-3
+Argentina,11,-3
+Argelia,0,3
+Argentina,-2,-1
+Argentina,12,7
+Argentina,10,-7
+Argentina,13,4
+Argentina,-11,5
+Argelia,11,-3
+Argelia,9,-6
+Argentina,-2,2
+Argentina,3,-6
+Argentina,11,7
+Fecha 10
+Alemania,Colombia,7,29
+Alemania,3,-4
+Alemania,-12,-1
+Alemania,-12,-4
+Alemania,-11,-1
+Colombia,12,1
+Alemania,4,4
+Colombia,5,2
+Alemania,-4,2
+Colombia,10,3
+Colombia,-11,4
+Alemania,8,2
+Colombia,-10,1
+Colombia,4,-2
+Alemania,200,0
+Colombia,-8,4
+Colombia,7,4
+Alemania,-4,-1
+Alemania,-200,0
+Colombia,-15,-1
+Alemania,4,-2
+Alemania,0,-1
+Colombia,6,4
+Alemania,-1,0
+Colombia,2,-1
+Colombia,4,-1
+Alemania,-7,-3
+Alemania,-3,4
+Colombia,3,4
+Alemania,200,0
+Colombia,-1,3
+Colombia,15,3
+Colombia,5,0
+Alemania,-13,3
+Alemania,10,-4
+Colombia,-8,2
+Alemania,-12,0
+Alemania,-11,1
+Colombia,0,-4
+Alemania,-8,0
+Corea del Sur,Catar,11,21
+Catar,8,-5
+Corea del Sur,-9,-4
+Corea del Sur,5,-1
+Catar,6,-3
+Corea del Sur,8,-1
+Catar,1,-2
+Corea del Sur,-7,2
+Catar,-200,0
+Catar,-7,4
+Catar,-3,4
+Catar,2,1
+Catar,-4,1
+Corea del Sur,200,0
+Corea del Sur,0,5
+Corea del Sur,200,0
+Catar,6,0
+Corea del Sur,200,0
+Corea del Sur,200,0
+Corea del Sur,10,-3
+Corea del Sur,200,0
+Catar,-7,3
+Catar,6,-2
+Corea del Sur,5,2
+Catar,-7,-3
+Catar,9,-2
+Corea del Sur,-5,-1
+Corea del Sur,-6,-1
+Catar,-3,1
+Corea del Sur,-8,3
+Catar,-11,5
+Catar,5,-2
+Corea del Sur,-10,-4
+Catar,3,1
+Corea del Sur,7,3
+Catar,2,5
+Corea del Sur,-4,1
+Catar,5,-2
+Corea del Sur,1,-5
+Catar,5,4
+Catar,9,-6
+Catar,-9,-4
+Corea del Sur,5,4
+Catar,1,5
+Catar,200,0
+Corea del Sur,200,0
+Costa de Marfil,Canadá,7,29
+Canadá,-6,4
+Costa de Marfil,14,-2
+Canadá,5,-2
+Canadá,-11,-2
+Canadá,-6,3
+Costa de Marfil,-13,3
+Costa de Marfil,3,1
+Canadá,6,-1
+Costa de Marfil,-11,-4
+Canadá,-9,0
+Canadá,4,2
+Costa de Marfil,-14,1
+Costa de Marfil,4,-1
+Costa de Marfil,4,0
+Costa de Marfil,14,-4
+Costa de Marfil,-14,-3
+Costa de Marfil,-13,-2
+Costa de Marfil,-12,0
+Canadá,-8,3
+Canadá,-15,2
+Canadá,4,0
+Costa de Marfil,200,0
+Costa de Marfil,-4,-3
+Canadá,-3,1
+Canadá,-1,0
+Costa de Marfil,-4,3
+Canadá,12,1
+Canadá,-12,4
+Costa de Marfil,1,-1
+Costa de Marfil,-13,2
+Costa de Marfil,10,-4
+Costa de Marfil,1,-2
+Canadá,-2,-3
+Costa de Marfil,-7,0
+Costa de Marfil,6,-4
+Costa de Marfil,8,-2
+Canadá,0,-1
+Canadá,-200,0
+Croacia,Cabo Verde,11,25
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-11,5
+Croacia,0,4
+Cabo Verde,-3,1
+Croacia,1,2
+Cabo Verde,-12,4
+Cabo Verde,9,5
+Cabo Verde,-5,-6
+Cabo Verde,-2,5
+Cabo Verde,3,-1
+Cabo Verde,-200,0
+Croacia,-7,-2
+Croacia,-10,-2
+Croacia,12,5
+Croacia,8,3
+Croacia,200,0
+Cabo Verde,12,2
+Croacia,-200,0
+Croacia,12,3
+Cabo Verde,-200,0
+Croacia,-6,-4
+Croacia,200,0
+Curazao,Brasil,5,15
+Brasil,-1,1
+Brasil,-3,-2
+Brasil,-2,0
+Curazao,-1,-2
+Curazao,2,-2
+Curazao,3,1
+Curazao,7,2
+Brasil,-1,1
+Curazao,-3,-3
+Curazao,200,0
+Curazao,-5,3
+Brasil,-2,3
+Curazao,6,-1
+Curazao,0,1
+Curazao,4,2
+Brasil,-4,2
+Curazao,2,0
+Brasil,-4,-1
+Curazao,0,3
+Curazao,200,0
+Brasil,2,-1
+Brasil,-8,0
+Brasil,-8,-2
+Curazao,5,0
+Curazao,-5,2
+Curazao,4,2
+Brasil,200,0
+Curazao,7,-1
+Brasil,-6,0
+Curazao,3,-1
+Brasil,5,-2
+Brasil,-8,2
+Curazao,5,3
+Brasil,-1,-2
+Curazao,-7,-2
+Brasil,2,-3
+Brasil,-8,-2
+Ecuador,Bosnia y Herzegovina,9,23
+Ecuador,3,-1
+Bosnia y Herzegovina,-12,-1
+Ecuador,11,2
+Bosnia y Herzegovina,7,3
+Bosnia y Herzegovina,0,-4
+Bosnia y Herzegovina,-3,1
+Bosnia y Herzegovina,1,4
+Ecuador,-5,-5
+Bosnia y Herzegovina,12,0
+Bosnia y Herzegovina,8,4
+Ecuador,8,4
+Bosnia y Herzegovina,10,4
+Ecuador,5,1
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,6,4
+Ecuador,0,3
+Bosnia y Herzegovina,9,1
+Ecuador,4,-4
+Ecuador,-5,-5
+Ecuador,-2,4
+Bosnia y Herzegovina,-1,2
+Egipto,Bélgica,13,27
+Egipto,-10,-6
+Bélgica,-5,7
+Egipto,8,-1
+Bélgica,-2,0
+Egipto,1,6
+Bélgica,9,1
+Egipto,8,-7
+Bélgica,-3,-1
+Bélgica,12,-1
+Bélgica,-5,-3
+Egipto,-7,-7
+Bélgica,14,2
+Bélgica,6,7
+Egipto,-6,1
+Bélgica,11,0
+Bélgica,6,2
+Egipto,-12,6
+Egipto,8,2
+Bélgica,-1,-4
+Egipto,-13,7
+Bélgica,2,0
+Escocia,Austria,9,19
+Escocia,6,-1
+Austria,0,0
+Austria,-7,1
+Austria,200,0
+Escocia,200,0
+Escocia,-1,-5
+Austria,7,0
+Austria,200,0
+Escocia,8,1
+Austria,-3,-5
+Austria,9,0
+Escocia,-2,3
+Austria,-2,4
+Austria,-9,5
+Austria,8,-5
+Austria,8,-4
+Escocia,9,-5
+Austria,-1,4
+Austria,5,-3
+Escocia,-7,1
+Escocia,-200,0
+Austria,4,2
+Escocia,0,-4
+Escocia,-9,-1
+Escocia,-9,-1
+Escocia,4,-2
+Austria,2,2
+Escocia,-3,1
+Austria,-8,2
+Escocia,-2,-1
+Escocia,-9,4
+Austria,-2,0
+Escocia,4,-5
+Austria,-4,-1
+España,Australia,11,33
+España,200,0
+España,-3,1
+España,11,5
+Australia,-15,1
+España,2,-4
+España,2,3
+Australia,-5,-4
+España,15,-5
+Australia,0,-4
+Australia,-12,3
+España,5,5
+Australia,-2,-6
+España,7,5
+España,5,-1
+España,-12,6
+Australia,10,2
+Australia,-200,0
+España,-10,5
+España,6,-5
+España,-15,3
+Australia,-3,3
+Australia,-5,6
+Australia,4,-6
+Australia,-3,-1
+Australia,5,0
+Australia,-5,3
+España,-7,-2
+España,-12,2
+España,8,5
+España,5,3
+España,16,3
+España,-16,-2
+España,-6,2
+Australia,12,-2
+España,-200,0
+Australia,-3,-6
+España,-200,0
+España,200,0
+España,-6,0
+España,16,-2
+España,-200,0
+Australia,11,2
+Australia,14,-1
+España,8,3
+Australia,12,-4
+Australia,7,-1
+Australia,-1,-5
+Australia,-200,0
+Estados Unidos,Argentina,7,19
+Estados Unidos,7,4
+Argentina,-10,1
+Argentina,-2,-2
+Argentina,-9,0
+Argentina,4,0
+Estados Unidos,2,2
+Argentina,-2,-1
+Argentina,-3,-1
+Argentina,0,2
+Argentina,9,2
+Estados Unidos,5,1
+Estados Unidos,-1,4
+Argentina,-7,4
+Argentina,3,4
+Estados Unidos,6,3
+Estados Unidos,0,0
+Estados Unidos,-8,-4
+Argentina,-3,-1
+Argentina,8,-3
+Argentina,10,-1
+Estados Unidos,5,-4
+Estados Unidos,1,-1
+Argentina,7,2
+Argentina,8,-4
+Estados Unidos,-10,0
+Estados Unidos,-9,4
+Estados Unidos,10,3
+Argentina,-1,-4
+Estados Unidos,-2,2
+Argentina,-6,1
+Arabia Saudita,Argelia,15,23
+Argelia,9,-4
+Argelia,-4,2
+Arabia Saudita,12,4
+Argelia,-8,3
+Arabia Saudita,200,0
+Argelia,4,-7
+Argelia,-8,-4
+Argelia,-9,-1
+Arabia Saudita,11,1
+Argelia,8,6
+Arabia Saudita,-1,-6
+Argelia,12,0
+Arabia Saudita,0,2
+Argelia,-7,1
+Arabia Saudita,-4,4
+Argelia,6,3
+Arabia Saudita,-8,-7
+Arabia Saudita,8,4
+Argelia,11,2
+Argelia,200,0
+Argelia,-11,-8
+Arabia Saudita,200,0
+Arabia Saudita,2,8
+Arabia Saudita,-10,-5
+Argelia,1,-1
+Arabia Saudita,10,-3
+Arabia Saudita,11,1
+Argelia,9,1
+Arabia Saudita,2,-5
+Arabia Saudita,5,7
+Arabia Saudita,-200,0
+Arabia Saudita,-200,0
+Arabia Saudita,8,-7
+Argelia,-1,-1
+Arabia Saudita,-1,-5
+Arabia Saudita,1,0
+Arabia Saudita,0,7
+Arabia Saudita,-2,3
+Arabia Saudita,7,4
+Argelia,8,-7
+Argelia,4,6
+Argelia,-12,-2
+Argelia,7,-5
+Arabia Saudita,-4,5
+Arabia Saudita,-12,8
+Argelia,-3,0
+Fecha 11
+Alemania,Catar,15,29
+Alemania,200,0
+Alemania,-8,-6
+Alemania,-9,8
+Catar,-1,-2
+Catar,4,-8
+Catar,-1,-7
+Catar,-10,8
+Catar,-15,5
+Alemania,-13,5
+Catar,-13,-3
+Catar,-14,5
+Catar,-6,-1
+Alemania,-8,-4
+Alemania,7,1
+Alemania,7,3
+Alemania,-200,0
+Catar,-8,-2
+Catar,-5,5
+Catar,11,8
+Alemania,1,3
+Catar,-7,-2
+Catar,-200,0
+Catar,-12,0
+Alemania,-3,7
+Catar,12,-7
+Catar,-200,0
+Alemania,-7,-7
+Alemania,-13,-8
+Catar,13,-8
+Alemania,-14,2
+Alemania,11,2
+Alemania,-15,-1
+Catar,13,-4
+Alemania,1,-8
+Alemania,-2,-5
+Catar,6,-5
+Catar,-15,-8
+Catar,5,7
+Catar,8,7
+Catar,2,2
+Catar,1,4
+Alemania,1,-4
+Catar,14,5
+Alemania,13,8
+Catar,-7,-2
+Catar,-15,4
+Alemania,-14,-2
+Alemania,5,-6
+Alemania,-5,8
+Alemania,-9,2
+Colombia,Canadá,5,31
+Canadá,-8,0
+Colombia,-1,-1
+Colombia,-10,-2
+Colombia,6,0
+Canadá,8,2
+Colombia,-2,2
+Colombia,-11,1
+Colombia,-14,3
+Colombia,-16,1
+Colombia,15,2
+Colombia,-10,2
+Canadá,-11,1
+Canadá,-10,-1
+Canadá,-10,-1
+Colombia,2,1
+Canadá,-11,-1
+Canadá,3,-1
+Colombia,-5,1
+Canadá,5,3
+Canadá,-11,2
+Colombia,13,0
+Canadá,8,3
+Canadá,-1,0
+Colombia,200,0
+Canadá,8,2
+Colombia,12,-2
+Colombia,5,3
+Canadá,-2,1
+Colombia,-1,0
+Canadá,-13,2
+Corea del Sur,Cabo Verde,11,21
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Corea del Sur,200,0
+Cabo Verde,6,-1
+Cabo Verde,-3,-6
+Corea del Sur,1,0
+Cabo Verde,200,0
+Corea del Sur,-11,-3
+Corea del Sur,-2,-5
+Cabo Verde,2,-5
+Cabo Verde,-4,1
+Cabo Verde,7,6
+Corea del Sur,200,0
+Cabo Verde,-200,0
+Cabo Verde,9,-3
+Cabo Verde,-5,-3
+Corea del Sur,-3,-4
+Cabo Verde,-3,-2
+Corea del Sur,-8,-1
+Corea del Sur,200,0
+Corea del Sur,8,5
+Corea del Sur,0,4
+Corea del Sur,-200,0
+Cabo Verde,1,6
+Cabo Verde,-3,5
+Corea del Sur,-10,-1
+Cabo Verde,-200,0
+Cabo Verde,200,0
+Cabo Verde,7,-6
+Corea del Sur,3,-4
+Cabo Verde,10,1
+Corea del Sur,5,1
+Corea del Sur,-200,0
+Cabo Verde,-6,-5
+Costa de Marfil,Brasil,7,25
+Brasil,2,-3
+Brasil,-1,-1
+Brasil,7,0
+Costa de Marfil,-6,-3
+Costa de Marfil,-11,-3
+Brasil,8,3
+Costa de Marfil,-3,0
+Costa de Marfil,-12,3
+Brasil,-3,-2
+Costa de Marfil,-8,-2
+Brasil,-5,-1
+Brasil,-5,1
+Costa de Marfil,2,-4
+Costa de Marfil,-13,4
+Costa de Marfil,2,0
+Brasil,-6,-3
+Costa de Marfil,-200,0
+Brasil,-1,-3
+Costa de Marfil,200,0
+Brasil,-11,-1
+Brasil,-12,2
+Brasil,3,-3
+Brasil,-4,-1
+Brasil,11,2
+Costa de Marfil,0,1
+Brasil,200,0
+Costa de Marfil,7,-3
+Costa de Marfil,-6,-2
+Brasil,-200,0
+Costa de Marfil,-6,1
+Costa de Marfil,-10,3
+Costa de Marfil,-9,-3
+Croacia,Bosnia y Herzegovina,13,23
+Bosnia y Herzegovina,2,-4
+Bosnia y Herzegovina,10,3
+Bosnia y Herzegovina,11,-7
+Bosnia y Herzegovina,-10,-7
+Bosnia y Herzegovina,2,5
+Bosnia y Herzegovina,11,0
+Croacia,10,5
+Bosnia y Herzegovina,-200,0
+Bosnia y Herzegovina,5,5
+Bosnia y Herzegovina,8,3
+Bosnia y Herzegovina,-4,-7
+Bosnia y Herzegovina,-4,2
+Croacia,-5,1
+Bosnia y Herzegovina,11,-2
+Croacia,-4,4
+Croacia,7,0
+Croacia,-7,-1
+Bosnia y Herzegovina,-9,-7
+Croacia,10,-6
+Bosnia y Herzegovina,-12,4
+Croacia,-2,5
+Croacia,11,2
+Croacia,200,0
+Croacia,-7,-6
+Bosnia y Herzegovina,-2,-2
+Croacia,-7,-1
+Croacia,0,0
+Croacia,200,0
+Bosnia y Herzegovina,-3,-7
+Croacia,-8,2
+Croacia,0,0
+Croacia,-5,5
+Bosnia y Herzegovina,1,7
+Croacia,-5,6
+Croacia,-2,-2
+Croacia,-7,-5
+Croacia,10,-4
+Croacia,-3,6
+Croacia,-3,6
+Curazao,Bélgica,7,25
+Bélgica,-1,4
+Curazao,200,0
+Bélgica,12,-4
+Bélgica,3,4
+Curazao,0,-3
+Curazao,200,0
+Bélgica,-11,3
+Curazao,-200,0
+Curazao,-13,-2
+Curazao,200,0
+Bélgica,4,0
+Curazao,-4,-3
+Curazao,200,0
+Curazao,-6,4
+Curazao,-7,-4
+Curazao,4,1
+Curazao,6,-4
+Bélgica,-200,0
+Curazao,12,-1
+Curazao,7,-3
+Bélgica,-10,-2
+Curazao,13,1
+Curazao,10,-2
+Bélgica,3,-4
+Curazao,-3,-1
+Curazao,-200,0
+Bélgica,6,-2
+Curazao,4,-2
+Bélgica,-1,4
+Curazao,-1,4
+Bélgica,1,3
+Bélgica,0,-4
+Curazao,8,4
+Bélgica,200,0
+Curazao,-200,0
+Curazao,1,2
+Bélgica,-12,0
+Bélgica,3,1
+Curazao,-9,-3
+Curazao,-3,1
+Bélgica,7,4
+Curazao,6,1
+Curazao,10,-2
+Bélgica,3,-4
+Bélgica,5,3
+Curazao,200,0
+Curazao,4,0
+Ecuador,Austria,7,35
+Austria,7,-3
+Ecuador,17,3
+Austria,3,3
+Ecuador,18,-3
+Austria,-10,2
+Ecuador,9,1
+Austria,-18,3
+Ecuador,13,3
+Austria,13,-3
+Ecuador,-7,-4
+Austria,-15,2
+Ecuador,-13,0
+Austria,18,-3
+Austria,3,-4
+Austria,8,1
+Austria,18,-3
+Ecuador,200,0
+Austria,7,-1
+Ecuador,8,-2
+Ecuador,3,-2
+Ecuador,17,3
+Ecuador,18,4
+Ecuador,200,0
+Ecuador,-6,-4
+Ecuador,-14,-3
+Austria,7,-1
+Ecuador,18,4
+Austria,11,-1
+Ecuador,8,-1
+Austria,-200,0
+Ecuador,0,-2
+Ecuador,-16,3
+Austria,-4,-4
+Ecuador,-3,1
+Austria,-17,2
+Ecuador,-10,2
+Ecuador,10,2
+Austria,9,-1
+Ecuador,-2,2
+Austria,-14,4
+Ecuador,-15,-1
+Austria,-7,-4
+Austria,10,2
+Ecuador,-11,-3
+Egipto,Australia,15,35
+Australia,8,-8
+Egipto,-18,-3
+Egipto,17,-4
+Egipto,-16,-6
+Egipto,200,0
+Egipto,11,3
+Egipto,-200,0
+Australia,3,-8
+Egipto,-3,2
+Egipto,-12,8
+Egipto,13,-5
+Australia,-9,6
+Egipto,1,-4
+Egipto,-200,0
+Egipto,-5,0
+Australia,-13,-3
+Australia,-200,0
+Australia,15,5
+Australia,15,-7
+Australia,15,1
+Egipto,-200,0
+Egipto,18,-3
+Egipto,8,4
+Egipto,-18,6
+Australia,14,1
+Australia,-13,6
+Australia,-7,-6
+Australia,15,-3
+Escocia,Argentina,9,21
+Argentina,2,-4
+Escocia,11,4
+Escocia,-1,5
+Argentina,3,2
+Argentina,2,3
+Argentina,-6,2
+Argentina,-200,0
+Escocia,-10,1
+Argentina,6,2
+Argentina,-10,-2
+Argentina,-5,0
+Argentina,-4,3
+Escocia,11,1
+Argentina,-200,0
+Escocia,-6,5
+Escocia,-11,5
+Argentina,4,1
+Escocia,2,0
+Argentina,-6,4
+Argentina,-6,2
+España,Argelia,7,23
+Argelia,-4,4
+España,-9,1
+Argelia,200,0
+Argelia,-9,2
+España,11,-1
+Argelia,5,3
+España,-4,4
+Argelia,200,0
+España,-200,0
+Argelia,-6,3
+Argelia,-7,-3
+España,6,1
+Argelia,0,3
+España,7,4
+España,-5,4
+España,200,0
+España,8,-2
+España,-200,0
+Argelia,-9,0
+Argelia,-6,1
+Estados Unidos,Arabia Saudita,9,31
+Estados Unidos,200,0
+Estados Unidos,-200,0
+Arabia Saudita,-13,5
+Arabia Saudita,-5,-1
+Arabia Saudita,-8,1
+Estados Unidos,-6,-3
+Arabia Saudita,4,-5
+Arabia Saudita,14,3
+Estados Unidos,200,0
+Arabia Saudita,-4,5
+Arabia Saudita,-16,5
+Estados Unidos,4,0
+Estados Unidos,-3,-5
+Estados Unidos,12,-3
+Arabia Saudita,-2,-2
+Estados Unidos,15,0
+Arabia Saudita,200,0
+Arabia Saudita,-7,-4
+Arabia Saudita,-7,1
+Arabia Saudita,-10,3
+Arabia Saudita,11,4
+Arabia Saudita,-6,-5
+Arabia Saudita,-4,-1
+Arabia Saudita,2,-3
+Estados Unidos,16,2
+Estados Unidos,-200,0
+Arabia Saudita,-6,4
+Arabia Saudita,-200,0
+Estados Unidos,-15,-2
+Estados Unidos,7,-4
+Arabia Saudita,11,1
+Estados Unidos,8,-4
+Estados Unidos,16,-5
+Arabia Saudita,0,-4
+Estados Unidos,-7,-4
+Estados Unidos,-12,-4
+Estados Unidos,16,-1
+Arabia Saudita,1,-5
+Arabia Saudita,-200,0
+Arabia Saudita,0,-1
+Estados Unidos,14,-2
+Estados Unidos,-3,2
+Arabia Saudita,16,2
+Arabia Saudita,-5,-2
+Arabia Saudita,5,0
+Estados Unidos,7,-4
+Arabia Saudita,-14,5
+Fecha 12
+Alemania,Canadá,7,17
+Canadá,-3,1
+Canadá,-200,0
+Alemania,-7,1
+Canadá,-5,4
+Canadá,7,1
+Alemania,8,2
+Alemania,-3,-4
+Alemania,1,0
+Alemania,-2,3
+Canadá,4,2
+Canadá,-5,-2
+Alemania,8,-4
+Alemania,-5,0
+Alemania,200,0
+Alemania,9,2
+Alemania,7,-2
+Alemania,-6,3
+Alemania,-6,4
+Alemania,5,3
+Canadá,-4,0
+Alemania,-6,2
+Canadá,-6,2
+Canadá,0,-2
+Canadá,-2,4
+Alemania,-6,-2
+Alemania,200,0
+Alemania,-3,-3
+Canadá,-6,1
+Canadá,7,2
+Canadá,4,3
+Alemania,1,-1
+Canadá,200,0
+Alemania,3,1
+Canadá,-3,3
+Alemania,2,2
+Canadá,-5,1
+Catar,Cabo Verde,13,31
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Cabo Verde,-200,0
+Catar,-200,0
+Cabo Verde,16,-7
+Catar,2,7
+Catar,7,-7
+Cabo Verde,9,0
+Catar,0,-1
+Catar,0,-6
+Catar,200,0
+Cabo Verde,14,-1
+Catar,13,4
+Catar,-6,6
+Catar,-200,0
+Cabo Verde,200,0
+Cabo Verde,-5,3
+Catar,16,-5
+Catar,13,-5
+Catar,-10,1
+Catar,9,-2
+Cabo Verde,-6,-5
+Catar,-11,-3
+Catar,5,-1
+Colombia,Brasil,9,19
+Brasil,-9,4
+Brasil,0,-2
+Colombia,-7,-4
+Brasil,-200,0
+Colombia,2,5
+Brasil,5,5
+Colombia,200,0
+Colombia,9,5
+Brasil,-200,0
+Brasil,6,-1
+Colombia,4,2
+Colombia,3,-5
+Brasil,-4,-4
+Brasil,-8,-2
+Brasil,9,-1
+Colombia,-10,-1
+Colombia,0,0
+Colombia,6,-4
+Colombia,9,2
+Colombia,-4,2
+Colombia,-7,3
+Brasil,-8,-2
+Brasil,10,1
+Brasil,-200,0
+Colombia,-8,1
+Colombia,-8,5
+Brasil,7,-3
+Brasil,-8,0
+Brasil,-9,-1
+Brasil,0,-4
+Brasil,6,3
+Colombia,8,1
+Colombia,-10,-5
+Brasil,-7,0
+Colombia,8,-1
+Brasil,10,2
+Colombia,-6,-3
+Colombia,-2,-3
+Brasil,-1,4
+Brasil,-2,-1
+Colombia,-10,1
+Brasil,-8,2
+Colombia,-10,2
+Colombia,-1,3
+Colombia,1,3
+Colombia,-3,-1
+Corea del Sur,Bosnia y Herzegovina,11,31
+Corea del Sur,-9,-2
+Corea del Sur,-5,4
+Corea del Sur,5,4
+Corea del Sur,12,-2
+Bosnia y Herzegovina,-4,2
+Corea del Sur,-2,-5
+Corea del Sur,200,0
+Corea del Sur,-3,-1
+Bosnia y Herzegovina,-2,-1
+Corea del Sur,5,4
+Bosnia y Herzegovina,3,3
+Bosnia y Herzegovina,-5,-3
+Bosnia y Herzegovina,200,0
+Corea del Sur,-12,-1
+Corea del Sur,-3,-3
+Bosnia y Herzegovina,10,-5
+Bosnia y Herzegovina,-2,-1
+Bosnia y Herzegovina,1,-6
+Bosnia y Herzegovina,-14,-4
+Bosnia y Herzegovina,-12,5
+Bosnia y Herzegovina,8,2
+Bosnia y Herzegovina,1,-2
+Bosnia y Herzegovina,-13,6
+Bosnia y Herzegovina,16,6
+Costa de Marfil,Bélgica,15,33
+Bélgica,17,-5
+Costa de Marfil,-16,7
+Costa de Marfil,17,1
+Costa de Marfil,3,-3
+Bélgica,200,0
+Bélgica,-200,0
+Bélgica,-15,8
+Bélgica,14,7
+Costa de Marfil,8,7
+Bélgica,-14,3
+Costa de Marfil,11,4
+Bélgica,-4,4
+Costa de Marfil,-14,1
+Costa de Marfil,-12,-7
+Bélgica,11,-4
+Bélgica,16,0
+Bélgica,200,0
+Costa de Marfil,12,-1
+Bélgica,-9,4
+Bélgica,6,-2
+Bélgica,10,2
+Bélgica,3,-6
+Costa de Marfil,8,4
+Costa de Marfil,-11,4
+Bélgica,16,-4
+Bélgica,16,-5
+Costa de Marfil,2,4
+Costa de Marfil,5,-3
+Costa de Marfil,-200,0
+Bélgica,200,0
+Costa de Marfil,12,7
+Costa de Marfil,-9,0
+Bélgica,-10,-4
+Bélgica,0,0
+Bélgica,2,-7
+Bélgica,15,-4
+Bélgica,17,-5
+Costa de Marfil,13,-3
+Costa de Marfil,10,-5
+Costa de Marfil,-4,-8
+Bélgica,16,-5
+Croacia,Austria,7,27
+Croacia,7,0
+Austria,-12,-4
+Croacia,-6,-1
+Croacia,-4,-4
+Austria,-11,-2
+Austria,200,0
+Austria,1,0
+Austria,-200,0
+Croacia,8,4
+Croacia,-12,1
+Croacia,2,-4
+Austria,-6,1
+Austria,-6,-2
+Croacia,-1,3
+Austria,6,-3
+Austria,5,2
+Croacia,-200,0
+Croacia,10,0
+Croacia,200,0
+Croacia,5,3
+Austria,10,3
+Austria,-10,0
+Croacia,-200,0
+Austria,-2,-4
+Croacia,8,-2
+Croacia,2,-3
+Austria,13,2
+Austria,-12,-4
+Austria,-200,0
+Croacia,-12,-4
+Croacia,-10,1
+Austria,-4,2
+Croacia,-14,-3
+Croacia,5,-3
+Austria,12,-4
+Austria,14,4
+Austria,3,-3
+Croacia,14,2
+Austria,-14,1
+Croacia,5,4
+Croacia,-7,1
+Austria,-9,-4
+Croacia,-14,-4
+Austria,-4,1
+Austria,8,-4
+Austria,1,4
+Austria,-7,4
+Austria,-12,3
+Austria,7,-3
+Austria,14,3
+Curazao,Australia,7,33
+Curazao,-2,3
+Curazao,200,0
+Australia,5,-1
+Australia,14,0
+Curazao,200,0
+Curazao,-6,-4
+Curazao,9,4
+Australia,-1,-1
+Australia,16,-1
+Curazao,-200,0
+Australia,17,2
+Curazao,-10,-2
+Curazao,9,3
+Australia,-9,-3
+Australia,-200,0
+Curazao,12,3
+Australia,-17,4
+Curazao,-13,2
+Australia,2,-2
+Curazao,10,2
+Curazao,200,0
+Curazao,-7,3
+Australia,2,1
+Australia,-200,0
+Ecuador,Argentina,13,29
+Argentina,9,-1
+Ecuador,-5,-2
+Ecuador,13,2
+Argentina,7,-1
+Argentina,2,-7
+Argentina,200,0
+Argentina,-15,-2
+Argentina,12,-5
+Argentina,15,-5
+Ecuador,-200,0
+Ecuador,-13,-4
+Ecuador,14,0
+Ecuador,14,-4
+Ecuador,-2,-7
+Argentina,-6,0
+Argentina,14,-3
+Argentina,1,1
+Argentina,5,-3
+Ecuador,-5,4
+Ecuador,13,3
+Ecuador,-200,0
+Argentina,12,-2
+Argentina,6,5
+Ecuador,6,2
+Argentina,8,-4
+Ecuador,-12,6
+Argentina,-5,-5
+Argentina,11,2
+Argentina,3,-3
+Ecuador,-13,3
+Argentina,-3,-4
+Argentina,8,1
+Argentina,-13,0
+Argentina,1,6
+Argentina,-9,-4
+Egipto,Argelia,5,27
+Argelia,-9,-1
+Argelia,8,-3
+Egipto,12,3
+Argelia,-9,0
+Egipto,4,-3
+Argelia,3,0
+Argelia,200,0
+Argelia,6,-2
+Argelia,-3,0
+Egipto,12,-3
+Argelia,4,3
+Egipto,1,3
+Egipto,-8,-3
+Egipto,200,0
+Argelia,-6,-1
+Argelia,-11,-3
+Egipto,0,-1
+Egipto,-3,-2
+Argelia,-5,1
+Egipto,-5,2
+Egipto,0,-1
+Argelia,10,1
+Egipto,5,-1
+Egipto,8,-3
+Egipto,-7,0
+Egipto,-3,2
+Argelia,-2,-2
+Argelia,200,0
+Argelia,-5,1
+Egipto,6,-2
+Egipto,-6,3
+Egipto,-8,-3
+Egipto,5,0
+Argelia,3,2
+Argelia,-10,-1
+Argelia,13,2
+Egipto,-4,1
+Egipto,12,2
+Egipto,-4,-1
+Argelia,-14,-1
+Egipto,-200,0
+Argelia,-8,3
+Argelia,12,-1
+Argelia,9,2
+Egipto,11,0
+Escocia,Arabia Saudita,11,19
+Arabia Saudita,-7,-4
+Escocia,3,4
+Arabia Saudita,9,-2
+Escocia,-2,3
+Escocia,5,2
+Arabia Saudita,-7,4
+Escocia,3,3
+Escocia,-9,-4
+Escocia,-9,-4
+Escocia,200,0
+Escocia,-1,-2
+Arabia Saudita,-1,-2
+Arabia Saudita,4,-2
+Arabia Saudita,-1,-3
+Escocia,9,1
+Arabia Saudita,-200,0
+Arabia Saudita,-9,0
+Escocia,-10,-5
+Arabia Saudita,4,-4
+Escocia,9,-5
+Arabia Saudita,-2,6
+Arabia Saudita,0,4
+Escocia,2,-6
+Escocia,-3,4
+Arabia Saudita,200,0
+Arabia Saudita,-6,2
+Escocia,0,-6
+Escocia,0,-6
+Escocia,-5,-4
+Arabia Saudita,2,-1
+Arabia Saudita,2,2
+Arabia Saudita,-5,2
+Escocia,-1,-1
+Escocia,-5,-6
+Escocia,2,-5
+Arabia Saudita,-2,3
+Escocia,-5,1
+Escocia,-1,-4
+España,Estados Unidos,5,27
+Estados Unidos,-5,0
+Estados Unidos,7,0
+España,-9,3
+Estados Unidos,4,3
+Estados Unidos,4,3
+España,-10,0
+Estados Unidos,-1,1
+España,7,1
+España,-200,0
+Estados Unidos,4,-1
+España,7,3
+España,14,1
+Estados Unidos,7,2
+Estados Unidos,-9,0
+España,-9,0
+España,14,-2
+Estados Unidos,1,-2
+Estados Unidos,12,2
+España,4,1
+España,-9,3
+España,5,-2
+España,4,2
+Estados Unidos,-14,2
+España,1,0
+Estados Unidos,7,2
+España,-13,-1
+España,-1,-3
+Estados Unidos,-5,0
+Estados Unidos,14,-3
+Estados Unidos,11,3
+España,-200,0
+España,0,0
+Estados Unidos,-2,2
+Estados Unidos,-12,-2
+España,-3,-1
+España,-5,0
+España,200,0
+España,-200,0

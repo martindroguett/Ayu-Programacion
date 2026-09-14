@@ -1,0 +1,24 @@
+Región de Coquimbo,3
+La Serena,3,18.5,19.2,19.8
+Coquimbo,2,18.1,19.0
+Ovalle,3,17.9,18.3,18.6
+Región de Valparaíso,3
+Valparaíso,3,19.8,20.2,21.1
+Viña del Mar,5,19.5,20.0,21.1,25.5,19.0
+Quillota,3,20.7,21.4,21.6
+Región del Biobío,4
+Concepción,3,18.9,19.4,19.8
+Talcahuano,2,19.1,19.7
+Chillán,3,18.5,19.0,19.3
+Los Ángeles,2,18.8,19.2
+Región de La Araucanía,3
+Temuco,3,11.6,9.2,10.4
+Villarrica,2,17.9,18.1
+Pucón,3,17.8,18.0,18.3
+Región de Los Lagos,3
+Puerto Montt,3,16.5,17.0,17.2
+Osorno,2,16.8,17.1
+Castro,3,16.2,16.7,17.0
+Región de Magallanes,2
+Punta Arenas,3,-2.5,-1.8,-3.0
+Puerto Natales,2,-1.7,-2.3

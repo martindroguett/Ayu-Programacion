@@ -1,0 +1,315 @@
+Partida 1: pablo, maria, luis
+Tablero: 11x11 (121 casillas).
+
+vuelta 1
+pablo lanza 4. Posición: 4. (Inicio: 0)
+maria lanza 6. Posición: 6. (Inicio: 0)
+luis lanza 2. Posición: 2. (Inicio: 0)
+
+Clasificación Vuelta 1:
+No hubo movimientos significativos.
+
+1 - maria: (Posición 6)
+2 - pablo: (Posición 4)
+3 - luis: (Posición 2)
+
+vuelta 2
+pablo lanza 5. Posición: 9. (Inicio: 4)
+maria lanza 1. Posición: 7. (Inicio: 6)
+luis lanza 3. Posición: 5. (Inicio: 2) -> ¡Atajo a 29! (E1->e1: 5->29)
+
+Clasificación Vuelta 2:
+luis avanzó gracias a escalera (E1 -> e1)
+
+1 - luis: (Posición 29)
+2 - pablo: (Posición 9)
+3 - maria: (Posición 7)
+
+vuelta 3
+pablo lanza 6. Posición: 15. (Inicio: 9)
+maria lanza 5. Posición: 12. (Inicio: 7)
+luis lanza 4. Posición: 33. (Inicio: 29)
+
+Clasificación Vuelta 3:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 33)
+2 - pablo: (Posición 15)
+3 - maria: (Posición 12)
+
+vuelta 4
+pablo lanza 3. Posición: 18. (Inicio: 15)
+maria lanza 2. Posición: 14. (Inicio: 12)
+luis lanza 1. Posición: 34. (Inicio: 33)
+
+Clasificación Vuelta 4:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 34)
+2 - pablo: (Posición 18)
+3 - maria: (Posición 14)
+
+vuelta 5
+pablo lanza 1. Posición: 19. (Inicio: 18)
+maria lanza 6. Posición: 20. (Inicio: 14)
+luis lanza 5. Posición: 39. (Inicio: 34)
+
+Clasificación Vuelta 5:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 39)
+2 - maria: (Posición 20)
+3 - pablo: (Posición 19)
+
+vuelta 6
+pablo lanza 6. Posición: 25. (Inicio: 19)
+maria lanza 4. Posición: 24. (Inicio: 20)
+luis lanza 6. Posición: 45. (Inicio: 39)
+
+Clasificación Vuelta 6:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 45)
+2 - pablo: (Posición 25)
+3 - maria: (Posición 24)
+
+vuelta 7
+pablo lanza 6. Posición: 31. (Inicio: 25)
+maria lanza 3. Posición: 27. (Inicio: 24)
+luis lanza 2. Posición: 47. (Inicio: 45)
+
+Clasificación Vuelta 7:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 47)
+2 - pablo: (Posición 31)
+3 - maria: (Posición 27)
+
+vuelta 8
+pablo lanza 6. Posición: 37. (Inicio: 31)
+maria lanza 1. Posición: 28. (Inicio: 27)
+luis lanza 5. Posición: 52. (Inicio: 47)
+
+Clasificación Vuelta 8:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 52)
+2 - pablo: (Posición 37)
+3 - maria: (Posición 28)
+
+vuelta 9
+pablo lanza 6. Posición: 43. (Inicio: 37)
+maria lanza 6. Posición: 34. (Inicio: 28)
+luis lanza 6. Posición: 58. (Inicio: 52)
+
+Clasificación Vuelta 9:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 58)
+2 - pablo: (Posición 43)
+3 - maria: (Posición 34)
+
+vuelta 10
+pablo lanza 6. Posición: 49. (Inicio: 43)
+maria lanza 4. Posición: 38. (Inicio: 34)
+luis lanza 6. Posición: 64. (Inicio: 58)
+
+Clasificación Vuelta 10:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 64)
+2 - pablo: (Posición 49)
+3 - maria: (Posición 38)
+
+vuelta 11
+pablo lanza 6. Posición: 55. (Inicio: 49)
+maria lanza 6. Posición: 44. (Inicio: 38)
+luis lanza 5. Posición: 69. (Inicio: 64)
+
+Clasificación Vuelta 11:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 69)
+2 - pablo: (Posición 55)
+3 - maria: (Posición 44)
+
+vuelta 12
+pablo lanza 6. Posición: 61. (Inicio: 55)
+maria lanza 5. Posición: 49. (Inicio: 44)
+luis lanza 6. Posición: 75. (Inicio: 69)
+
+Clasificación Vuelta 12:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 75)
+2 - pablo: (Posición 61)
+3 - maria: (Posición 49)
+
+vuelta 13
+pablo lanza 6. Posición: 67. (Inicio: 61)
+maria lanza 5. Posición: 54. (Inicio: 49)
+luis lanza 6. Posición: 81. (Inicio: 75)
+
+Clasificación Vuelta 13:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 81)
+2 - pablo: (Posición 67)
+3 - maria: (Posición 54)
+
+vuelta 14
+pablo lanza 6. Posición: 73. (Inicio: 67)
+maria lanza 5. Posición: 59. (Inicio: 54)
+luis lanza 6. Posición: 87. (Inicio: 81)
+
+Clasificación Vuelta 14:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 87)
+2 - pablo: (Posición 73)
+3 - maria: (Posición 59)
+
+vuelta 15
+pablo lanza 4. Posición: 77. (Inicio: 73)
+maria lanza 1. Posición: 60. (Inicio: 59)
+luis lanza 1. Posición: 88. (Inicio: 87)
+
+Clasificación Vuelta 15:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 88)
+2 - pablo: (Posición 77)
+3 - maria: (Posición 60)
+
+vuelta 16
+pablo lanza 6. Posición: 83. (Inicio: 77)
+maria lanza 6. Posición: 66. (Inicio: 60)
+luis lanza 6. Posición: 94. (Inicio: 88)
+
+Clasificación Vuelta 16:
+No hubo movimientos significativos.
+
+1 - luis: (Posición 94)
+2 - pablo: (Posición 83)
+3 - maria: (Posición 66)
+
+vuelta 17
+pablo lanza 6. Posición: 89. (Inicio: 83) -> ¡Atajo a 70! (S1->s1: 89->70)
+maria lanza 6. Posición: 72. (Inicio: 66)
+luis lanza 6. Posición: 100. (Inicio: 94)
+
+Clasificación Vuelta 17:
+pablo retrocedió debido a serpiente (S1 -> s1)
+
+1 - luis: (Posición 100)
+2 - maria: (Posición 72)
+3 - pablo: (Posición 70)
+
+=============================================
+Ganador de la Partida: luis, en la vuelta 17 (Partida finalizada por límite de vueltas).
+Clasificación Final:
+1 - luis: (Posición 100)
+2 - maria: (Posición 72)
+3 - pablo: (Posición 70)
+=============================================
+
+Partida 2: pedro, ana, carlos, diana
+Tablero: 5x5 (25 casillas).
+
+vuelta 1
+pedro lanza 4. Posición: 4. (Inicio: 0) -> ¡Atajo a 20! (E1->e1: 4->20)
+ana lanza 1. Posición: 1. (Inicio: 0)
+carlos lanza 6. Posición: 6. (Inicio: 0)
+diana lanza 3. Posición: 3. (Inicio: 0)
+
+Clasificación Vuelta 1:
+pedro avanzó gracias a escalera (E1 -> e1)
+
+1 - pedro: (Posición 20)
+2 - carlos: (Posición 6)
+3 - diana: (Posición 3)
+4 - ana: (Posición 1)
+
+vuelta 2
+pedro lanza 3. Posición: 23. (Inicio: 20)
+ana lanza 5. Posición: 6. (Inicio: 1)
+carlos lanza 4. Posición: 10. (Inicio: 6)
+diana lanza 2. Posición: 5. (Inicio: 3)
+
+Clasificación Vuelta 2:
+No hubo movimientos significativos.
+
+1 - pedro: (Posición 23)
+2 - carlos: (Posición 10)
+3 - ana: (Posición 6)
+4 - diana: (Posición 5)
+
+vuelta 3
+pedro lanza 6. Posición: 23. (Se queda en 23)
+ana lanza 6. Posición: 12. (Inicio: 6)
+carlos lanza 1. Posición: 11. (Inicio: 10)
+diana lanza 5. Posición: 10. (Inicio: 5)
+
+Clasificación Vuelta 3:
+No hubo movimientos significativos.
+
+1 - pedro: (Posición 23)
+2 - ana: (Posición 12)
+3 - carlos: (Posición 11)
+4 - diana: (Posición 10)
+
+vuelta 4
+pedro lanza 5. Posición: 23. (Se queda en 23)
+ana lanza 6. Posición: 18. (Inicio: 12) -> ¡Atajo a 9! (S1->s1: 18->9)
+carlos lanza 2. Posición: 13. (Inicio: 11)
+diana lanza 4. Posición: 14. (Inicio: 10)
+
+Clasificación Vuelta 4:
+ana retrocedió debido a serpiente (S1 -> s1)
+
+1 - pedro: (Posición 23)
+2 - diana: (Posición 14)
+3 - carlos: (Posición 13)
+4 - ana: (Posición 9)
+
+vuelta 5
+pedro lanza 1. Posición: 24. (Inicio: 23)
+ana lanza 2. Posición: 11. (Inicio: 9)
+carlos lanza 6. Posición: 19. (Inicio: 13)
+diana lanza 5. Posición: 19. (Inicio: 14)
+
+Clasificación Vuelta 5:
+No hubo movimientos significativos.
+
+1 - pedro: (Posición 24)
+2 - diana: (Posición 19)
+3 - carlos: (Posición 19)
+4 - ana: (Posición 11)
+
+=============================================
+Ganador de la Partida: pedro, en la vuelta 5 (Partida finalizada por límite de vueltas).
+Clasificación Final:
+1 - pedro: (Posición 24)
+2 - diana: (Posición 19)
+3 - carlos: (Posición 19)
+4 - ana: (Posición 11)
+=============================================
+
+--- 4. Análisis Global del Torneo ---
+
+A. Ranking Histórico de Jugadores
+Ranking Global de Ganadores:
+1 - pedro: 1 Victorias (Suma Vueltas: 5)
+2 - luis: 1 Victorias (Suma Vueltas: 17)
+3 - ana: 0 Victorias (Suma Vueltas: N/A)
+4 - carlos: 0 Victorias (Suma Vueltas: N/A)
+5 - diana: 0 Victorias (Suma Vueltas: N/A)
+6 - maria: 0 Victorias (Suma Vueltas: N/A)
+7 - pablo: 0 Victorias (Suma Vueltas: N/A)
+
+Jugadores Nunca Ganadores: ana, carlos, diana, maria, pablo
+
+B. Análisis del Rendimiento y Eficiencia
+Uso de Atajos:
+Mayor Ganancia Neta por Escaleras: luis (Ganancia Total: 24 casillas)
+Mayor Pérdida Neta por Serpientes: pablo (Pérdida Total: 19 casillas)

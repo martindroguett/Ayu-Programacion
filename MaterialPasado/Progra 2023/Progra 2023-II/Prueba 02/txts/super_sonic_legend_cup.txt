@@ -1,0 +1,100 @@
+Serbia,Japan,4,9,Italy
+Azerbaijan,Sri Lanka,2,5,Indonesia
+Ireland,China,8,1,China
+Sweden,Vietnam,4,5,Colombia
+Russia,China,9,1,Indonesia
+China,Chile,7,8,Russia
+Denmark,Brazil,5,3,Iran
+Russia,Poland,9,6,China
+Syria,Greece,4,6,Laos
+Greece,Peru,6,8,France
+Greece,Norway,6,1,Japan
+China,France,7,7,China
+Morocco,France,1,1,Finland
+China,Brazil,6,1,Lithuania
+Chile,Slovenia,4,9,Poland
+Canada,China,9,1,Panama
+Finland,Sweden,8,1,Russia
+Chile,Poland,8,8,Thailand
+Japan,Russia,2,3,Indonesia
+Nicaragua,Kenya,8,8,Philippines
+China,Philippines,5,8,Brazil
+Russia,Sweden,1,7,Poland
+United States,Russia,3,4,Ivory Coast
+Russia,Chile,5,4,Denmark
+Russia,Tajikistan,3,10,United States
+China,Brazil,2,0,Zimbabwe
+Russia,Brazil,9,3,Malaysia
+Serbia,Philippines,2,6,Jordan
+Chile,South Africa,4,3,China
+Poland,Brazil,2,7,China
+Bosnia and Herzegovina,Indonesia,6,9,Thailand
+China,Philippines,7,9,Czech Republic
+Philippines,Philippines,9,1,Indonesia
+China,Russia,5,7,Brazil
+Iran,Japan,8,9,Japan
+Chile,El Salvador,8,4,Macedonia
+Colombia,Panama,5,2,Dominican Republic
+Samoa,Chile,5,10,Croatia
+Chile,Peru,2,1,Indonesia
+France,China,3,1,China
+Chile,Gambia,7,10,Mexico
+Sweden,Peru,4,10,China
+Brazil,Ukraine,7,3,Ivory Coast
+China,Thailand,8,0,China
+Philippines,Ethiopia,1,1,China
+China,Philippines,7,7,Portugal
+Chile,Guadeloupe,1,10,China
+Chile,Yemen,8,7,Philippines
+Chile,France,2,6,Indonesia
+Czech Republic,China,10,9,Russia
+Ukraine,Philippines,9,0,Nigeria
+Canada,Czech Republic,3,2,Serbia
+French Polynesia,Iran,2,3,France
+Kazakhstan,Chile,0,1,Russia
+Malta,China,9,7,Portugal
+Guadeloupe,Chile,3,1,France
+China,Chile,0,9,Myanmar
+Colombia,Chile,9,0,Philippines
+Laos,France,0,4,Greece
+Chile,France,3,4,Nigeria
+Czech Republic,Russia,0,7,Greece
+France,Argentina,3,0,Greece
+Chile,Thailand,4,8,Brazil
+Ukraine,Kosovo,1,6,Philippines
+China,Bolivia,4,7,Philippines
+France,China,1,0,Indonesia
+Slovenia,Sweden,6,2,Canada
+Chile,Afghanistan,8,3,Philippines
+Peru,Sweden,0,0,Thailand
+Dominican Republic,Brazil,10,4,Mongolia
+Peru,Philippines,4,1,France
+China,Russia,1,4,China
+Azerbaijan,Chile,6,9,Thailand
+Morocco,China,6,6,Israel
+Argentina,France,1,0,Philippines
+China,Mongolia,5,3,Indonesia
+Russia,Russia,2,1,Peru
+Chile,Czech Republic,6,9,Yemen
+Nicaragua,Japan,5,4,China
+China,Brazil,7,0,Russia
+Chile,China,0,3,Indonesia
+Russia,Ukraine,4,2,United States
+Russia,Chile,2,8,Armenia
+Chile,China,2,7,Czech Republic
+Philippines,Sweden,8,7,Argentina
+Argentina,Nigeria,7,7,Poland
+Macedonia,China,7,7,Honduras
+Philippines,Chile,8,0,Armenia
+Russia,Croatia,4,1,Ghana
+Czech Republic,China,9,1,Jamaica
+Cuba,Yemen,0,1,Poland
+Poland,Russia,9,9,Morocco
+Sweden,China,10,1,Argentina
+Sweden,Finland,1,0,Latvia
+France,China,10,10,Indonesia
+Venezuela,Poland,5,2,Morocco
+New Zealand,China,10,1,Syria
+Russia,Chile,0,10,Indonesia
+China,Philippines,5,5,Indonesia
+Philippines,Venezuela,3,1,Argentina

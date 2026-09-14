@@ -1,0 +1,4 @@
+caracteres_especiales = "!@#$%^&*()"
+numeros = "1234567890"
+letras = "abcdefghijklmnopqrstuvwxyz"
+vocales = "aeiou"

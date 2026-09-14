@@ -1,0 +1,5 @@
+Fideos con salsa,2,Fideos,Tomate
+Panqueques,3,Huevo,Harina,Leche
+Tortilla,2,Huevo,Tomate
+Galletas,2,Harina,Huevo
+Sopa,2,Fideos,Tomate

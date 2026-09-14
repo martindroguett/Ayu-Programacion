@@ -1,0 +1,32 @@
+Max Verstappen,Países Bajos,4
+2023,Circuito de Monza,Red Bull,1,25
+2019,Circuito de Spa-Francorchamps,Red Bull,2,18
+2019,Circuito de Suzuka,Red Bull,2,18
+2023,Circuito de Silverstone,Red Bull,3,15
+Lewis Hamilton,Reino Unido,4
+2023,Circuito de Silverstone,Mercedes,1,25
+2023,Circuito de Mónaco,Mercedes,4,12
+2019,Circuito de Interlagos,Mercedes,2,18
+2019,Circuito de Monza,Mercedes,5,10
+Charles Leclerc,Mónaco,3
+2019,Circuito de Bakú,Ferrari,2,18
+2020,Circuito de Monza,Ferrari,3,15
+2023,Circuito de Barcelona,Ferrari,2,18
+Fernando Alonso,España,4
+2023,Circuito de Mónaco,Aston Martin,2,18
+2020,Circuito de Silverstone,Aston Martin,3,15
+2019,Circuito de Suzuka,Aston Martin,4,12
+2019,Circuito de Interlagos,Aston Martin,2,18
+Lando Norris,Reino Unido,3
+2023,Circuito de Silverstone,McLaren,2,18
+2022,Circuito de Hungaroring,McLaren,3,15
+2023,Circuito de Singapur,McLaren,1,25
+Sergio Pérez,México,4
+2019,Circuito de Bakú,Red Bull,2,19
+2023,Circuito de Miami,Red Bull,2,18
+2020,Circuito de Mónaco,Red Bull,6,8
+2019,Circuito de Interlagos,Red Bull,3,15
+Carlos Sainz,España,3
+2022,Circuito de Monza,Ferrari,1,25
+2020,Circuito de Singapur,Ferrari,2,18
+2019,Circuito de Barcelona,Ferrari,4,12

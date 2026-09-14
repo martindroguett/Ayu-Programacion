@@ -1,0 +1,9 @@
+4
+5
+Horno eléctrico,40,50,1
+Horno a gas,100,100,3
+Horno industrial,250,150,10
+Gato amasador,500,200,5
+Fábrica pequeña,10000,1000,150
+Fábrica grande, 100000,5000,400
+Horno del Tío Cochino, 100000000000,1000000,100

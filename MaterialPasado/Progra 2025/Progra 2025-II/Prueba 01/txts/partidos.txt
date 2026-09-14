@@ -1,0 +1,28 @@
+Jornada1;6;15-03-2032
+Los Saxo,Xavineta FC,3,2,2,0,Coloso De Guayacan
+Sumario FC,Dison FCX,5,1,1,0,Sanchez Rumoroso
+Joga Pulento,Sierras FC,0,2,3,1,Coloso De Guayacan
+Swifties FC,Misioneros,4,1,2,0,La Portada
+Benjita y otros,Indu FC,2,2,4,0,Coloso De Guayacan
+Los Fragancias,Mankekitos,3,0,1,0,Sanchez Rumoroso
+Jornada2;5;22-03-2032
+Xavineta FC,Sumario FC,1,4,2,1,Coloso De Guayacan
+Dison FCX,Joga Pulento,3,3,5,0,La Portada
+Sierras FC,Swifties FC,1,4,1,0,Sanchez Rumoroso
+Misioneros,Benjita y otros,2,0,3,0,Estadio Municipal
+Indu FC,Los Fragancias,1,2,2,0,Coloso De Guayacan
+Jornada3;7;05-04-2032
+Sumario FC,Sierras FC,6,0,0,0,Coloso De Guayacan
+Joga Pulento,Misioneros,1,0,1,0,La Portada
+Swifties FC,Indu FC,3,1,2,0,Sanchez Rumoroso
+Benjita y otros,Los Fragancias,1,1,6,1,Coloso De Guayacan
+Los Saxo,Xavineta FC,4,2,3,0,Coloso De Guayacan
+Mankekitos,Dison FCX,2,3,4,1,La Portada
+Los Fragancias,Sumario FC,0,3,2,0,Estadio Municipal
+Jornada4;6;12-04-2032
+Xavineta FC,Joga Pulento,1,3,1,0,Sanchez Rumoroso
+Dison FCX,Swifties FC,0,5,3,1,Coloso De Guayacan
+Sierras FC,Benjita y otros,2,1,2,0,La Portada
+Misioneros,Los Fragancias,1,1,3,0,Estadio Municipal
+Indu FC,Mankekitos,2,3,4,0,Coloso De Guayacan
+Sumario FC,Los Saxo,4,2,1,0,Coloso De Guayacan

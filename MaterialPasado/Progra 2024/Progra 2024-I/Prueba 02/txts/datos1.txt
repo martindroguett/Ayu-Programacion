@@ -1,0 +1,1000 @@
+Bonita Dreghorn,911,2010,4.85
+Derrek Ullyatt,TT,2011,12.96
+Maryl Urian,T100 Xtra,1997,14.79
+Claire Lantaph,LTD,1986,14.01
+Cory Griggs,Bravada,1999,7.5
+Martin Rableau,Viper,2004,9.44
+Winne Bronger,RSX,2005,8.28
+Federico Hellewell,M Roadster,2006,7.36
+Guido Fonquernie,Regal,1995,10.31
+Margaret Daenen,Equinox,2010,5.7
+Thaxter Elsop,GL-Class,2012,6.39
+Giles Kuhnke,A8,1999,8.53
+Cloris Piele,Tahoe,2009,11.82
+Ernestus Cole,300SE,1992,3.57
+Park Maroney,CLS-Class,2007,14.65
+Elmira Auchinleck,QX56,2011,7.36
+Kain Knapton,Focus,2009,14.66
+Trula Madgwick,Mountaineer,2004,11.26
+Gusella Parker,Sienna,2012,2.74
+Zuzana Petrol,Alero,2004,2.28
+Jasmine Scarsbrook,Precis,1992,12.26
+Nicolette Manning,XC90,2011,5.37
+Jessamyn Brayne,Savana 1500,2009,3.03
+Skipper Antonelli,Passport,1995,4.82
+Fallon O'Shiels,Vitara,2001,4.79
+Bond Fishbourn,Corvette,2009,12.46
+Jobyna Murrell,STS-V,2006,13.44
+Saudra Inns,Suburban 1500,2002,14.2
+Nanine Tottem,Miata MX-5,1996,13.62
+Errol Yeoman,XK Series,2001,6.23
+Danica Blowes,Solstice,2007,3.78
+Augustine Halwell,LeMans,1993,12.63
+Lea Dufton,Z4,2004,3.18
+Ulysses Burle,Yukon,2001,5.41
+Desmond Shervil,Continental Mark VII,1988,7.23
+Toby Baus,Galant,2009,10.23
+Joeann Bonevant,Cobalt,2008,11.53
+Gayla Ingman,C8 Laviolette,2004,5.04
+Anselm Jessep,Esprit,1999,10.91
+Rori Cuffe,Astro,1998,13.1
+Meyer Di Pietro,Datsun/Nissan Z-car,1990,2.4
+Carolann Sandcraft,Aero 8,2006,11.2
+Josiah Decroix,Grand Vitara,2001,5.83
+Beryle Maltman,Loyale,1994,14.84
+Sofie Sonley,Escalade,2006,8.31
+Moyna Tidbold,929,1988,7.39
+Fredia Letham,F-Series,1990,14.78
+Taddeo Booij,Elantra,2007,11.64
+Dario Semechik,M5,1993,8.86
+Wolfgang Fessier,tC,2012,13.47
+Margeaux Piborn,MKT,2010,11.24
+Lutero Cleugh,GS,2008,2.19
+Ilario Stewart,Protege,1992,3.86
+Nickolas MacPeice,Commander,2006,13.02
+Kassia Whitwam,Corrado,1993,4.66
+Eugenia Spikings,Ram 3500,1999,12.06
+Guilbert Mateo,Datsun/Nissan Z-car,1990,9.04
+Kevyn Yarmouth,F250,1998,6.82
+Ronald Roncelli,4Runner,2001,4.03
+Tannie Nann,Firebird,1984,9.14
+Rory Stansby,ES,2010,6.34
+Sam Springtorp,612 Scaglietti,2008,7.11
+Monte Gledhall,Mariner,2006,6.77
+Doloritas Dearth,MDX,2007,11.35
+Frederik Boxer,944,1984,11.02
+Zsazsa Magnus,E350,2007,5.62
+Horatia Di Angelo,RDX,2009,9.72
+Ronny Birtwhistle,3 Series,1997,4.35
+Reinwald Sheal,Golf,1996,8.2
+Bernarr Storah,NSX,2004,14.93
+Abra Lownes,Swift,1990,10.57
+Foss Hamill,Contour,1999,12.96
+Lauryn Yeatman,Outback,2006,11.83
+Cthrine MacCaull,Ram 1500,1995,12.89
+Roland Thorowgood,Camry Hybrid,2009,5.79
+Darrick Wogden,A8,2004,7.25
+Prentice Soutar,Grand Voyager,1997,11.42
+Hanni Gorringe,Tribute,2009,7.2
+Schuyler Eustanch,400SEL,1993,2.55
+Sax Tomson,Savana 2500,2000,12.13
+Lanae Cussins,Express,2008,8.46
+Valle Neeves,Festiva,1993,12.91
+Nevin Rennels,X3,2006,8.43
+Emmalyn Castell,Sienna,2009,2.32
+Lily Deeth,Ram Wagon B150,1994,5.87
+Rickie Brodbin,Prelude,1996,5.15
+Hinda Devil,200,2012,14.29
+Beulah Moralas,Discovery,2007,10.96
+Desdemona Ericssen,Canyon,2008,11.95
+Giles Robroe,Continental GT,2012,6.76
+Massimiliano Maddern,Bronco,1987,12.63
+Emlynne Pevie,Esprit,2002,11.6
+Tobias Bischof,Virage,2012,6.94
+Esther Fleischmann,Bonneville,2001,5.87
+Anthe Ife,XC70,2012,6.08
+Patrice Cardero,Metro,1992,6.96
+Jacki Wickling,Skyhawk,1984,10.05
+Lonnard Le Maitre,Sable,2001,9.25
+Essy Mustoe,Sequoia,2006,3.98
+Sonnie Blackborough,G-Class,2004,10.78
+Jacenta Spinello,Fox,1987,7.07
+Winnie Patrie,Brat,1984,8.35
+Robbie Cossar,Range Rover,2000,10.47
+Vonny Boules,Dakota Club,1999,4.32
+Scotty Panther,Sephia,1996,2.49
+Keene Tattoo,Tercel,1997,13.62
+Raine Summergill,i-Series,2007,13.96
+Winni Lidgett,RX Hybrid,2007,13.08
+Marti Gluyas,SL-Class,1998,13.44
+Sela Baroche,Suburban 2500,1996,13.85
+Stavros Escolme,Suburban 1500,1997,9.09
+Coleman Bonhan,Vantage,2011,2.19
+Berti Itzhayek,Windstar,1996,5.09
+Woody Ruf,Land Cruiser,1997,8.89
+Gabriel Sawford,GTI,2009,10.13
+Gill Ridehalgh,MPV,1989,4.7
+Florri MacNeachtain,Town Car,1990,2.8
+Sidney Cyster,Eldorado,2001,14.27
+Cullan Mackro,GS,1999,6.83
+Noell Simcox,Camaro,1973,12.3
+Joete Wybern,Canyon,2006,4.17
+Sofie Hartless,Firebird Formula,1992,12.28
+Rip Benedite,Element,2004,14.79
+Charin Danzey,7 Series,2004,11.57
+Curry Pymar,Impreza,2003,4.92
+Drona Ferrarini,A3,2010,6.75
+Tessa Skinn,TT,2012,12.35
+Lauralee Mair,Firebird,1988,7.45
+Claudian Forsdyke,XJ,2007,7.41
+Stillmann Shoemark,Mountaineer,2004,12.78
+Donella Ingamells,A6,2008,8.26
+Tomas Gaul,QX,2012,14.28
+Frasquito Wrathmell,Paseo,1995,10.4
+Jdavie Nowak,S80,2012,6.49
+Colman Harriott,Riviera,1999,12.88
+Stacey Petrolli,900,1997,4.46
+Ashly Gee,Ram 2500 Club,1995,9.65
+Gwynne Loder,xA,2004,12.98
+Marleah Toulamain,7 Series,2003,14.44
+Balduin Corness,Sunbird,1988,12.45
+Vikki Worman,S-Class,1994,9.5
+Sherm Vasilchikov,MR2,2001,4.93
+Spencer Boldry,C70,2006,12.33
+Abdel Raymen,Z8,2002,14.76
+Kris Flatt,Tracker,1993,10.43
+Odelle Geleman,Freestar,2004,4.14
+Clemence Vossgen,Suburban 1500,1992,12.54
+Emmalynne MacNally,Maxima,2001,13.35
+Jori Shory,Lucerne,2006,14.29
+Veronica Yallowley,Q7,2007,5.68
+Robyn Dearsley,Astro,2001,9.72
+Gwenny Kunkler,SJ,1985,9.06
+Catha Wallege,5 Series,1998,11.53
+Barnie Witherspoon,MX-6,1994,10.84
+Marisa Lockhead,Pajero,1997,13.33
+Elbertina Phillott,RAV4,2012,6.87
+Sorcha Attersoll,CLK-Class,2000,13.39
+Jilleen Clougher,Xterra,2010,6.79
+Davin Josefsohn,Freestar,2004,4.98
+Lyman Mattys,5 Series,2002,12.66
+Sapphire Coultass,Intrepid,1998,8.7
+Margarete Wathen,A4,1997,10.12
+Anita Prestland,Legacy,1992,4.94
+Clywd Lauchlan,Miata MX-5,2012,12.74
+Hewet Dursley,Spyder,1990,8.02
+Efrem Bothie,Stratus,2005,4.17
+Lexine Pauluzzi,Express 1500,1998,11.65
+Rodd Cookley,E-Class,2007,7.04
+Lindy Embling,Equinox,2011,6.34
+Leland Chiswell,i-370,2007,8.34
+Estele Ornillos,M3,2008,3.83
+Gordy Melhuish,Navigator L,2012,12.74
+Amalie Langstaff,Prius c,2012,6.72
+Tobye Cresswell,Express 1500,2008,7.98
+Ethan Oakeshott,Firebird,1969,6.31
+Katuscha Raise,DTS,2009,7.35
+Hazel Thornewell,Range Rover,1992,7.34
+Feodor Rodman,Mountaineer,1999,3.65
+Augustine Salvati,Countryman,2012,9.17
+Demetri Wallen,Summit,1993,8.94
+Dotty Codner,Express 3500,2007,10.17
+Daren Gimenez,M,2007,3.79
+Rachele Gotthard,944,1985,13.14
+Auguste Husher,Sierra 1500,2009,11.74
+Avril Mardle,TundraMax,2009,3.84
+Barth Guillain,Yukon Denali,2000,8.05
+Cornie Abramowitch,Canyon,2012,6.84
+Clarisse Ryding,Quest,2000,12.4
+Danice Hancorn,Continental GT,2009,3.16
+Reggie Fulton,Savana 2500,2011,10.59
+Tracy Lambillion,Lumina APV,1993,12.61
+Kerstin Gelder,S-Class,1997,3.74
+Vidovic Steward,Tracer,1989,10.01
+Standford Stallan,Z4,2010,2.41
+Bart Paulisch,A6,2011,6.88
+Wilow Lummis,626,1989,10.49
+Sheila-kathryn Fallowes,2500,1997,10.59
+Leticia Wearing,SL-Class,2007,7.49
+Esme Wattingham,Diamante,1993,4.23
+Pooh Dienes,RX-7,1989,4.35
+Susette Banasevich,GTO,1999,3.57
+Lawry Noir,Civic,2001,8.35
+Lemmy Brogini,CL-Class,2005,12.2
+Amerigo McKeighan,X6,2009,6.55
+Flossy Goggen,Suburban 2500,1996,10.24
+Nelli Ricardet,Mini Cooper,1961,5.78
+Ceil Vales,E-Series,2011,5.88
+Becki Pedican,Savana 3500,1999,10.31
+Kain Hilland,Park Avenue,2000,5.24
+Catha Sibary,Crossfire,2007,2.49
+Anton Marton,M5,2008,9.7
+Vina Rubrow,S8,2003,4.55
+Gelya Nutley,C-Class,2009,9.73
+Tann Hairs,Challenger,1997,2.17
+Jacinthe Fraczak,CR-V,1997,8.91
+Morton Kopmann,F350,2005,9.3
+Sanders Brychan,Sentra,2005,10.28
+Quintilla Winley,Express 2500,2002,14.28
+Dalli Duckitt,Ram Van 1500,2003,14.64
+Gladi Riquet,SC,2006,3.15
+Lilia Stribling,Outlander,2005,3.47
+Crin Wixey,Lancer Evolution,2010,9.26
+Kyla Wolfindale,Rogue,2012,2.69
+Morry Vellender,Explorer Sport,2003,7.73
+Gwenny Evemy,MPV,2000,2.8
+Drucy Wyllcocks,A3,2006,6.17
+Trude Domonkos,Mountaineer,2000,11.24
+Nelia Sineath,Concorde,1997,7.97
+Nanon Enrique,S-Type,2008,7.8
+Niall Finessy,Express 2500,2002,10.65
+Dennie Ogelbe,Range Rover,1998,3.33
+Abbey Sailes,RL,2008,2.01
+Gillie Crozier,Discovery,1998,8.72
+Huberto Pinney,Laser,1990,14.59
+Carver Oldcroft,Passport,1996,3.2
+Diahann Pocklington,R-Class,2008,9.68
+Hanson Stanworth,XJ,2008,4.66
+Tammy Bryde,850,1995,4.04
+Brewer Tunna,Jetta,1991,7.31
+Esdras Passler,RX,2000,6.14
+Evvie Tainton,G,2009,12.36
+Damara Astill,B-Series Plus,1998,8.44
+Dougie Jerram,Escort,2001,3.25
+Celia Musson,LS,2010,13.42
+Bird O'Flaherty,6000,1989,11.07
+Thedric Jeannaud,Touareg,2003,14.98
+Arabela Kynder,Transit Connect,2010,7.58
+Ellary Furneaux,Mustang,1964,5.11
+Harvey Swales,Spectra,2009,10.65
+Letisha Gowen,Pajero,2005,2.54
+Latisha Grain,Suburban 2500,2006,4.22
+Gram Hibling,Pathfinder,2001,13.0
+Bell Dalzell,Cayenne,2010,12.43
+Georgeanna Truggian,TL,2007,7.32
+Kakalina Kayser,Trooper,1995,3.93
+Bonita Fadell,Echo,2005,12.24
+Henryetta Birchenhead,Sierra 2500,2001,6.89
+Corey Day,Ranger,1984,7.84
+Bobbie Garrity,Montego,2007,7.09
+Bat Kohneke,ES,2010,2.68
+Kleon Tutin,LX,2011,14.61
+Elbert Mitton,Land Cruiser,2007,11.85
+Carroll Neville,A8,2008,10.47
+Nathanil Grasner,DTS,2007,3.73
+Addia Huccaby,LeSabre,2002,4.18
+Andreana Semeniuk,Navigator,1998,8.51
+Kane Corragan,X-Type,2004,12.18
+Allyson Van,Bravada,1998,3.98
+Elana Durrand,Diamante,1994,2.68
+Mirelle Reen,6000,1987,6.99
+Ronda Brent,LSS,1998,13.82
+Vere Zorzetti,Eldorado,1993,12.65
+Saunderson Combe,LTD Crown Victoria,1989,13.32
+Adams Easterby,Shadow,1992,9.59
+Rodolfo Ilson,Mini Cooper,1964,5.69
+Katherina Carolan,RSX,2004,6.56
+Sybila Atherton,S80,2000,8.24
+Joly Gaskill,Patriot,2007,12.88
+Gussy Brimilcombe,Galant,1993,8.03
+Jourdain Clemendot,B-Series,2007,6.29
+Jobyna Deal,M5,2009,6.41
+Elbertine McGeneay,Ram 2500 Club,1996,14.62
+Dorette Skahill,riolet,1998,14.74
+Dyann Vidgeon,Swift,2001,6.66
+Flossy Gouch,Colt Vista,1993,4.56
+Chas Gurley,Mighty Max,1992,8.55
+Nye Bearn,XK,2006,10.85
+Caroline Marshalleck,Elantra,2003,12.37
+Luz Gherardelli,Breeze,1998,2.97
+Jeremias Amyes,Amigo,1992,11.22
+Cyb O'Murtagh,Ram 1500,2006,4.6
+Jillene Blabie,Express 3500,2000,10.36
+Archy Lowrie,E-Class,1992,6.75
+Nada Hyams,Caravan,1992,10.72
+Wendie Matuschek,Esprit,2004,6.05
+Charlton Haggas,Escort,1990,8.26
+Idelle Speechly,Grand Cherokee,2007,13.98
+Brittani Gorham,Silverado,2003,9.57
+Fulton Ewins,Protege,1992,9.08
+Ernestus Yendall,Envoy XUV,2004,12.46
+Rana Philippeaux,5 Series,2000,2.83
+Sunshine Eyers,S40,2007,9.96
+Taddeusz Arnaudet,Terraza,2007,2.36
+Berk Grundon,Corvette,1966,5.88
+Shurlock Goodbourn,Sparrow,1999,13.83
+Wilmer Donaho,F250,1999,8.47
+Sheree Bricknall,Tempest,1967,7.12
+Valerye Corballis,GTI,1999,6.25
+Carol Kulver,325,2004,14.6
+Bertie Gunton,MPV,2004,7.08
+Jarvis Meysham,Grand Prix,1969,10.45
+Minetta Gaisford,Pajero,1999,3.47
+Peyter De Ruggiero,M3,2006,12.35
+Lenard Demange,Rainier,2004,14.44
+Juan Welland,Vibe,2003,5.63
+Taddeusz Crayk,Savana 1500,1998,6.12
+Godwin Siseland,Murano,2009,3.11
+Merwyn Haydney,Savana 1500,2002,5.23
+Lynne O'Cannovane,GTI,1992,7.59
+Brook Shynn,Q7,2010,3.17
+Frankie Whitney,GTI,1998,12.74
+Riccardo June,Mirage,1999,14.9
+Claudina Mawhinney,Jetta,1987,3.71
+Brietta Dannell,Sierra 2500,2010,6.87
+Gwenni Titmuss,Grand Prix,1978,9.79
+Andrey Sikora,Lumina,1999,4.78
+Mufinella Danaher,300,2006,10.12
+Mile Berisford,100,1992,4.46
+Mallory MacAscaidh,Caravan,2005,4.78
+Angelika Mohring,New Beetle,2004,2.93
+Alick Ligerton,Ram Van 1500,2000,11.88
+Edgardo Peyes,Bonneville,1966,7.12
+Tull Tows,924,1988,14.57
+Kandy Bulfoy,S-Series,1996,6.06
+Sula Kinnon,Savana 1500,2000,6.08
+Stillman Langston,XK,2010,13.38
+Chrisy Fellgett,MKT,2013,11.32
+Natasha Spur,Crown Victoria,2009,12.03
+Josefina Brahams,Cayenne,2009,8.56
+Frederic Howler,200SX,1998,10.16
+Remus Allnutt,Riviera,1988,13.27
+Ellsworth Bruna,STS,2006,4.0
+Jodi Freddi,Tempo,1988,6.3
+Eveleen Heading,Phaeton,2006,7.7
+Rolf Corder,4Runner,2009,13.9
+Mame Brelsford,Grand Marquis,2005,10.67
+Ange Pontain,Grand Marquis,1985,14.96
+Demetrius Shevlan,Corvette,1959,3.85
+Madel Govey,Xtra,1994,8.59
+Skip Durrington,Ram Van 3500,2003,8.06
+Brody Pearle,Explorer Sport,2000,2.53
+Carine Di Franceshci,Supra,1997,12.96
+Bella Gehricke,Spirit,1994,14.35
+Marlowe Casari,Charger,2007,11.45
+Adelle Haistwell,CX-7,2007,10.84
+Gareth Pitcock,Sequoia,2007,3.88
+Dawna Ucchino,Envoy,2008,10.07
+Druci Lenaghen,GL-Class,2010,5.16
+Ardath Seaking,Express 2500,2011,14.11
+Julissa Sarson,Sedona,2012,12.77
+Codi Verrill,Grand Prix,1995,10.53
+Jeff Rickaert,300ZX,1996,9.58
+Nona Veltman,Savana 3500,2001,14.34
+Flinn Faier,B-Series,1991,2.89
+Inger Braid,Sierra 2500,2007,6.15
+Isaac Bassick,LS,2001,4.98
+Randi Gurnell,Voyager,1992,5.4
+Ashlie Eades,500SEL,1993,10.86
+Nikoletta Fitzsymon,C70,2000,3.86
+Lalo Berger,E-350 Super Duty,2006,9.84
+Fax Flye,S40,2004,6.0
+Wilow Saladino,Q,1992,3.17
+Frank Feavers,Hombre Space,1998,14.88
+Tyler Whitely,Maxima,2004,11.05
+Delmore Challicum,CL-Class,2005,4.9
+Winna Kibbe,Cougar,1992,4.82
+Fabio Sadat,Justy,1987,13.61
+Forester Cammacke,Tucson,2007,11.69
+Aurilia Jouannin,Festiva,1990,10.76
+Melisa Putley,Elantra,2012,9.19
+Nikolia Cavie,Outlander,2009,5.37
+Ferris Fesby,Continental,1991,14.71
+Sidoney Favel,Seville,1999,6.58
+Aloin Clyne,Corvette,2004,12.1
+Andree MacMakin,Yukon,2012,12.39
+Laney Coggins,Neon,1996,10.68
+Pattin Forlong,CL-Class,2012,11.91
+Moises Berardt,200SX,1996,11.64
+Osgood Mordaunt,S-Class,2001,11.62
+Roley Sabban,Ram 3500 Club,1997,6.2
+Arabelle Commander,Daewoo Magnus,2005,9.21
+Pauly Stearley,S-Type,2008,3.61
+Dylan Loveredge,B-Series Plus,2000,13.74
+Cindy Kilshall,Caravan,2002,8.31
+Port Crackett,Ram Wagon B250,1994,13.46
+Ula Spat,Montero Sport,1997,7.82
+Lenci D'Aubney,Tercel,1993,3.0
+Lainey Sleet,RAV4,1998,3.2
+Augie Samudio,SJ,1991,13.32
+Leonie McGinly,Riviera,1991,6.33
+Cassaundra Nijssen,Accord,1986,6.59
+Goldia Barlee,745,2004,14.59
+Eloisa O'Keeffe,S4,2007,13.37
+Yorgo Lindenman,Ram 2500,2004,6.57
+Kimball Beech,LeSabre,2000,9.13
+Luigi Jurisch,Discovery,1994,3.49
+Sarene Gligori,Grand Caravan,2002,2.44
+Lilia Dignum,Tempo,1994,4.19
+Ruggiero Hugonnet,F-Series Super Duty,2007,12.46
+Townsend Camilli,911,1997,7.52
+Gary Habbal,Park Avenue,1997,4.03
+Galven Linzey,62,2011,13.57
+Rhona Bollins,Matrix,2006,4.01
+Abra Brannan,Range Rover,2012,3.94
+Ynez Rudgerd,Town Car,1996,10.58
+Koren Novotna,TSX,2010,14.78
+Olia Bozworth,GTI,2001,6.38
+Danie Slateford,Sierra,2009,3.06
+Felike Mulrooney,Golf,1989,4.87
+Zuzana Steddall,599 GTB Fiorano,2008,2.77
+Homer Antoniades,Mustang,2005,14.8
+Drucy Chadney,XT,1990,12.37
+Christal Piscot,GX,2007,11.6
+Shannon Rittmeier,Caliber,2011,9.23
+Serene Doodney,XC90,2011,11.21
+Gibb Callway,S60,2002,7.65
+Rosemonde Emeny,A4,2006,7.78
+Millisent Henstone,Charger,2012,13.61
+Kristen Penswick,Ram Van B350,1992,12.32
+Rea Lark,Murciélago,2002,14.59
+Eduardo Relton,Q,2004,2.12
+Devi Purches,Santa Fe,2011,7.28
+Emmanuel Omond,Cube,2009,11.31
+Kimberlee Busek,S-Series,1995,6.72
+Beret Bailes,Ram Van 2500,2000,9.11
+Corella Warkup,5 Series,2002,12.69
+Anjanette Ratcliff,Passat,1985,6.27
+Randal Cuniffe,Montero,1997,6.54
+Maurizio Hazlehurst,Avalon,2012,4.45
+Caty Barreau,PT Cruiser,2004,2.63
+Lorelle Semmens,Cube,2009,11.14
+Julieta Scutchin,Truck,1992,7.82
+Daisi Sacaze,Exige,2009,6.96
+Jared Chomley,Fiero,1987,6.62
+Parker Kohnert,Torrent,2008,8.58
+Niels Yukhnov,Viper,2001,5.66
+Fleurette Duffield,Caravan,1985,8.37
+Sawyere Kincla,599 GTB Fiorano,2010,2.35
+Alica Nise,Celica,1976,3.24
+Brear Piggins,Landaulet,2011,3.69
+Kessia Counter,Excursion,2001,14.58
+Isabelita Ortler,X-Type,2006,2.81
+Avis McGreay,Camaro,1979,14.35
+Maurise Gallety,EX,2011,4.96
+Geraldine Lendrem,Continental Flying Spur,2006,5.06
+Wittie Matyushenko,G-Class,2003,10.06
+Franky Pridmore,IS,2008,13.78
+Annie Ponton,Esprit,1996,4.1
+Liliane Manueli,Esteem,1998,9.75
+Egbert Keesman,E-Class,1996,13.04
+Reggie Innes,Mini Cooper S,1963,5.72
+Basile Hallows,Camaro,1993,9.13
+Anabella Gyves,Montego,2005,4.01
+Luz Brashier,M,2009,2.07
+Feodora Curgenuer,Grand Prix,1996,12.69
+Brewer Thrower,Armada,2006,4.77
+Coreen Ramlot,Firefly,1990,6.8
+Waring Fishpond,Reno,2008,3.39
+Shaina Schroeder,Magnum,2008,4.04
+Alexandra Jaffa,Savana 1500,2007,13.16
+Adiana Dew,Laser,1985,9.56
+Orelia Leys,Sportvan G30,1994,12.43
+Nathaniel Rayhill,XL-7,2005,11.36
+Harmonie Blackstone,57,2008,10.8
+Hayes McKeaveney,GT,2005,6.59
+Lanny Boncoeur,Silverado 3500,2005,12.68
+Rossy Tandy,Odyssey,2008,6.43
+Kandace Matej,TrailBlazer,2009,12.34
+Del Melody,M-Class,2003,6.02
+Hally Jakubski,Bonneville,1993,14.59
+Frasquito Whitely,Space,1994,8.43
+Harwell Crosfield,Ram 2500,1995,11.59
+Maribel Jarry,Previa,1993,4.43
+Cristi Monument,Riviera,1990,3.21
+Steffie Lethebridge,Roadmaster,1996,14.88
+Lexine Stait,Astro,1996,8.71
+Denis Synnot,Previa,1991,3.71
+Shoshana Dreher,Dakota,2010,6.38
+Anna-diana Elden,E-Series,1989,10.63
+Hanson Monument,Pilot,2011,10.9
+Garrick Rivitt,Somerset,1987,7.93
+Evonne Ambrozewicz,Spyder,2002,11.0
+Ashton Rogeon,GS,2006,5.58
+Antonin Grindall,Odyssey,2002,5.09
+Hinze Telford,Prizm,1994,3.92
+Cassi Rankmore,Magnum,2007,2.4
+Janna Tellesson,F150,2003,2.85
+Shaun Wilcocke,Astro,1999,5.12
+Allin Moxon,XL7,2007,11.53
+Jenna Guirau,8 Series,1996,12.43
+Ronnie Epton,Spectra,2007,9.04
+Vlad Kubyszek,Regal,2012,12.35
+Ardys Moquin,G37,2011,15.0
+Glynnis Dorkin,Mentor,1997,6.7
+Egor Cosbee,Pilot,2005,14.31
+Imelda Wardlaw,Grand Caravan,1994,7.53
+Kayla Girodier,Colorado,2007,8.24
+Cariotta Dowdam,Miata MX-5,2002,4.69
+Ginelle Pinchback,Odyssey,2002,4.62
+Bary Bowshire,Nubira,2001,5.55
+Derron Scimonelli,Regal,1990,14.69
+Trenna Reckus,Mazda3,2011,6.63
+Fernandina Andrys,Outlander,2012,14.83
+Tricia Kapelhoff,Corvette,2005,14.26
+Brooks Lynam,xA,2004,11.74
+Ulrica Bernini,Spyder,1990,8.56
+Darius Guarnier,Armada,2007,5.14
+Addy Shimmings,Monte Carlo,1996,6.38
+Phillip Bruyet,3 Series,1994,2.6
+Ric Purrier,Expedition,1997,3.69
+Aggy Sinderson,Mazda5,2008,5.95
+Mischa Inston,G37,2010,12.64
+Jill Courteney,Frontier,2009,12.55
+Chrysler Jori,3500,1995,3.58
+Farr O'Caine,Grand Prix,1994,4.61
+Bobbi McDell,Evora,2012,4.21
+Rubin Picton,SC,1998,14.59
+Flossy Wagerfield,Cobalt,2006,3.53
+Sunny Warrior,Catera,2000,10.79
+Lark Kibblewhite,Range Rover,1990,13.18
+Bartholomeus Foulger,Sonoma,1994,7.2
+Amandie Spinetti,Mazda6,2010,5.93
+Kayla Towl,SL-Class,2003,4.01
+Sarge Merring,XL-7,2001,7.21
+Brenden Greenan,Suburban 2500,2002,9.47
+Richardo Tailour,CL-Class,2001,5.46
+Poul Sancraft,Tiburon,2006,4.72
+Ange McKew,Tucson,2008,14.4
+Gui Dawley,Highlander,2005,14.05
+Rossy Le Fleming,XL-7,2008,9.13
+Eolanda Slemming,Sidekick,1998,2.82
+Jeralee Penright,Tacoma,2008,9.26
+Amie Honisch,S60,2005,3.97
+Elsinore Cellone,Altima,2004,9.37
+Naomi Katzmann,Mazda6,2005,5.12
+Brinn Keyzor,XLR-V,2008,10.83
+Halli Shacklady,Focus,2013,14.14
+Barris Sheach,57,2008,4.97
+Silva Semorad,CL-Class,2004,14.41
+Wood Divall,V70,1999,5.97
+Ulla Wherrit,Cayman,2007,2.69
+Kellen Klimpke,Durango,2000,7.37
+Ginnie MacTrustram,Somerset,1987,4.04
+Arluene Rosiello,M3,1995,14.35
+Veronica Raoux,F-350 Super Duty,2006,3.13
+Jeffie Fowle,Grand Marquis,1994,7.84
+Symon Karsh,S2000,2000,9.84
+Tim Ferreres,Aerostar,1988,7.69
+Manya Downs,MDX,2003,7.57
+Donni Simmank,Five Hundred,2006,5.59
+Damara Rodgier,Continental,1993,4.91
+Codie De Pero,Suburban 1500,1998,13.82
+Pepillo Wabb,Continental,2012,11.44
+Sorcha Sparshett,Tahoe,2006,5.1
+Addia Lamblot,Sebring,2008,4.27
+Diana Matuszynski,62,2012,10.66
+Cherin Heatherington,Impreza,1995,8.12
+Pippa Estoile,Aerostar,1992,10.68
+Wendie Jocelyn,S-Class,2012,11.19
+Ginny Hackworth,S-Series,1997,2.82
+Adriana Pietzke,Grand Caravan,2001,9.95
+Lanny Cannam,Elantra,1993,7.68
+Jacquelin Tivnan,Reatta,1991,7.97
+Reed Seabrocke,Laser,1991,3.34
+Shelley Cheverton,GX,2008,4.57
+Pia Cowerd,Commander,2006,6.66
+Gustavus Rottery,RAV4,2010,5.91
+Ania Brisse,Neon,2004,2.17
+Elden Loud,GTI,2003,3.53
+Adolphus Wendover,SL-Class,1988,2.72
+Allsun Cortnay,DeVille,2001,7.41
+Annabelle Rennix,Sentra,2010,13.89
+Eli Legging,LHS,1997,3.89
+Willabella Rodenburg,Talon,1992,14.4
+Cecelia Parlott,Prowler,2000,13.08
+Jedidiah Kurth,Century,1991,13.48
+Annemarie Rivitt,E150,2010,10.84
+Thornton O'Shee,E-Class,1987,12.16
+Lorin Earengey,Talon,1990,2.23
+Babette Peeters,RX-7,1993,9.39
+Westleigh Pidcock,M-Class,2000,14.01
+Frederica Rounce,Vitara,2002,12.81
+Em Vauls,Entourage,2008,12.31
+Adan Atherton,R8,2011,9.99
+Chadd Ormerod,F150,2011,6.27
+Mata Redsell,Carens,2009,5.14
+Brunhilde Wilcox,Jetta III,1993,11.12
+Jeff MacLeod,2500,1997,12.22
+Corilla Caldicot,Eclipse,2000,12.91
+Niccolo Dockrey,Q,2001,4.59
+Danya Watkin,Corolla,1993,2.75
+Mitzi Ambrosetti,Town Car,2004,3.14
+Cheston Citrine,Continental Mark VII,1988,12.99
+Auria Scaddon,850,1995,2.25
+Kyle Jocelyn,Ram 1500 Club,2000,4.68
+Nola Rosenboim,Grand Marquis,1990,11.76
+Zollie Jefferys,Genesis,2009,12.07
+Irvin Clink,Express 2500,2004,6.76
+Corty Rawsen,GX,2011,4.24
+Meridel Bille,RL,2004,13.19
+Matty Yanez,Stratus,2001,7.58
+Arleyne Marsie,W126,1981,14.34
+Cletus Risson,TSX,2009,13.24
+Jedidiah Scurrey,Savana 2500,1997,6.62
+Archer Heald,Esprit,1997,13.12
+Karoly Lowers,Z4,2012,7.23
+Allen Hehnke,Escalade,2004,11.65
+Lindsay Carcas,F-Series,1994,13.59
+Lind Pollie,Stylus,1993,5.18
+Ilka Siley,Grand Cherokee,2005,11.51
+Jillana Lorie,Tahoe,2006,4.9
+Jules Zanicchelli,Grand Marquis,1989,11.41
+Georgi Rubra,Alcyone SVX,1992,11.88
+Stephana Leyland,Familia,1985,7.36
+Berne Petrescu,Camaro,1970,3.86
+Stavro Andrysiak,Express,2010,13.97
+Winna Tuftin,Vandura G1500,1995,3.4
+Boyd Sirkett,RL,2003,6.37
+Odette Venediktov,Skylark,1992,13.14
+Elfrida Wondraschek,Grand Prix,1966,6.71
+Annadiana Lashmar,Nitro,2010,6.6
+Lorenzo Begg,Range Rover,2011,14.03
+Ruthann Dorbin,Skyhawk,1989,2.78
+Faustine Americi,Firefly,1984,7.01
+Vilhelmina Matijasevic,HS,2011,7.77
+Maressa Lightbourne,E150,1984,2.87
+Alexi New,Dakota,1995,3.59
+Filmer Scott,Silverado 3500,2001,9.82
+Gil Tunney,Sunbird,1987,12.25
+Star Gascone,Neon,1999,5.05
+Neddie Thornewill,Cavalier,2004,4.61
+Sherill Eaton,Envoy,2003,2.03
+Ibrahim Cardoso,3000GT,1995,4.29
+Amerigo Edeson,GX,2008,3.24
+Erika Standage,Grand Prix,1982,4.31
+Taite Kharchinski,MKZ,2007,5.92
+Beauregard Kann,Outlook,2009,13.65
+Blisse Rowson,Rodeo,2001,9.25
+Pier McGinly,del Sol,1997,2.63
+Marian Beak,MKZ,2012,2.25
+Waylan Dissman,300ZX,1992,6.31
+Damara Hayen,Mustang,1965,2.36
+Monica Rozier,Express 2500,1999,4.69
+Donni Suthren,Century,1996,14.8
+Andee Really,Cavalier,1994,5.01
+Hasheem Swannick,Eclipse,2012,14.41
+Candi Iacovino,Reatta,1990,7.41
+Raquel Medlin,Savana 3500,2011,6.3
+Rupert Horbart,E-Series,1995,12.85
+Andris Currall,F150,1984,12.69
+Carol-jean Ghiotto,2500,2000,9.57
+Rutherford Elliot,del Sol,1993,9.15
+Damiano Aymes,S90,1998,2.03
+Gwennie Revelle,Accent,2002,4.3
+Laraine Guillon,5000S,1985,11.27
+Lorita Berends,Cirrus,1996,9.01
+Harrietta Paoletti,Boxster,2008,12.9
+Rafa Arndell,Tacoma,2009,2.52
+Rodrigo Kitchen,Sidekick,1996,5.0
+Corrie Lidyard,Mulsanne,2012,12.73
+Loutitia Guiduzzi,S-Class,2001,12.06
+Fabiano Shurrock,Azera,2010,13.07
+Zonnya Foker,Mirage,1994,13.73
+Vanna Van den Velden,6000,1988,3.27
+Aryn Tort,Rio,2007,3.84
+Pierson Brion,LR3,2008,11.96
+Garrek Bradbrook,Impreza,2006,3.83
+Sigismundo Douthwaite,Tredia,1985,5.63
+Theo Ormistone,IS,2008,13.54
+Aveline Franey,XT,1989,14.99
+Barth Seville,B-Series Plus,1992,5.47
+Griffith Warhurst,626,1988,7.17
+Coletta Hebburn,Bel Air,1967,5.29
+Clio Pobjoy,Brat,1987,10.69
+Omar Cockhill,Canyon,2006,8.96
+Letty Chestle,QX56,2007,10.52
+Rodolphe Wookey,Thunderbird,1990,9.82
+Cassius Blenkensop,300M,2000,2.15
+Munmro Kemster,Montero,2002,9.16
+Jackie MacDuffie,Cutlass,1998,4.43
+Rouvin Weinmann,Grand Prix,1994,9.88
+Roderic Aire,350Z,2005,5.83
+Theda Chastan,4Runner,1992,5.85
+Sheffield Giacobazzi,S6,2008,6.01
+Janaye McKernon,TSX,2005,4.21
+Glori Waymont,RS6,2003,11.47
+Jami Gierek,Range Rover Sport,2008,4.59
+Cortney Menguy,Fairlane,1965,10.22
+Putnem Lattimer,Xterra,2011,2.38
+Frazier Schruyer,X-90,1998,3.93
+Claudio Quartley,V70,2009,3.46
+Worden Morigan,DeVille,2003,7.22
+Tommy Tyhurst,Skyhawk,1987,12.07
+Cyndia Hancox,4Runner,1994,13.73
+Jasmine Vautrey,90,1990,8.37
+Fionnula McConnel,944,1983,5.3
+Pace Raith,JUKE,2011,2.28
+Floris Amorine,Crown Victoria,1994,12.7
+Marleah Poytheras,X5,2006,8.77
+Winnie Misson,Allante,1993,11.48
+Phillip Loftie,Outback,2010,11.02
+Marita Merrin,Monterey,2007,10.45
+Livvy Clare,Crown Victoria,1996,8.46
+Davey Riddall,A6,1995,2.51
+Frank Reddish,RAV4,2006,7.33
+Dina Tollerton,G-Class,2004,5.79
+Conway Broady,Ram 3500,2005,2.52
+Ekaterina Saintsbury,Q,1996,11.15
+Salomon Mager,Grand Vitara,2006,13.55
+Virge Bresson,QX,2005,12.61
+Kamilah Reolfo,Explorer,2013,2.58
+Clari Garrud,TrailBlazer,2005,9.57
+Avie Nendick,Mazda3,2012,12.63
+Jerrold Tyres,Grand Am,1987,10.78
+Riva MacDermand,GTI,1996,9.03
+Leta Fone,500SEL,1993,12.27
+Kile Guinery,IS,2001,2.42
+Jourdan Pallent,Fit,2009,10.44
+Lyn Ayers,CLS-Class,2011,10.47
+Cirstoforo Elies,Vantage,2007,3.52
+Anatollo Greatorex,Rogue,2012,13.37
+Winfield Wase,Dakota,1993,4.72
+Zabrina Eloi,Caprice,1996,3.73
+Rhodie Gittings,LeSabre,1994,8.47
+Kate Wilkennson,Viper,1996,13.86
+Prent Faires,G,1992,12.91
+Willa McPharlain,Tacoma,2008,7.96
+Sheba Wabe,Escape,2000,7.48
+Oliviero Paske,HHR Panel,2006,10.74
+Giordano Battle,Flex,2013,12.72
+Sandra Vogel,Impreza,2001,4.13
+Elwira Duns,Daewoo Lacetti,2008,13.39
+Hamlen Guidetti,E350,2005,5.05
+Rosita Langdon,Pathfinder,2008,13.11
+Cordelie Painter,7 Series,1996,7.65
+Karleen Dymoke,C-Class,2012,9.93
+Greg Call,Rodeo,1996,9.59
+Stefanie Donalson,Z3,1997,2.39
+Quinton Nelissen,Lancer,2007,9.62
+Kippie Jobey,Windstar,1998,3.69
+Joane Bonallack,1500,2012,3.89
+Adrian Duigenan,Optima,2001,8.99
+Rudolfo Priddy,Sequoia,2001,13.82
+Kamillah Wrigglesworth,Titan,2010,4.83
+Ingmar Botterell,Eldorado,2000,3.08
+Astra Conyers,599 GTB Fiorano,2009,6.37
+Griffith Ambrozik,911,1999,13.93
+Cahra de Savery,Forte,2010,14.43
+Reggi McCreagh,Econoline E250,1996,8.69
+Aileen Cutforth,F-Series,1985,3.14
+Pierson Espinoza,Topaz,1994,4.27
+Bryana Conechie,Familia,1985,9.5
+Faun Crame,Mazda6,2003,10.04
+Eudora Alenichicov,Rally Wagon 3500,1992,9.22
+Lyndell Lukins,Solara,2002,5.26
+Darcy Bettis,Mazda3,2007,5.75
+Colin Jellings,Camaro,1969,11.14
+Devy Carsey,900,1986,11.1
+Rocky Barnwille,Spectra,2001,14.06
+Cobby Sivyour,Mustang,2000,12.59
+Marylee Eden,Ram Wagon B350,1992,12.03
+Gillan Brauner,Eldorado,1995,6.4
+Emylee Olohan,Dakota,2005,3.68
+Harland Elen,Voyager,1997,11.39
+Gert Brear,Justy,1988,12.42
+Mattie Morillas,760,2004,2.29
+Venus Sayer,MR2,1985,4.62
+Linnell Pippin,5 Series,2008,5.76
+Jeffie O'Hollegan,300CE,1993,8.46
+Monroe Terzo,Nitro,2010,5.0
+Hali Tunstall,New Yorker,1996,5.84
+Joell Strelitz,Expedition EL,2011,10.17
+Guglielma Skingley,760,2006,7.43
+Eunice Braznell,Enclave,2012,13.61
+Richmound Conaghy,911,2001,7.2
+Heather Emlen,Intrepid,1997,11.03
+Trueman Skeggs,Aztek,2003,7.36
+Devy Pacht,R8,2008,9.72
+Faydra MacConnell,Dynasty,1992,8.47
+Lianna Bane,Explorer,1991,8.5
+Gustavo Holdey,Viper RT/10,1995,3.02
+Damara Salzburger,TL,2005,4.87
+Juliana Dirr,LaCrosse,2011,6.24
+Herb Sinkin,Gallardo,2006,11.71
+Sig Paylie,B-Series Plus,1996,3.62
+Meta Petch,Prowler,2002,5.48
+Jannelle Patching,F250,2005,7.4
+Clarie Redihalgh,Santa Fe,2010,4.89
+Julio Billsberry,Firebird Formula,1992,4.94
+Orsola Duddin,Econoline E350,1998,6.93
+Vladimir Hanigan,G25,2011,14.61
+Archibold Fountaine,Dakota Club,1994,3.1
+Alison Chapling,MPV,1989,9.73
+Jodie Branchett,CR-Z,2012,11.02
+Adam Wannan,Scirocco,1988,4.78
+Myer Limpertz,Swift,1995,9.95
+Edithe Alessandrucci,Accord,2011,7.69
+Meade Soonhouse,Daewoo Kalos,2005,2.02
+Fifine Delacourt,Silverado 1500,2005,10.53
+Phillida Di Antonio,Corvette,1968,2.03
+Drusi Groucock,Z4 M,2007,3.45
+Beryle Kinsley,Escape,2008,10.61
+Ruperta Tack,LeSabre,2002,4.5
+Clarey Hurton,Lanos,2001,5.97
+Rena Badman,Leone,1989,9.56
+Elianore Ducker,Suburban 1500,2012,2.84
+Hedvige Cardenoso,Skylark,1996,7.47
+Pincus Moggan,Yukon,1998,9.65
+Odelle Schorah,Ram 2500,1994,5.48
+Stacee Jennick,Optima,2006,4.43
+Angel Figgess,Laser,1984,13.08
+See Critcher,Z4,2009,11.66
+Franciska Vasyukhin,Yukon,1999,11.14
+Cairistiona Byles,Corvette,2000,13.38
+Georgianna Hanner,Pilot,2007,3.12
+Vikki Grombridge,Frontier,2007,12.76
+Modestia Purcer,Impala,2008,3.1
+Trumann Pickerin,Amigo,1993,7.07
+Muffin Kop,Montero,1996,10.12
+Val MacKartan,Bonneville,1999,14.46
+Vivyanne Gibbon,Pajero,2006,4.02
+Suzy Shillitto,2500 Club Coupe,1995,13.7
+Jamison Heintz,S80,1999,10.05
+Ciro Redsell,Avalanche 2500,2004,11.66
+Rebbecca Tetlow,Vantage,2011,14.95
+Pavel Collings,S5,2009,8.35
+Mead Gosforth,Quest,1996,8.66
+Persis Worlidge,Malibu,2009,10.27
+Fancie Goldston,E250,2004,14.27
+Shaughn Dayes,H1,1997,4.5
+Teddie Dredge,Crown Victoria,2011,7.7
+Christoforo Jennings,C70,2003,5.07
+Cordy Keatch,HS,2010,4.0
+Nicholle Caps,Voyager,2001,8.01
+Valery Allsop,Solara,2001,11.24
+Adriena Normaville,Town Car,1989,4.44
+Tonye Hirth,Legacy,1998,10.08
+Wildon Trusse,599 GTB Fiorano,2007,4.12
+Rinaldo Clines,SC,2004,4.56
+Sargent Cisland,Durango,2004,12.95
+Ike MacDonell,Equinox,2009,7.64
+Gael Goaley,SL-Class,1998,5.25
+Ernestus Tamplin,Impreza,2003,4.25
+Malachi Whyborn,Breeze,1997,8.63
+Moina Grigoire,GT-R,2012,4.14
+Ilyse Brokenshire,Mustang,1984,13.77
+Travers Willoughby,Maxima,2003,14.56
+Missie Dooney,Integra,1994,7.06
+Hart Forestall,944,1986,13.34
+Ky Polgreen,i-350,2006,5.01
+Sorcha Bignold,Sebring,2001,8.62
+Darnell Kembry,Neon,2001,14.31
+Esther Methringham,Compass,2008,9.96
+Land Lux,Econoline E150,1993,13.51
+Jocelin Ocheltree,Solara,2003,10.46
+Thebault Drever,Firefly,1991,5.94
+Ofilia Umpleby,645,2005,8.34
+Fiann Gueny,Fusion,2010,12.23
+Brant Ivchenko,TSX,2006,10.71
+Leslie Arro,SJ,1985,8.47
+Guglielma Pickervance,SLK-Class,2009,5.81
+Garner Jacketts,Mazda6,2012,6.42
+Eirena Clerk,Discovery,2007,2.0
+Bernetta Grunwall,Caravan,2005,14.33
+Townsend Tombleson,Sportage,2009,11.03
+Jay Wigsell,Passat,1995,4.89
+Celisse McKeran,Sonoma,1995,10.46
+Marjy Phlippi,CL-Class,2002,8.92
+Melantha Boarder,Park Avenue,2002,9.4
+Danni Malinowski,D150 Club,1992,9.87
+Ruby Dautry,Expedition,2010,7.1
+Clayton Latchford,Thunderbird,1965,6.64
+Ginevra Reader,MPV,1991,14.91
+Birdie Gilhool,900,1985,2.7
+Sigismond Growcock,Mark VIII,1997,12.49
+Teresita Cregan,Tribeca,2008,2.26
+Ted Bagguley,Malibu,2005,13.48
+Rabbi Frensche,Jetta III,1993,3.83
+Sylvia Mackerness,TrailBlazer,2005,11.66
+Carmon Torresi,SRX,2008,9.33
+April Tipple,Exige,2012,3.01
+Kaylil Dauney,Yukon XL 1500,2008,2.39
+Dru Bloomfield,Sedona,2003,14.14
+Harwell Trownson,Express 1500,2011,7.79
+Micaela Dymocke,LR3,2009,3.34
+Dal Corbert,Gallardo,2004,4.79
+Ailee Bullus,Highlander,2003,5.22
+Lyndsay Cornes,Jetta,2001,10.55
+Ethel Whitington,Catera,2001,7.19
+Gene Fitzroy,Silverado 2500,2000,7.17
+Burtie Finnis,Breeze,1998,8.02
+Bartholemy Inglesant,Ranger,2008,2.23
+Tim Burnie,Regal,1990,4.52
+Thalia Ritmeier,Envoy,2000,5.09
+Johnna Kitcat,MR2,2004,3.89
+Thom Isaak,L-Series,2003,7.05
+Derwin Goodlet,S-Type,2003,11.66
+Pip Maffucci,Imperial,1926,12.4
+Drew Froment,SRX,2010,13.74
+Gillan McLorinan,Lancer,2002,10.14
+Ryon Chamney,Land Cruiser,1993,10.1
+Dianemarie Oliva,Fit,2009,8.63
+Caril Tichner,Montana,2001,11.94
+Emmi Crozier,Camaro,1968,3.66
+Gratia Neame,XC70,2008,9.47
+Neil Conville,626,2001,9.23
+Eustace Jarritt,APV,1993,9.12
+Annabela Simmonite,Sky,2008,11.58
+Carmine Pickance,Aveo,2006,8.04
+Pammy Rose,ES,2006,2.26
+Giovanna Herrieven,Milan,2008,3.01
+Sissie Camocke,EXP,1986,14.73
+Allen Kemmey,XG350,2002,5.8
+Winifield Cawthry,Avalon,1997,11.17
+Blondy MacPaden,Spectra,2007,8.6
+Cross Broadbere,X3,2004,12.01
+Trev Castellone,Camaro,1978,6.25
+Livvy Marcam,Mountaineer,2005,7.7
+Theodoric McLewd,LeSabre,1993,6.77
+Jay Keggin,Highlander,2012,2.29
+Nikola Bardsley,HS,2011,13.77
+Skell Soares,Vibe,2006,12.42
+Libby Sharphouse,Bravada,1994,9.81
+Martina Loftin,9-3,2009,2.41
+Dasya Londors,Festiva,1993,13.61
+Emmy Jerisch,Grand Caravan,2010,9.03
+Marni Parratt,A4,1997,4.09
+Maddi Waplinton,Sportage,2010,4.98
+Innis Adderley,Sierra 3500,2001,10.86
+Alphard Leatham,Beretta,1994,9.98
+Greggory Faulder,Cherokee,1997,11.5
+Kylie Reina,GS,2007,7.17
+Bibbie Bagenal,Tacoma Xtra,2003,6.85
+Tomlin Cleugh,Freelander,2009,7.1
+Diannne Prester,NSX,2005,2.61
+Perice Poulett,Golf,1991,11.19
+Clemmie Polo,S-Type,2001,12.24
+Zechariah Fitzhenry,Suburban 1500,1996,7.58
+Maxi Halewood,Elantra,1993,11.77
+Eugenius Sanday,Coachbuilder,1992,10.43
+Xaviera O' Cuolahan,A8,2012,7.98
+Daron Iacomo,Grand Prix,1975,5.93
+Minda Van der Veldt,Lucerne,2006,2.62
+Agnese Penritt,xB,2005,8.52
+Fanya Itzkov,Tracker,1994,13.38
+Nickolai Jelphs,Safari,1987,10.11
+Elka Hamman,G,1999,10.09
+Pierrette Weeke,Marauder,2003,11.48
+Ceciley Alner,Aerostar,1997,2.92
+Tome Nerney,Savana 2500,2000,8.01
+Angil Tree,Boxster,2005,10.88
+Preston Handrick,Santa Fe,2004,10.3
+Magdalene Prickett,Express 2500,2002,8.64
+Amos Winslow,Ram,2009,9.42
+Miner Charle,C-Class,2012,5.4
+Cacilie Jerzak,Tracker,1993,11.35
+Martino Weeds,Astro,1998,7.28
+Frederique Adamides,Explorer,1999,2.38
+Corette Pinnocke,Riviera,1979,5.02
+Orazio Petrak,Express,2007,7.27
+Lanie Cypler,Maxima,2007,6.61
+Georgy Clarke,Silverado,2009,6.58
+Mommy Shrimpton,Aspire,1994,12.89
+Jed Larway,Xterra,2007,10.45
+Duke Carlet,T100,1994,6.43
+Dee dee Ahearne,Concorde,1993,5.14
+Emmaline Duligal,T100,1994,5.33
+Margaret Hearle,C70,2007,2.26
+Bartlett Yankeev,Legacy,2012,7.38
+Nevins Ladbury,Forester,2000,2.71
+Etty Kentwell,Voyager,2002,7.6
+Erie Abrahams,RVR,1992,14.46
+Clovis Hartop,Century,2002,14.69
+Hermine Sikora,Savana,2012,8.94
+Andrew Maryska,Tucson,2009,9.23
+Ronna Fairebrother,Edge,2007,9.22
+Jaclyn Giovannini,Ramcharger,1993,3.77
+Guenevere Hullyer,Lancer,2010,9.86
+West Anderbrugge,Talon,1997,10.14
+Emelyne Barden,Bronco,1986,11.85
+Tiphany Tabourier,QX,2005,13.8
+Avram Zannutti,RX,2009,7.48
+Mathe Loalday,ES,2009,14.47
+Cathi Astbery,430 Scuderia,2009,2.14
+Cyrill Mapstone,Ram Wagon B250,1993,5.21
+Curt Murra,Suburban 1500,2009,3.27
+Iosep Blanking,IS,2003,9.81
+Stefa Potkins,850,1996,10.75
+Eb Carlo,Sonata,2009,7.34
+Sigfried Gligoraci,612 Scaglietti,2009,10.81

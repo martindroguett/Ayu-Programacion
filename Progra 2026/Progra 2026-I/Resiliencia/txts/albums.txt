@@ -1,0 +1,58 @@
+A01,Midnights,13,9.2,2640
+A01,1989,16,9.5,3120
+A01,Red,14,8.9,3560
+A01,Folklore,17,9.4,3780
+A02,Parachutes,10,8.7,2480
+A02,Ghost Stories,9,8.0,2340
+A02,A Rush of Blood to the Head,11,9.1,3270
+A02,Mylo Xyloto,14,8.5,3420
+A03,Mañana Será Bonito,17,9.1,3960
+A03,KG0516,16,8.4,3720
+A03,Ocean,13,8.8,2980
+A04,After Hours,14,9.4,3360
+A04,Dawn FM,16,8.8,3840
+A04,Starboy,18,9.0,4320
+A05,Evolve,12,8.3,2760
+A05,Night Visions,13,9.0,3180
+A05,Mercury Act 1,15,8.2,3570
+A06,El Dorado,13,8.5,3050
+A06,Laundry Service,15,9.2,3900
+A06,Sale el Sol,11,8.4,2750
+A07,Divide,16,9.0,3880
+A07,Multiply,12,8.7,2890
+A07,Equals,14,8.5,3350
+A08,Future Nostalgia,11,9.3,2620
+A08,Dua Lipa,12,8.6,2940
+A08,Radical Optimism,13,8.8,3210
+A09,Un Verano Sin Ti,23,9.5,5520
+A09,YHLQMDLG,20,8.8,4800
+A09,Nadie Sabe Lo Que Va a Pasar Mañana,22,8.4,5170
+A10,AM,12,9.4,2920
+A10,Favourite Worst Nightmare,11,8.9,2680
+A10,Humbug,10,8.3,2510
+A11,21,11,9.6,2850
+A11,25,11,9.1,2980
+A11,30,12,8.9,3120
+A12,Doo-Wops and Hooligans,10,9.0,2470
+A12,Unorthodox Jukebox,11,8.8,2780
+A12,24K Magic,9,9.2,2210
+A13,Hybrid Theory,12,9.7,3010
+A13,Meteora,13,9.5,3180
+A13,Minutes to Midnight,12,8.6,2960
+A14,El Mal Querer,11,9.1,2630
+A14,Motomami,16,8.7,3870
+A15,Scorpion,25,8.5,6155
+A15,Views,20,8.8,4890
+A15,For All the Dogs,23,8.0,5710
+A16,When We All Fall Asleep,14,9.3,3320
+A16,Happier Than Ever,16,8.9,3810
+A17,Absolution,14,9.4,3440
+A17,Origin of Symmetry,11,9.5,2810
+A18,Master of Puppets,8,9.8,3280
+A18,Black Album,12,9.3,3720
+A18,Hardwired,12,8.1,3550
+A19,Feliz Cumpleaños Ferxxo,15,8.9,3620
+A19,Inter Shibuya,14,8.4,3310
+A20,Definitely Maybe,11,9.4,2740
+A20,Whats the Story Morning Glory,12,9.6,2970
+A20,Be Here Now,12,7.9,4310

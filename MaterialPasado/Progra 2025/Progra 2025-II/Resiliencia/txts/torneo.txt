@@ -1,0 +1,40 @@
+Universidad de Chile,3,8
+League of Legends,3
+Team Fury,1250
+Dark Legends,1180
+Phoenix Rising,1095
+Valorant,3
+Strike Force,1420
+Shadow Warriors,1355
+Elite Squad,1290
+Counter Strike,2
+Titan Gaming,1580
+Alpha Wolves,1465
+Universidad Catolica,2,6
+League of Legends,3
+Coastal Gamers,1320
+Pacific Storm,1285
+Ocean Warriors,1150
+Valorant,3
+Port Legends,1395
+Sea Raiders,1340
+Wave Breakers,1205
+Universidad de Concepcion,2,5
+Counter Strike,2
+Desert Eagles,1510
+Norte Gaming,1445
+League of Legends,3
+Mountain Kings,1225
+Serena Esports,1190
+Valley Champions,1075
+Universidad Tecnica Federico Santa Maria,3,7
+Valorant,2
+Southern Force,1405
+Rio Gamers,1370
+League of Legends,3
+Forest Legends,1295
+Concepcion Elite,1240
+Bio Warriors,1180
+Counter Strike,2
+Steel Gaming,1520
+Iron Squad,1480

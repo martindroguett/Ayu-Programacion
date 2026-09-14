@@ -1,0 +1,7 @@
+Lunes,800,23
+Martes,500,25
+Miercoles,600,20
+Jueves,200,30
+Viernes,1000,15
+Sabado,1000,20
+Domingo,1000,31
