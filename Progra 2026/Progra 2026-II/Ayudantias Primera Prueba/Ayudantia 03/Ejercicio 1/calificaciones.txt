@@ -1,0 +1,24 @@
+Shingeki no Kyojin,4.8,otaku_rodri
+Black Clover,3.2,asta_grita
+Death Note,4.3,light_yagami
+Hunter x Hunter,5.0,gon_freecss
+Black Clover,2.7,sasha_patata
+Shingeki no Kyojin,4.5,kakashi_sensei
+Hunter x Hunter,4.9,otaku_rodri
+Death Note,4.0,mikasa_ack
+Black Clover,4.1,yami_sukehiro
+Shingeki no Kyojin,5.0,sasha_patata
+Death Note,3.6,gon_freecss
+Hunter x Hunter,4.8,killua_zzz
+Hunter x Hunter,1.3,hater_del_hiatus
+Black Clover,1.8,light_yagami
+Shingeki no Kyojin,3.9,asta_grita
+Death Note,4.8,otaku_rodri
+Hunter x Hunter,4.9,mikasa_ack
+Death Note,2.4,hater_del_hiatus
+Black Clover,3.5,kakashi_sensei
+Shingeki no Kyojin,4.7,killua_zzz
+Death Note,4.5,yami_sukehiro
+Black Clover,2.9,otaku_rodri
+Hunter x Hunter,4.7,sasha_patata
+Shingeki no Kyojin,4.2,gon_freecss
