@@ -1,0 +1,25 @@
+Fecha 1
+Zarry y los Cuetas,Saxo Team,3,0
+Swifties,Piccies,2,0
+Ball,Los Sierra,4,3
+Indu Sex,Ititis,4,1
+Fecha 2
+Los Sierra,Indu Sex,3,4
+Piccies,Ball,1,1
+Ititis,Saxo Team,1,2
+Swifties,Zarry y los Cuetas,2,2
+Fecha 3
+Ball,Indu Sex,6,5
+Ititis,Swifties,3,3
+Saxo Team,Los Sierra,0,4
+Piccies,Zarry y los Cuetas,4,1
+Fecha 4
+Ititis,Piccies,3,3
+Los Sierra,Swifties,2,6
+Saxo Team,Indu Sex,3,4
+Ball,Zarry y los Cuetas,2,2
+Fecha 5
+Piccies,Los Sierra,2,2
+Ball,Saxo Team,5,2
+Swifties,Indu Sex,4,2
+Ititis,Zarry y los Cuetas,3,0
