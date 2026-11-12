@@ -119,6 +119,7 @@ def revisarFecha(fecha, arch):
         ganadoresFecha.append(f"{equipo1} ({goles1}) VS {equipo2} ({goles2}) -> Ganador: {ganador}")
 
     burbujaFecha(golesFecha, ganadoresFecha)
+    burbujaTabla()
 
     for i in range(len(golesFecha)):
         print(f"Goles totales: {golesFecha[i]} | {ganadoresFecha[i]}")
@@ -165,18 +166,18 @@ while (linea != ""):
 
     revisarFecha(fecha, arch)
 
-    print("=== TABLA FINAL ===")
-    verTabla()
-
-    print()
-    print("=== Podio ===")
-    print(f"Primer Lugar: {equipos[0]}")
-    print(f"Segundo Lugar: {equipos[1]}")
-    print(f"Tercer Lugar: {equipos[2]}")
-
-    print()
-    print(f"Equipo más goleador: {masGoleador()}")
-    print(f"Equipo más goleado: {masGoleado()}")
-    print(f"Promedio de goles: {promedioGoles()}")
-
     linea = arch.readline().strip()
+    
+print("=== TABLA FINAL ===")
+verTabla()
+
+print()
+print("=== Podio ===")
+print(f"Primer Lugar: {equipos[0]}")
+print(f"Segundo Lugar: {equipos[1]}")
+print(f"Tercer Lugar: {equipos[2]}")
+
+print()
+print(f"Equipo más goleador: {masGoleador()}")
+print(f"Equipo más goleado: {masGoleado()}")
+print(f"Promedio de goles: {promedioGoles()}")
